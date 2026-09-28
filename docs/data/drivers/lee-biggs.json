@@ -1,0 +1,152 @@
+{
+  "name": "Lee Biggs",
+  "slug": "lee-biggs",
+  "summary": {
+    "name": "Lee Biggs",
+    "slug": "lee-biggs",
+    "meetings_count": 5,
+    "attendance_pct": 11.4,
+    "total_laps": 275,
+    "a_final_wins": 0,
+    "a_final_podiums": 1,
+    "a_final_appearances": 5,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 20.0,
+    "a_final_avg_pos": 3.6,
+    "a_finals_by_class": {
+      "4WD Buggy": 2,
+      "Stadium Trucks": 3
+    },
+    "tqs": 1,
+    "classes": [
+      "4WD Buggy",
+      "Stadium Trucks"
+    ],
+    "best_lap": 22.2,
+    "metronome": 1.58,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "4WD Buggy": 24.09,
+      "Stadium Trucks": 22.2
+    },
+    "best_runs_per_class": {
+      "4WD Buggy": {
+        "laps": 12,
+        "seconds": 326.57,
+        "result_str": "12 / 326.57",
+        "meeting_date": "14-Apr-2024"
+      },
+      "Stadium Trucks": {
+        "laps": 13,
+        "seconds": 312.64,
+        "result_str": "13 / 312.64",
+        "meeting_date": "28-Jul-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 4,
+        "rank": 4,
+        "meeting_date": "14-Apr-2024",
+        "meeting_title": "TRCCC 2024 R1"
+      },
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 2,
+        "rank": 2,
+        "meeting_date": "22-Sep-2024",
+        "meeting_title": "TRCCC 2024 R12"
+      }
+    },
+    "highest_quals_per_class": {
+      "4WD Buggy": 1
+    },
+    "best10_per_class": {
+      "4WD Buggy": 24.96,
+      "Stadium Trucks": 23.22
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 13182,
+      "date": "22-Sep-2024",
+      "title": "TRCCC 2024 R12",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 2,
+      "laps": 10,
+      "total_seconds": 301.77,
+      "best_lap": 28.91,
+      "average_lap": 30.18,
+      "best10": 30.17
+    },
+    {
+      "meeting_id": 12879,
+      "date": "25-Aug-2024",
+      "title": "TRCCC 2024 R10",
+      "season": "23/24",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 326.77,
+      "best_lap": 27.86,
+      "average_lap": 29.71,
+      "best10": 29.46
+    },
+    {
+      "meeting_id": 12808,
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 4,
+      "laps": 13,
+      "total_seconds": 313.7,
+      "best_lap": 22.61,
+      "average_lap": 24.13,
+      "best10": 23.28
+    },
+    {
+      "meeting_id": 12603,
+      "date": "28-Jul-2024",
+      "title": "TRCCC 2024 R8",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 4,
+      "laps": 13,
+      "total_seconds": 312.64,
+      "best_lap": 22.45,
+      "average_lap": 24.05,
+      "best10": 23.22
+    },
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 4,
+      "laps": 12,
+      "total_seconds": 326.57,
+      "best_lap": 25.57,
+      "average_lap": 27.21,
+      "best10": 26.83
+    }
+  ]
+}

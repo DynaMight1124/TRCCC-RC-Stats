@@ -1,0 +1,123 @@
+{
+  "name": "Steve Harris",
+  "slug": "steve-harris",
+  "summary": {
+    "name": "Steve Harris",
+    "slug": "steve-harris",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 123,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 1,
+    "a_final_rate": 50.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 5.0,
+    "a_finals_by_class": {
+      "Stadium Trucks": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "Stadium Trucks",
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 27.57,
+    "metronome": 7.24,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Vintage / Rear Motor": 27.57,
+      "Stadium Trucks": 34.05
+    },
+    "best_runs_per_class": {
+      "Vintage / Rear Motor": {
+        "laps": 8,
+        "seconds": 316.73,
+        "result_str": "8 / 316.73",
+        "meeting_date": "12-Apr-2025"
+      },
+      "Stadium Trucks": {
+        "laps": 8,
+        "seconds": 310.25,
+        "result_str": "8 / 310.25",
+        "meeting_date": "12-Apr-2025"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Vintage / Rear Motor": {
+        "final": "B Final",
+        "position": 2,
+        "rank": 12,
+        "meeting_date": "12-Apr-2025",
+        "meeting_title": "TRCCC 2025 R1"
+      },
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 5,
+        "rank": 5,
+        "meeting_date": "12-Apr-2025",
+        "meeting_title": "TRCCC 2025 R1"
+      }
+    },
+    "highest_quals_per_class": {
+      "Vintage / Rear Motor": 12,
+      "Stadium Trucks": 7
+    },
+    "best10_per_class": {
+      "Vintage / Rear Motor": 31.18
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 15357,
+      "date": "12-Apr-2025",
+      "title": "TRCCC 2025 R1",
+      "season": "24/25",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 2,
+      "laps": 8,
+      "total_seconds": 316.73,
+      "best_lap": 34.97,
+      "average_lap": 39.59,
+      "best10": null
+    },
+    {
+      "meeting_id": 15357,
+      "date": "12-Apr-2025",
+      "title": "TRCCC 2025 R1",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 5,
+      "laps": 8,
+      "total_seconds": 310.25,
+      "best_lap": 35.14,
+      "average_lap": 38.78,
+      "best10": null
+    },
+    {
+      "meeting_id": 12808,
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 4,
+      "laps": 8,
+      "total_seconds": 328.26,
+      "best_lap": 27.57,
+      "average_lap": 41.03,
+      "best10": null
+    }
+  ]
+}

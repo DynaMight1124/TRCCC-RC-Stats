@@ -1,0 +1,89 @@
+{
+  "name": "Erin Bond",
+  "slug": "erin-bond",
+  "summary": {
+    "name": "Erin Bond",
+    "slug": "erin-bond",
+    "meetings_count": 3,
+    "attendance_pct": 6.8,
+    "total_laps": 71,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 20.82,
+    "metronome": null,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 20.82
+    },
+    "best_runs_per_class": {},
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 7,
+        "rank": 37,
+        "meeting_date": "24-May-2026",
+        "meeting_title": "TRCCC 2026 R4"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 37
+    },
+    "best10_per_class": {}
+  },
+  "timeline": [
+    {
+      "meeting_id": 20417,
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 8,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 20261,
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 7,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 7,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    }
+  ]
+}

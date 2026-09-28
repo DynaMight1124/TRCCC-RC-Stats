@@ -1,0 +1,122 @@
+{
+  "name": "Ian Brooking",
+  "slug": "ian-brooking",
+  "summary": {
+    "name": "Ian Brooking",
+    "slug": "ian-brooking",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 181,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 21.55,
+    "metronome": 1.94,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 21.55,
+      "Vintage / Rear Motor": 22.24
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 14,
+        "seconds": 324.3,
+        "result_str": "14 / 324.30",
+        "meeting_date": "23-Aug-2026"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 12,
+        "seconds": 319.57,
+        "result_str": "12 / 319.57",
+        "meeting_date": "23-Aug-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 5,
+        "rank": 25,
+        "meeting_date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10"
+      },
+      "Vintage / Rear Motor": {
+        "final": "B Final",
+        "position": 8,
+        "rank": 18,
+        "meeting_date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 27,
+      "Vintage / Rear Motor": 16
+    },
+    "best10_per_class": {
+      "2WD Buggy": 22.24,
+      "Vintage / Rear Motor": 23.32
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21039,
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 8,
+      "laps": 12,
+      "total_seconds": 319.57,
+      "best_lap": 24.6,
+      "average_lap": 26.63,
+      "best10": 26.03
+    },
+    {
+      "meeting_id": 21039,
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 5,
+      "laps": 14,
+      "total_seconds": 324.3,
+      "best_lap": 21.55,
+      "average_lap": 23.16,
+      "best10": 22.24
+    },
+    {
+      "meeting_id": 11578,
+      "date": "27-Apr-2024",
+      "title": "TRCCC 2024 R2",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 319.37,
+      "best_lap": 26.86,
+      "average_lap": 29.03,
+      "best10": 28.51
+    }
+  ]
+}

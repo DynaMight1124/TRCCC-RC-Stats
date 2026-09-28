@@ -1,0 +1,98 @@
+{
+  "name": "James Westmoreland",
+  "slug": "james-westmoreland",
+  "summary": {
+    "name": "James Westmoreland",
+    "slug": "james-westmoreland",
+    "meetings_count": 3,
+    "attendance_pct": 6.8,
+    "total_laps": 195,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 21.49,
+    "metronome": 3.58,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 21.49
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 13,
+        "seconds": 307.65,
+        "result_str": "13 / 307.65",
+        "meeting_date": "14-Jul-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 1,
+        "rank": 11,
+        "meeting_date": "14-Jul-2024",
+        "meeting_title": "TRCCC 2024 R7"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 15
+    },
+    "best10_per_class": {
+      "2WD Buggy": 10.0
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 1,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 1.0,
+      "average_lap": 10.0,
+      "best10": 10.0
+    },
+    {
+      "meeting_id": 12454,
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 307.65,
+      "best_lap": 22.91,
+      "average_lap": 23.67,
+      "best10": 23.39
+    },
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 316.96,
+      "best_lap": 25.44,
+      "average_lap": 26.41,
+      "best10": 26.21
+    }
+  ]
+}

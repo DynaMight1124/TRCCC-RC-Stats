@@ -1,0 +1,63 @@
+{
+  "name": "Jonathan Baker",
+  "slug": "jonathan-baker",
+  "summary": {
+    "name": "Jonathan Baker",
+    "slug": "jonathan-baker",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 64,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 7.0,
+    "metronome": 3.0,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 7.0
+    },
+    "best_runs_per_class": {},
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 7,
+        "rank": 27,
+        "meeting_date": "21-Jul-2024",
+        "meeting_title": "SW Regional Round 3"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 26
+    },
+    "best10_per_class": {
+      "2WD Buggy": 10.0
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 7,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 7.0,
+      "average_lap": 10.0,
+      "best10": 10.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Seb Eaton",
+  "slug": "seb-eaton",
+  "summary": {
+    "name": "Seb Eaton",
+    "slug": "seb-eaton",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 177,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 27.62,
+    "metronome": 3.65,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 27.62
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 10,
+        "seconds": 322.36,
+        "result_str": "10 / 322.36",
+        "meeting_date": "25-May-2025"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 3,
+        "rank": 33,
+        "meeting_date": "25-May-2025",
+        "meeting_title": "TRCCC 2025 R4"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 34
+    },
+    "best10_per_class": {
+      "2WD Buggy": 30.2
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 17330,
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 10,
+      "laps": 9,
+      "total_seconds": 300.69,
+      "best_lap": 29.42,
+      "average_lap": 33.41,
+      "best10": null
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 10,
+      "laps": 9,
+      "total_seconds": 303.39,
+      "best_lap": 28.96,
+      "average_lap": 33.71,
+      "best10": null
+    },
+    {
+      "meeting_id": 15875,
+      "date": "25-May-2025",
+      "title": "TRCCC 2025 R4",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 3,
+      "laps": 10,
+      "total_seconds": 322.36,
+      "best_lap": 30.71,
+      "average_lap": 32.24,
+      "best10": 32.23
+    },
+    {
+      "meeting_id": 15516,
+      "date": "27-Apr-2025",
+      "title": "TRCCC 2025 R2",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 5,
+      "laps": 8,
+      "total_seconds": 310.71,
+      "best_lap": 34.5,
+      "average_lap": 38.84,
+      "best10": null
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Adam Bedford",
+  "slug": "adam-bedford",
+  "summary": {
+    "name": "Adam Bedford",
+    "slug": "adam-bedford",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 271,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 4,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 7.0,
+    "a_finals_by_class": {
+      "Stadium Trucks": 4
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "Stadium Trucks"
+    ],
+    "best_lap": 17.75,
+    "metronome": 1.91,
+    "badges_count": 2
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    },
+    {
+      "id": "record_holder",
+      "label": "Stadium Trucks Record",
+      "icon": "zap",
+      "desc": "Holds track record for Stadium Trucks (17.75s)"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Stadium Trucks": 17.75,
+      "2WD Buggy": 25.54
+    },
+    "best_runs_per_class": {
+      "Stadium Trucks": {
+        "laps": 11,
+        "seconds": 300.74,
+        "result_str": "11 / 300.74",
+        "meeting_date": "28-Jun-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 5,
+        "rank": 5,
+        "meeting_date": "11-Apr-2026",
+        "meeting_title": "TRCCC 2026 R1"
+      },
+      "2WD Buggy": {
+        "final": "E Final",
+        "position": 3,
+        "rank": 43,
+        "meeting_date": "10-May-2026",
+        "meeting_title": "TRCCC 2026 R3"
+      }
+    },
+    "highest_quals_per_class": {
+      "Stadium Trucks": 6,
+      "2WD Buggy": 41
+    },
+    "best10_per_class": {
+      "Stadium Trucks": 25.86,
+      "2WD Buggy": 26.3
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20417,
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "season": "25/26",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 7,
+      "laps": 11,
+      "total_seconds": 300.74,
+      "best_lap": 25.43,
+      "average_lap": 27.34,
+      "best10": 27.1
+    },
+    {
+      "meeting_id": 20417,
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 8,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 3,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 19689,
+      "date": "26-Apr-2026",
+      "title": "TRCCC 2026 R2",
+      "season": "25/26",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 6,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 30.78,
+      "average_lap": null,
+      "best10": 30.78
+    },
+    {
+      "meeting_id": 19520,
+      "date": "11-Apr-2026",
+      "title": "TRCCC 2026 R1",
+      "season": "25/26",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 5,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 29.4,
+      "average_lap": null,
+      "best10": 29.68
+    }
+  ]
+}

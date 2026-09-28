@@ -1,0 +1,65 @@
+{
+  "name": "Ryan Lees",
+  "slug": "ryan-lees",
+  "summary": {
+    "name": "Ryan Lees",
+    "slug": "ryan-lees",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 61,
+    "a_final_wins": 0,
+    "a_final_podiums": 1,
+    "a_final_appearances": 1,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 100.0,
+    "a_final_avg_pos": 3.0,
+    "a_finals_by_class": {
+      "2WD Buggy": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 22.84,
+    "metronome": 2.0,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 22.84
+    },
+    "best_runs_per_class": {},
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 3,
+        "rank": 3,
+        "meeting_date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 6
+    },
+    "best10_per_class": {
+      "2WD Buggy": 23.28
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 8780,
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 3.0,
+      "average_lap": 5.0,
+      "best10": 2.0
+    }
+  ]
+}

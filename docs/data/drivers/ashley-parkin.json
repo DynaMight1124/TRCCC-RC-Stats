@@ -1,0 +1,97 @@
+{
+  "name": "Ashley Parkin",
+  "slug": "ashley-parkin",
+  "summary": {
+    "name": "Ashley Parkin",
+    "slug": "ashley-parkin",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 114,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 1,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 9.0,
+    "a_finals_by_class": {
+      "4WD Buggy": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy"
+    ],
+    "best_lap": 8.0,
+    "metronome": 0.0,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "4WD Buggy": 8.0,
+      "2WD Buggy": 10.0
+    },
+    "best_runs_per_class": {},
+    "highest_finishes_per_class": {
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 9,
+        "rank": 9,
+        "meeting_date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC"
+      },
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 1,
+        "rank": 31,
+        "meeting_date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC"
+      }
+    },
+    "highest_quals_per_class": {
+      "4WD Buggy": 8,
+      "2WD Buggy": 40
+    },
+    "best10_per_class": {
+      "4WD Buggy": 7.0,
+      "2WD Buggy": 10.0
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 8780,
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "season": "22/23",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 9,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 8.0,
+      "average_lap": 8.0,
+      "best10": 7.0
+    },
+    {
+      "meeting_id": 8780,
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 1,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 10.0,
+      "average_lap": 1.0,
+      "best10": 10.0
+    }
+  ]
+}

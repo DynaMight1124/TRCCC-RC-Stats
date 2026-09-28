@@ -1,0 +1,114 @@
+{
+  "name": "Chris Rollins",
+  "slug": "chris-rollins",
+  "summary": {
+    "name": "Chris Rollins",
+    "slug": "chris-rollins",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 237,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 2,
+    "a_final_rate": 50.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 6.0,
+    "a_finals_by_class": {
+      "2WD Buggy": 2
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 10.0,
+    "metronome": 1.38,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 10.0
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 13,
+        "seconds": 312.08,
+        "result_str": "13 / 312.08",
+        "meeting_date": "10-Sep-2023"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 5,
+        "rank": 5,
+        "meeting_date": "13-Aug-2023",
+        "meeting_title": "TRCCC 2023 R7"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 7
+    },
+    "best10_per_class": {
+      "2WD Buggy": 10.0
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 9241,
+      "date": "10-Sep-2023",
+      "title": "TRCCC 2023 R9",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 312.08,
+      "best_lap": 23.15,
+      "average_lap": 24.01,
+      "best10": 23.69
+    },
+    {
+      "meeting_id": 8969,
+      "date": "13-Aug-2023",
+      "title": "TRCCC 2023 R7",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 5,
+      "laps": 12,
+      "total_seconds": 323.81,
+      "best_lap": 23.8,
+      "average_lap": 26.98,
+      "best10": 26.09
+    },
+    {
+      "meeting_id": 8780,
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 10.0,
+      "average_lap": 10.0,
+      "best10": 10.0
+    },
+    {
+      "meeting_id": 8615,
+      "date": "09-Jul-2023",
+      "title": "TRCCC 2023 R6",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 7,
+      "laps": 13,
+      "total_seconds": 324.15,
+      "best_lap": 23.46,
+      "average_lap": 24.93,
+      "best10": 24.21
+    }
+  ]
+}

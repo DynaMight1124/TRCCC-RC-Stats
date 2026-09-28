@@ -1,0 +1,222 @@
+{
+  "name": "Chris Thomas",
+  "slug": "chris-thomas",
+  "summary": {
+    "name": "Chris Thomas",
+    "slug": "chris-thomas",
+    "meetings_count": 8,
+    "attendance_pct": 18.2,
+    "total_laps": 528,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 8,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 5.5,
+    "a_finals_by_class": {
+      "Stadium Trucks": 8
+    },
+    "tqs": 0,
+    "classes": [
+      "Stadium Trucks",
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 25.26,
+    "metronome": 1.98,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Stadium Trucks": 25.26,
+      "Vintage / Rear Motor": 27.12
+    },
+    "best_runs_per_class": {
+      "Stadium Trucks": {
+        "laps": 11,
+        "seconds": 302.86,
+        "result_str": "11 / 302.86",
+        "meeting_date": "27-Aug-2023"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 11,
+        "seconds": 320.73,
+        "result_str": "11 / 320.73",
+        "meeting_date": "23-Jun-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 4,
+        "rank": 4,
+        "meeting_date": "09-Jul-2023",
+        "meeting_title": "TRCCC 2023 R6"
+      },
+      "Vintage / Rear Motor": {
+        "final": "B Final",
+        "position": 3,
+        "rank": 13,
+        "meeting_date": "09-Jun-2024",
+        "meeting_title": "TRCCC 2024 R5"
+      }
+    },
+    "highest_quals_per_class": {
+      "Stadium Trucks": 3,
+      "Vintage / Rear Motor": 14
+    },
+    "best10_per_class": {
+      "Stadium Trucks": 26.36,
+      "Vintage / Rear Motor": 28.44
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 12207,
+      "date": "23-Jun-2024",
+      "title": "TRCCC 2024 R6",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 5,
+      "laps": 11,
+      "total_seconds": 320.73,
+      "best_lap": 27.56,
+      "average_lap": 29.16,
+      "best10": 28.81
+    },
+    {
+      "meeting_id": 12207,
+      "date": "23-Jun-2024",
+      "title": "TRCCC 2024 R6",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 8,
+      "laps": 11,
+      "total_seconds": 320.03,
+      "best_lap": 27.1,
+      "average_lap": 29.09,
+      "best10": 28.46
+    },
+    {
+      "meeting_id": 12039,
+      "date": "09-Jun-2024",
+      "title": "TRCCC 2024 R5",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 3,
+      "laps": 10,
+      "total_seconds": 303.19,
+      "best_lap": 28.87,
+      "average_lap": 30.32,
+      "best10": 30.31
+    },
+    {
+      "meeting_id": 12039,
+      "date": "09-Jun-2024",
+      "title": "TRCCC 2024 R5",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 7,
+      "laps": 10,
+      "total_seconds": 304.25,
+      "best_lap": 28.28,
+      "average_lap": 30.43,
+      "best10": 30.42
+    },
+    {
+      "meeting_id": 11731,
+      "date": "12-May-2024",
+      "title": "TRCCC 2024 R3",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 6,
+      "laps": 10,
+      "total_seconds": 301.98,
+      "best_lap": 26.67,
+      "average_lap": 30.2,
+      "best10": 30.19
+    },
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 5,
+      "laps": 11,
+      "total_seconds": 324.28,
+      "best_lap": 27.82,
+      "average_lap": 29.48,
+      "best10": 29.11
+    },
+    {
+      "meeting_id": 9387,
+      "date": "24-Sep-2023",
+      "title": "TRCCC 2023 R10",
+      "season": "22/23",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 6,
+      "laps": 11,
+      "total_seconds": 305.74,
+      "best_lap": 25.95,
+      "average_lap": 27.79,
+      "best10": 27.25
+    },
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 302.86,
+      "best_lap": 25.65,
+      "average_lap": 27.53,
+      "best10": 27.04
+    },
+    {
+      "meeting_id": 8969,
+      "date": "13-Aug-2023",
+      "title": "TRCCC 2023 R7",
+      "season": "22/23",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 309.23,
+      "best_lap": 26.49,
+      "average_lap": 28.11,
+      "best10": 27.75
+    },
+    {
+      "meeting_id": 8615,
+      "date": "09-Jul-2023",
+      "title": "TRCCC 2023 R6",
+      "season": "22/23",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 304.02,
+      "best_lap": 25.57,
+      "average_lap": 27.64,
+      "best10": 27.34
+    }
+  ]
+}

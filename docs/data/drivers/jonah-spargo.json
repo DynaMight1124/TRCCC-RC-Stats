@@ -1,0 +1,68 @@
+{
+  "name": "Jonah Spargo",
+  "slug": "jonah-spargo",
+  "summary": {
+    "name": "Jonah Spargo",
+    "slug": "jonah-spargo",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 42,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 30.97,
+    "metronome": 3.91,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 30.97
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 9,
+        "seconds": 313.93,
+        "result_str": "9 / 313.93",
+        "meeting_date": "28-Jun-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "E Final",
+        "position": 6,
+        "rank": 46,
+        "meeting_date": "28-Jun-2026",
+        "meeting_title": "TRCCC 2026 R6"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 47
+    },
+    "best10_per_class": {}
+  },
+  "timeline": [
+    {
+      "meeting_id": 20417,
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 6,
+      "laps": 9,
+      "total_seconds": 313.93,
+      "best_lap": 30.97,
+      "average_lap": 34.88,
+      "best10": null
+    }
+  ]
+}

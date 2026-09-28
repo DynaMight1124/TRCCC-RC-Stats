@@ -1,0 +1,154 @@
+{
+  "name": "Simon Watson",
+  "slug": "simon-watson",
+  "summary": {
+    "name": "Simon Watson",
+    "slug": "simon-watson",
+    "meetings_count": 7,
+    "attendance_pct": 15.9,
+    "total_laps": 418,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 23.13,
+    "metronome": 1.42,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 23.13
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 301.3,
+        "result_str": "12 / 301.30",
+        "meeting_date": "14-Jun-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 4,
+        "rank": 14,
+        "meeting_date": "14-Jun-2026",
+        "meeting_title": "TRCCC 2026 R5"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 16
+    },
+    "best10_per_class": {
+      "2WD Buggy": 23.53
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20261,
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 4,
+      "laps": 12,
+      "total_seconds": 301.3,
+      "best_lap": 24.08,
+      "average_lap": 25.1,
+      "best10": 24.66
+    },
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 1,
+      "laps": 12,
+      "total_seconds": 304.12,
+      "best_lap": 24.83,
+      "average_lap": 25.34,
+      "best10": 25.2
+    },
+    {
+      "meeting_id": 17330,
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 8,
+      "laps": 12,
+      "total_seconds": 316.79,
+      "best_lap": 24.11,
+      "average_lap": 26.39,
+      "best10": 25.64
+    },
+    {
+      "meeting_id": 16935,
+      "date": "24-Aug-2025",
+      "title": "TRCCC 2025 R10",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 4,
+      "laps": 12,
+      "total_seconds": 309.78,
+      "best_lap": 24.69,
+      "average_lap": 25.81,
+      "best10": 25.08
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 7,
+      "laps": 12,
+      "total_seconds": 320.47,
+      "best_lap": 24.9,
+      "average_lap": 26.7,
+      "best10": 25.97
+    },
+    {
+      "meeting_id": 16467,
+      "date": "13-Jul-2025",
+      "title": "TRCCC 2025 R8",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 8,
+      "laps": 11,
+      "total_seconds": 307.57,
+      "best_lap": 26.2,
+      "average_lap": 27.96,
+      "best10": 27.61
+    },
+    {
+      "meeting_id": 16295,
+      "date": "29-Jun-2025",
+      "title": "TRCCC 2025 R7",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 6,
+      "laps": 9,
+      "total_seconds": 245.38,
+      "best_lap": 25.83,
+      "average_lap": 27.26,
+      "best10": null
+    }
+  ]
+}

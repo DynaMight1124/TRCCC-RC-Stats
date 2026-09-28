@@ -1,0 +1,139 @@
+{
+  "name": "Reece Needle",
+  "slug": "reece-needle",
+  "summary": {
+    "name": "Reece Needle",
+    "slug": "reece-needle",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 150,
+    "a_final_wins": 1,
+    "a_final_podiums": 1,
+    "a_final_appearances": 1,
+    "a_final_rate": 50.0,
+    "a_final_podium_rate": 100.0,
+    "a_final_avg_pos": 1.0,
+    "a_finals_by_class": {
+      "4WD Buggy": 1
+    },
+    "tqs": 1,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy",
+      "Stadium Trucks"
+    ],
+    "best_lap": 23.52,
+    "metronome": 1.29,
+    "badges_count": 3
+  },
+  "badges": [
+    {
+      "id": "winner",
+      "label": "Race Winner",
+      "icon": "medal",
+      "desc": "Won an A-Final"
+    },
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    },
+    {
+      "id": "clean_sweep",
+      "label": "Clean Sweep",
+      "icon": "sparkles",
+      "desc": "Achieved TQ & Win at the same meeting"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 24.55,
+      "Stadium Trucks": 23.52,
+      "4WD Buggy": 23.73
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 313.86,
+        "result_str": "12 / 313.86",
+        "meeting_date": "27-Aug-2023"
+      },
+      "4WD Buggy": {
+        "laps": 13,
+        "seconds": 321.64,
+        "result_str": "13 / 321.64",
+        "meeting_date": "24-Sep-2023"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 1,
+        "rank": 21,
+        "meeting_date": "24-Sep-2023",
+        "meeting_title": "TRCCC 2023 R10"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "24-Sep-2023",
+        "meeting_title": "TRCCC 2023 R10"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 22,
+      "4WD Buggy": 1
+    },
+    "best10_per_class": {
+      "2WD Buggy": 25.37,
+      "Stadium Trucks": 24.85,
+      "4WD Buggy": 24.49
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 9387,
+      "date": "24-Sep-2023",
+      "title": "TRCCC 2023 R10",
+      "season": "22/23",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 321.64,
+      "best_lap": 23.73,
+      "average_lap": 24.74,
+      "best10": 24.49
+    },
+    {
+      "meeting_id": 9387,
+      "date": "24-Sep-2023",
+      "title": "TRCCC 2023 R10",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 1,
+      "laps": 12,
+      "total_seconds": 315.2,
+      "best_lap": 25.03,
+      "average_lap": 26.27,
+      "best10": 25.85
+    },
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 3,
+      "laps": 12,
+      "total_seconds": 313.86,
+      "best_lap": 24.55,
+      "average_lap": 26.16,
+      "best10": 25.68
+    }
+  ]
+}

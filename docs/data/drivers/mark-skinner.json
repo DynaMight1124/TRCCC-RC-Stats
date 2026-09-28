@@ -1,0 +1,100 @@
+{
+  "name": "Mark Skinner",
+  "slug": "mark-skinner",
+  "summary": {
+    "name": "Mark Skinner",
+    "slug": "mark-skinner",
+    "meetings_count": 3,
+    "attendance_pct": 6.8,
+    "total_laps": 158,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 1,
+    "a_final_rate": 33.3,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 10.0,
+    "a_finals_by_class": {
+      "Vintage / Rear Motor": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 24.42,
+    "metronome": 2.46,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Vintage / Rear Motor": 24.42
+    },
+    "best_runs_per_class": {
+      "Vintage / Rear Motor": {
+        "laps": 12,
+        "seconds": 312.38,
+        "result_str": "12 / 312.38",
+        "meeting_date": "18-Aug-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Vintage / Rear Motor": {
+        "final": "A Final",
+        "position": 10,
+        "rank": 10,
+        "meeting_date": "25-Aug-2024",
+        "meeting_title": "TRCCC 2024 R10"
+      }
+    },
+    "highest_quals_per_class": {
+      "Vintage / Rear Motor": 10
+    },
+    "best10_per_class": {
+      "Vintage / Rear Motor": 25.43
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 13182,
+      "date": "22-Sep-2024",
+      "title": "TRCCC 2024 R12",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 1,
+      "laps": 10,
+      "total_seconds": 308.91,
+      "best_lap": 29.11,
+      "average_lap": 30.89,
+      "best10": 30.89
+    },
+    {
+      "meeting_id": 12879,
+      "date": "25-Aug-2024",
+      "title": "TRCCC 2024 R10",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 10,
+      "laps": 9,
+      "total_seconds": 326.51,
+      "best_lap": 32.3,
+      "average_lap": 36.28,
+      "best10": null
+    },
+    {
+      "meeting_id": 12808,
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 312.38,
+      "best_lap": 24.42,
+      "average_lap": 26.03,
+      "best10": 25.43
+    }
+  ]
+}

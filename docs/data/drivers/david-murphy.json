@@ -1,0 +1,152 @@
+{
+  "name": "David Murphy",
+  "slug": "david-murphy",
+  "summary": {
+    "name": "David Murphy",
+    "slug": "david-murphy",
+    "meetings_count": 3,
+    "attendance_pct": 6.8,
+    "total_laps": 155,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 2,
+    "a_final_rate": 66.7,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 11.0,
+    "a_finals_by_class": {
+      "Vintage / Rear Motor": 2
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 27.64,
+    "metronome": 5.25,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 27.64,
+      "Vintage / Rear Motor": 28.99
+    },
+    "best_runs_per_class": {
+      "Vintage / Rear Motor": {
+        "laps": 9,
+        "seconds": 307.61,
+        "result_str": "9 / 307.61",
+        "meeting_date": "10-Sep-2023"
+      },
+      "2WD Buggy": {
+        "laps": 9,
+        "seconds": 313.29,
+        "result_str": "9 / 313.29",
+        "meeting_date": "10-Sep-2023"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 7,
+        "rank": 27,
+        "meeting_date": "27-Aug-2023",
+        "meeting_title": "TRCCC 2023 R8"
+      },
+      "Vintage / Rear Motor": {
+        "final": "A Final",
+        "position": 11,
+        "rank": 11,
+        "meeting_date": "10-Sep-2023",
+        "meeting_title": "TRCCC 2023 R9"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 27,
+      "Vintage / Rear Motor": 11
+    },
+    "best10_per_class": {
+      "2WD Buggy": 28.95,
+      "Vintage / Rear Motor": 32.69
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 11,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 5,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 9241,
+      "date": "10-Sep-2023",
+      "title": "TRCCC 2023 R9",
+      "season": "22/23",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 11,
+      "laps": 9,
+      "total_seconds": 307.61,
+      "best_lap": 30.4,
+      "average_lap": 34.18,
+      "best10": null
+    },
+    {
+      "meeting_id": 9241,
+      "date": "10-Sep-2023",
+      "title": "TRCCC 2023 R9",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 3,
+      "laps": 9,
+      "total_seconds": 313.29,
+      "best_lap": 28.1,
+      "average_lap": 34.81,
+      "best10": null
+    },
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 7,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Andrew Stone-Wright",
+  "slug": "andrew-stone-wright",
+  "summary": {
+    "name": "Andrew Stone-Wright",
+    "slug": "andrew-stone-wright",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 89,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 2,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 7.5,
+    "a_finals_by_class": {
+      "Stadium Trucks": 2
+    },
+    "tqs": 0,
+    "classes": [
+      "Stadium Trucks"
+    ],
+    "best_lap": 25.79,
+    "metronome": 4.38,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Stadium Trucks": 25.79
+    },
+    "best_runs_per_class": {
+      "Stadium Trucks": {
+        "laps": 10,
+        "seconds": 302.09,
+        "result_str": "10 / 302.09",
+        "meeting_date": "14-Apr-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 7,
+        "rank": 7,
+        "meeting_date": "08-Sep-2024",
+        "meeting_title": "TRCCC 2024 R11"
+      }
+    },
+    "highest_quals_per_class": {
+      "Stadium Trucks": 4
+    },
+    "best10_per_class": {
+      "Stadium Trucks": 27.04
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 13024,
+      "date": "08-Sep-2024",
+      "title": "TRCCC 2024 R11",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 7,
+      "laps": 7,
+      "total_seconds": 244.32,
+      "best_lap": 30.21,
+      "average_lap": 34.9,
+      "best10": null
+    },
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 8,
+      "laps": 10,
+      "total_seconds": 302.09,
+      "best_lap": 26.15,
+      "average_lap": 30.21,
+      "best10": 30.2
+    }
+  ]
+}

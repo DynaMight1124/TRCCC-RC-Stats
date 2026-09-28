@@ -1,0 +1,70 @@
+{
+  "name": "Tom Pearse",
+  "slug": "tom-pearse",
+  "summary": {
+    "name": "Tom Pearse",
+    "slug": "tom-pearse",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 55,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 23.59,
+    "metronome": 5.03,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 23.59
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 317.05,
+        "result_str": "11 / 317.05",
+        "meeting_date": "23-Aug-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 3,
+        "rank": 33,
+        "meeting_date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 32
+    },
+    "best10_per_class": {
+      "2WD Buggy": 24.95
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21039,
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 3,
+      "laps": 11,
+      "total_seconds": 317.05,
+      "best_lap": 23.79,
+      "average_lap": 28.82,
+      "best10": 27.7
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Ben Winters",
+  "slug": "ben-winters",
+  "summary": {
+    "name": "Ben Winters",
+    "slug": "ben-winters",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 48,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 1,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 6.0,
+    "a_finals_by_class": {
+      "4WD Buggy": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy"
+    ],
+    "best_lap": 22.92,
+    "metronome": null,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "4WD Buggy": 22.92,
+      "2WD Buggy": 23.03
+    },
+    "best_runs_per_class": {},
+    "highest_finishes_per_class": {
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 6,
+        "rank": 6,
+        "meeting_date": "27-Aug-2023",
+        "meeting_title": "TRCCC 2023 R8"
+      },
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 10,
+        "rank": 20,
+        "meeting_date": "27-Aug-2023",
+        "meeting_title": "TRCCC 2023 R8"
+      }
+    },
+    "highest_quals_per_class": {
+      "4WD Buggy": 3,
+      "2WD Buggy": 18
+    },
+    "best10_per_class": {
+      "4WD Buggy": 24.6,
+      "2WD Buggy": 23.48
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 6,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "James Greenwood",
+  "slug": "james-greenwood",
+  "summary": {
+    "name": "James Greenwood",
+    "slug": "james-greenwood",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 59,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 25.1,
+    "metronome": 0.64,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 25.1
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 318.23,
+        "result_str": "12 / 318.23",
+        "meeting_date": "12-Jul-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 1,
+        "rank": 31,
+        "meeting_date": "12-Jul-2026",
+        "meeting_title": "TRCCC 2026 R7"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 33
+    },
+    "best10_per_class": {
+      "2WD Buggy": 25.97
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20581,
+      "date": "12-Jul-2026",
+      "title": "TRCCC 2026 R7",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 1,
+      "laps": 12,
+      "total_seconds": 318.23,
+      "best_lap": 25.87,
+      "average_lap": 26.51,
+      "best10": 26.3
+    }
+  ]
+}

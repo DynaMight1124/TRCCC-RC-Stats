@@ -1,0 +1,175 @@
+{
+  "name": "Steve Ashton",
+  "slug": "steve-ashton",
+  "summary": {
+    "name": "Steve Ashton",
+    "slug": "steve-ashton",
+    "meetings_count": 6,
+    "attendance_pct": 13.6,
+    "total_laps": 465,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 6,
+    "a_final_rate": 83.3,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 7.0,
+    "a_finals_by_class": {
+      "2WD Buggy": 5,
+      "4WD Buggy": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy"
+    ],
+    "best_lap": 7.0,
+    "metronome": 1.18,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 10.0,
+      "4WD Buggy": 7.0
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 13,
+        "seconds": 314.13,
+        "result_str": "13 / 314.13",
+        "meeting_date": "29-Jun-2025"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 4,
+        "rank": 4,
+        "meeting_date": "24-Aug-2025",
+        "meeting_title": "TRCCC 2025 R10"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 9,
+        "rank": 9,
+        "meeting_date": "21-Jul-2024",
+        "meeting_title": "SW Regional Round 3"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 4,
+      "4WD Buggy": 6
+    },
+    "best10_per_class": {
+      "2WD Buggy": 10.0,
+      "4WD Buggy": 7.0
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21436,
+      "date": "27-Sep-2026",
+      "title": "TRCCC 2026 R12",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 5,
+      "laps": 13,
+      "total_seconds": 315.93,
+      "best_lap": 22.66,
+      "average_lap": 24.3,
+      "best10": 23.53
+    },
+    {
+      "meeting_id": 16935,
+      "date": "24-Aug-2025",
+      "title": "TRCCC 2025 R10",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 4,
+      "laps": 13,
+      "total_seconds": 318.6,
+      "best_lap": 23.02,
+      "average_lap": 24.5,
+      "best10": 23.51
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 9,
+      "laps": 13,
+      "total_seconds": 324.97,
+      "best_lap": 22.88,
+      "average_lap": 24.99,
+      "best10": 24.16
+    },
+    {
+      "meeting_id": 16295,
+      "date": "29-Jun-2025",
+      "title": "TRCCC 2025 R7",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 5,
+      "laps": 13,
+      "total_seconds": 314.13,
+      "best_lap": 22.94,
+      "average_lap": 24.16,
+      "best10": 23.41
+    },
+    {
+      "meeting_id": 16212,
+      "date": "22-Jun-2025",
+      "title": "TRCCC 2025 R6",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 5,
+      "laps": 12,
+      "total_seconds": 301.26,
+      "best_lap": 23.31,
+      "average_lap": 25.1,
+      "best10": 24.53
+    },
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 10.0,
+      "average_lap": 10.0,
+      "best10": 10.0
+    },
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 9,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 7.0,
+      "average_lap": 7.0,
+      "best10": 7.0
+    }
+  ]
+}

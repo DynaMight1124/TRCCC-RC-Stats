@@ -1,0 +1,261 @@
+{
+  "name": "Harry Mears",
+  "slug": "harry-mears",
+  "summary": {
+    "name": "Harry Mears",
+    "slug": "harry-mears",
+    "meetings_count": 7,
+    "attendance_pct": 15.9,
+    "total_laps": 728,
+    "a_final_wins": 10,
+    "a_final_podiums": 11,
+    "a_final_appearances": 11,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 100.0,
+    "a_final_avg_pos": 1.1,
+    "a_finals_by_class": {
+      "2WD Buggy": 7,
+      "4WD Buggy": 4
+    },
+    "tqs": 10,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy"
+    ],
+    "best_lap": 18.62,
+    "metronome": 0.77,
+    "badges_count": 5
+  },
+  "badges": [
+    {
+      "id": "champion",
+      "label": "Multi-Winner",
+      "icon": "trophy",
+      "desc": "Won 3+ A-Finals"
+    },
+    {
+      "id": "podium_master",
+      "label": "Podium Regular",
+      "icon": "award",
+      "desc": "5+ A-Final Podiums"
+    },
+    {
+      "id": "pole_king",
+      "label": "Pole King",
+      "icon": "target",
+      "desc": "2+ Top Qualifiers (TQ)"
+    },
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    },
+    {
+      "id": "clean_sweep",
+      "label": "Clean Sweep",
+      "icon": "sparkles",
+      "desc": "Achieved TQ & Win at the same meeting"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 19.47,
+      "4WD Buggy": 18.62
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 14,
+        "seconds": 315.0,
+        "result_str": "14 / 315.00",
+        "meeting_date": "14-Jul-2024"
+      },
+      "4WD Buggy": {
+        "laps": 14,
+        "seconds": 304.35,
+        "result_str": "14 / 304.35",
+        "meeting_date": "14-Jul-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "10-Sep-2023",
+        "meeting_title": "TRCCC 2023 R9"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "14-Jul-2024",
+        "meeting_title": "TRCCC 2024 R7"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 1,
+      "4WD Buggy": 1
+    },
+    "best10_per_class": {
+      "2WD Buggy": 19.74,
+      "4WD Buggy": 19.05
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 15693,
+      "date": "11-May-2025",
+      "title": "TRCCC 2025 R3",
+      "season": "24/25",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 309.35,
+      "best_lap": 21.62,
+      "average_lap": 23.8,
+      "best10": 22.91
+    },
+    {
+      "meeting_id": 15693,
+      "date": "11-May-2025",
+      "title": "TRCCC 2025 R3",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 316.99,
+      "best_lap": 23.71,
+      "average_lap": 24.38,
+      "best10": 24.29
+    },
+    {
+      "meeting_id": 15357,
+      "date": "12-Apr-2025",
+      "title": "TRCCC 2025 R1",
+      "season": "24/25",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 305.51,
+      "best_lap": 22.83,
+      "average_lap": 23.5,
+      "best10": 23.36
+    },
+    {
+      "meeting_id": 15357,
+      "date": "12-Apr-2025",
+      "title": "TRCCC 2025 R1",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 319.83,
+      "best_lap": 23.87,
+      "average_lap": 24.6,
+      "best10": 24.45
+    },
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 2.0,
+      "average_lap": 1.0,
+      "best10": 1.0
+    },
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 1.0,
+      "average_lap": 1.0,
+      "best10": 1.0
+    },
+    {
+      "meeting_id": 12454,
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "season": "23/24",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 14,
+      "total_seconds": 304.35,
+      "best_lap": 21.0,
+      "average_lap": 21.74,
+      "best10": 21.33
+    },
+    {
+      "meeting_id": 12454,
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 14,
+      "total_seconds": 315.0,
+      "best_lap": 22.24,
+      "average_lap": 22.5,
+      "best10": 22.4
+    },
+    {
+      "meeting_id": 11731,
+      "date": "12-May-2024",
+      "title": "TRCCC 2024 R3",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 302.92,
+      "best_lap": 22.82,
+      "average_lap": 23.3,
+      "best10": 23.18
+    },
+    {
+      "meeting_id": 11578,
+      "date": "27-Apr-2024",
+      "title": "TRCCC 2024 R2",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 13,
+      "total_seconds": 314.14,
+      "best_lap": 23.07,
+      "average_lap": 24.16,
+      "best10": 23.59
+    },
+    {
+      "meeting_id": 9241,
+      "date": "10-Sep-2023",
+      "title": "TRCCC 2023 R9",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 14,
+      "total_seconds": 318.36,
+      "best_lap": 21.88,
+      "average_lap": 22.74,
+      "best10": 22.41
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "John Finch",
+  "slug": "john-finch",
+  "summary": {
+    "name": "John Finch",
+    "slug": "john-finch",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 238,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 23.53,
+    "metronome": 0.97,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 23.53
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 300.41,
+        "result_str": "12 / 300.41",
+        "meeting_date": "14-Jul-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 2,
+        "rank": 12,
+        "meeting_date": "12-May-2024",
+        "meeting_title": "TRCCC 2024 R3"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 16
+    },
+    "best10_per_class": {
+      "2WD Buggy": 24.46
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 12454,
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 300.41,
+      "best_lap": 24.13,
+      "average_lap": 25.03,
+      "best10": 24.71
+    },
+    {
+      "meeting_id": 11819,
+      "date": "19-May-2024",
+      "title": "TRCCC 2024 R4",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 5,
+      "laps": 12,
+      "total_seconds": 310.0,
+      "best_lap": 24.8,
+      "average_lap": 25.83,
+      "best10": 25.3
+    },
+    {
+      "meeting_id": 11731,
+      "date": "12-May-2024",
+      "title": "TRCCC 2024 R3",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 314.32,
+      "best_lap": 24.99,
+      "average_lap": 26.19,
+      "best10": 25.56
+    },
+    {
+      "meeting_id": 11578,
+      "date": "27-Apr-2024",
+      "title": "TRCCC 2024 R2",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 3,
+      "laps": 12,
+      "total_seconds": 310.44,
+      "best_lap": 25.12,
+      "average_lap": 25.87,
+      "best10": 25.6
+    }
+  ]
+}

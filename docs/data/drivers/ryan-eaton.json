@@ -1,0 +1,180 @@
+{
+  "name": "Ryan Eaton",
+  "slug": "ryan-eaton",
+  "summary": {
+    "name": "Ryan Eaton",
+    "slug": "ryan-eaton",
+    "meetings_count": 6,
+    "attendance_pct": 13.6,
+    "total_laps": 404,
+    "a_final_wins": 1,
+    "a_final_podiums": 1,
+    "a_final_appearances": 1,
+    "a_final_rate": 16.7,
+    "a_final_podium_rate": 100.0,
+    "a_final_avg_pos": 1.0,
+    "a_finals_by_class": {
+      "Stadium Trucks": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "Stadium Trucks"
+    ],
+    "best_lap": 23.0,
+    "metronome": 1.29,
+    "badges_count": 2
+  },
+  "badges": [
+    {
+      "id": "winner",
+      "label": "Race Winner",
+      "icon": "medal",
+      "desc": "Won an A-Final"
+    },
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 23.43,
+      "Stadium Trucks": 23.0
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 303.54,
+        "result_str": "12 / 303.54",
+        "meeting_date": "10-Aug-2025"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 3,
+        "rank": 13,
+        "meeting_date": "10-Aug-2025",
+        "meeting_title": "TRCCC 2025 R9"
+      },
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "29-Jun-2025",
+        "meeting_title": "TRCCC 2025 R7"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 17,
+      "Stadium Trucks": 2
+    },
+    "best10_per_class": {
+      "2WD Buggy": 24.04,
+      "Stadium Trucks": 23.73
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 17330,
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 5,
+      "laps": 12,
+      "total_seconds": 313.54,
+      "best_lap": 24.54,
+      "average_lap": 26.12,
+      "best10": 25.4
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 3,
+      "laps": 12,
+      "total_seconds": 303.54,
+      "best_lap": 24.71,
+      "average_lap": 25.29,
+      "best10": 25.08
+    },
+    {
+      "meeting_id": 16295,
+      "date": "29-Jun-2025",
+      "title": "TRCCC 2025 R7",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 1,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 24.24,
+      "average_lap": null,
+      "best10": 24.56
+    },
+    {
+      "meeting_id": 16295,
+      "date": "29-Jun-2025",
+      "title": "TRCCC 2025 R7",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 4,
+      "laps": 12,
+      "total_seconds": 316.68,
+      "best_lap": 24.83,
+      "average_lap": 26.39,
+      "best10": 25.54
+    },
+    {
+      "meeting_id": 15875,
+      "date": "25-May-2025",
+      "title": "TRCCC 2025 R4",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 307.65,
+      "best_lap": 24.78,
+      "average_lap": 25.64,
+      "best10": 25.31
+    },
+    {
+      "meeting_id": 15693,
+      "date": "11-May-2025",
+      "title": "TRCCC 2025 R3",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 3,
+      "laps": 12,
+      "total_seconds": 320.38,
+      "best_lap": 24.71,
+      "average_lap": 26.7,
+      "best10": 25.6
+    },
+    {
+      "meeting_id": 15516,
+      "date": "27-Apr-2025",
+      "title": "TRCCC 2025 R2",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 4,
+      "laps": 12,
+      "total_seconds": 323.9,
+      "best_lap": 25.84,
+      "average_lap": 26.99,
+      "best10": 26.48
+    }
+  ]
+}

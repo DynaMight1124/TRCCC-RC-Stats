@@ -1,0 +1,529 @@
+{
+  "name": "Paul Field",
+  "slug": "paul-field",
+  "summary": {
+    "name": "Paul Field",
+    "slug": "paul-field",
+    "meetings_count": 23,
+    "attendance_pct": 52.3,
+    "total_laps": 1798,
+    "a_final_wins": 6,
+    "a_final_podiums": 20,
+    "a_final_appearances": 28,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 71.4,
+    "a_final_avg_pos": 3.0,
+    "a_finals_by_class": {
+      "2WD Buggy": 19,
+      "Vintage / Rear Motor": 7,
+      "4WD Buggy": 1,
+      "Stadium Trucks": 1
+    },
+    "tqs": 7,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy",
+      "Stadium Trucks",
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 8.0,
+    "metronome": 1.02,
+    "badges_count": 5
+  },
+  "badges": [
+    {
+      "id": "champion",
+      "label": "Multi-Winner",
+      "icon": "trophy",
+      "desc": "Won 3+ A-Finals"
+    },
+    {
+      "id": "podium_master",
+      "label": "Podium Regular",
+      "icon": "award",
+      "desc": "5+ A-Final Podiums"
+    },
+    {
+      "id": "pole_king",
+      "label": "Pole King",
+      "icon": "target",
+      "desc": "2+ Top Qualifiers (TQ)"
+    },
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    },
+    {
+      "id": "clean_sweep",
+      "label": "Clean Sweep",
+      "icon": "sparkles",
+      "desc": "Achieved TQ & Win at the same meeting"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 19.85,
+      "Vintage / Rear Motor": 20.23,
+      "4WD Buggy": 8.0,
+      "Stadium Trucks": 20.33
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 15,
+        "seconds": 316.32,
+        "result_str": "15 / 316.32",
+        "meeting_date": "18-Aug-2024"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 14,
+        "seconds": 312.71,
+        "result_str": "14 / 312.71",
+        "meeting_date": "09-Aug-2026"
+      },
+      "Stadium Trucks": {
+        "laps": 15,
+        "seconds": 318.46,
+        "result_str": "15 / 318.46",
+        "meeting_date": "26-Jul-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "28-Sep-2025",
+        "meeting_title": "TRCCC 2025 R12"
+      },
+      "Vintage / Rear Motor": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "25-May-2025",
+        "meeting_title": "TRCCC 2025 R4"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 8,
+        "rank": 8,
+        "meeting_date": "21-Jul-2024",
+        "meeting_title": "SW Regional Round 3"
+      },
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 3,
+        "rank": 3,
+        "meeting_date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 1,
+      "Vintage / Rear Motor": 1,
+      "4WD Buggy": 8,
+      "Stadium Trucks": 4
+    },
+    "best10_per_class": {
+      "2WD Buggy": 20.35,
+      "Vintage / Rear Motor": 20.61,
+      "4WD Buggy": 8.0,
+      "Stadium Trucks": 20.76
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21436,
+      "date": "27-Sep-2026",
+      "title": "TRCCC 2026 R12",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 306.45,
+      "best_lap": 24.01,
+      "average_lap": 25.53,
+      "best10": 24.99
+    },
+    {
+      "meeting_id": 21272,
+      "date": "13-Sep-2026",
+      "title": "TRCCC 2026 R11",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 319.16,
+      "best_lap": 24.24,
+      "average_lap": 24.55,
+      "best10": 24.46
+    },
+    {
+      "meeting_id": 20885,
+      "date": "09-Aug-2026",
+      "title": "TRCCC 2026 R9",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 1,
+      "laps": 14,
+      "total_seconds": 312.71,
+      "best_lap": 21.75,
+      "average_lap": 22.33,
+      "best10": 22.19
+    },
+    {
+      "meeting_id": 20885,
+      "date": "09-Aug-2026",
+      "title": "TRCCC 2026 R9",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 4,
+      "laps": 13,
+      "total_seconds": 301.49,
+      "best_lap": 22.3,
+      "average_lap": 23.19,
+      "best10": 22.8
+    },
+    {
+      "meeting_id": 20730,
+      "date": "26-Jul-2026",
+      "title": "TRCCC 2026 R8",
+      "season": "25/26",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 3,
+      "laps": 15,
+      "total_seconds": 318.46,
+      "best_lap": 20.33,
+      "average_lap": 21.23,
+      "best10": 20.76
+    },
+    {
+      "meeting_id": 20417,
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 4,
+      "laps": 13,
+      "total_seconds": 305.85,
+      "best_lap": 22.78,
+      "average_lap": 23.52,
+      "best10": 23.18
+    },
+    {
+      "meeting_id": 20261,
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 14,
+      "total_seconds": 319.0,
+      "best_lap": 22.08,
+      "average_lap": 22.78,
+      "best10": 22.6
+    },
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 13,
+      "total_seconds": 308.48,
+      "best_lap": 22.95,
+      "average_lap": 23.72,
+      "best10": 23.4
+    },
+    {
+      "meeting_id": 19689,
+      "date": "26-Apr-2026",
+      "title": "TRCCC 2026 R2",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 12,
+      "total_seconds": 312.1,
+      "best_lap": 25.61,
+      "average_lap": 26.0,
+      "best10": 25.92
+    },
+    {
+      "meeting_id": 19520,
+      "date": "11-Apr-2026",
+      "title": "TRCCC 2026 R1",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 5,
+      "laps": 9,
+      "total_seconds": 303.04,
+      "best_lap": 32.46,
+      "average_lap": 33.67,
+      "best10": null
+    },
+    {
+      "meeting_id": 17330,
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 308.15,
+      "best_lap": 23.02,
+      "average_lap": 23.7,
+      "best10": 23.54
+    },
+    {
+      "meeting_id": 16935,
+      "date": "24-Aug-2025",
+      "title": "TRCCC 2025 R10",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 13,
+      "total_seconds": 318.04,
+      "best_lap": 23.05,
+      "average_lap": 24.46,
+      "best10": 23.69
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 13,
+      "total_seconds": 309.52,
+      "best_lap": 22.99,
+      "average_lap": 23.8,
+      "best10": 23.5
+    },
+    {
+      "meeting_id": 16467,
+      "date": "13-Jul-2025",
+      "title": "TRCCC 2025 R8",
+      "season": "24/25",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 2,
+      "laps": 13,
+      "total_seconds": 326.77,
+      "best_lap": 22.87,
+      "average_lap": 25.13,
+      "best10": 23.97
+    },
+    {
+      "meeting_id": 16467,
+      "date": "13-Jul-2025",
+      "title": "TRCCC 2025 R8",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 13,
+      "total_seconds": 321.07,
+      "best_lap": 24.33,
+      "average_lap": 24.69,
+      "best10": 24.47
+    },
+    {
+      "meeting_id": 16212,
+      "date": "22-Jun-2025",
+      "title": "TRCCC 2025 R6",
+      "season": "24/25",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 314.48,
+      "best_lap": 22.88,
+      "average_lap": 24.19,
+      "best10": 23.84
+    },
+    {
+      "meeting_id": 16212,
+      "date": "22-Jun-2025",
+      "title": "TRCCC 2025 R6",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 7,
+      "laps": 13,
+      "total_seconds": 315.57,
+      "best_lap": 23.27,
+      "average_lap": 24.27,
+      "best10": 23.73
+    },
+    {
+      "meeting_id": 15875,
+      "date": "25-May-2025",
+      "title": "TRCCC 2025 R4",
+      "season": "24/25",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 1,
+      "laps": 13,
+      "total_seconds": 313.6,
+      "best_lap": 23.27,
+      "average_lap": 24.12,
+      "best10": 23.72
+    },
+    {
+      "meeting_id": 15875,
+      "date": "25-May-2025",
+      "title": "TRCCC 2025 R4",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 13,
+      "total_seconds": 312.51,
+      "best_lap": 23.26,
+      "average_lap": 24.04,
+      "best10": 23.63
+    },
+    {
+      "meeting_id": 12808,
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 15,
+      "total_seconds": 316.32,
+      "best_lap": 20.31,
+      "average_lap": 21.09,
+      "best10": 20.8
+    },
+    {
+      "meeting_id": 12520,
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "season": "23/24",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 8,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 8.0,
+      "average_lap": 6.0,
+      "best10": 8.0
+    },
+    {
+      "meeting_id": 12454,
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "season": "23/24",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 2,
+      "laps": 13,
+      "total_seconds": 305.03,
+      "best_lap": 22.35,
+      "average_lap": 23.46,
+      "best10": 22.93
+    },
+    {
+      "meeting_id": 12454,
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 14,
+      "total_seconds": 322.8,
+      "best_lap": 21.89,
+      "average_lap": 23.06,
+      "best10": 22.64
+    },
+    {
+      "meeting_id": 12207,
+      "date": "23-Jun-2024",
+      "title": "TRCCC 2024 R6",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 6,
+      "laps": 13,
+      "total_seconds": 309.54,
+      "best_lap": 22.56,
+      "average_lap": 23.81,
+      "best10": 23.16
+    },
+    {
+      "meeting_id": 12039,
+      "date": "09-Jun-2024",
+      "title": "TRCCC 2024 R5",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 12,
+      "total_seconds": 300.5,
+      "best_lap": 23.89,
+      "average_lap": 25.04,
+      "best10": 24.46
+    },
+    {
+      "meeting_id": 11819,
+      "date": "19-May-2024",
+      "title": "TRCCC 2024 R4",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 4,
+      "laps": 13,
+      "total_seconds": 308.17,
+      "best_lap": 22.68,
+      "average_lap": 23.71,
+      "best10": 23.27
+    },
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 5,
+      "laps": 12,
+      "total_seconds": 314.82,
+      "best_lap": 25.05,
+      "average_lap": 26.23,
+      "best10": 25.56
+    },
+    {
+      "meeting_id": 8969,
+      "date": "13-Aug-2023",
+      "title": "TRCCC 2023 R7",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 12,
+      "total_seconds": 313.98,
+      "best_lap": 23.71,
+      "average_lap": 26.17,
+      "best10": 25.62
+    }
+  ]
+}

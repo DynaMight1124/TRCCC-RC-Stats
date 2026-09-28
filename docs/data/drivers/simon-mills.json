@@ -1,0 +1,116 @@
+{
+  "name": "Simon Mills",
+  "slug": "simon-mills",
+  "summary": {
+    "name": "Simon Mills",
+    "slug": "simon-mills",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 174,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy"
+    ],
+    "best_lap": 7.0,
+    "metronome": 0.3,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "4WD Buggy": 7.0,
+      "2WD Buggy": 10.0
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 321.84,
+        "result_str": "12 / 321.84",
+        "meeting_date": "10-May-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "4WD Buggy": {
+        "final": "B Final",
+        "position": 3,
+        "rank": 13,
+        "meeting_date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC"
+      },
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 2,
+        "rank": 22,
+        "meeting_date": "10-May-2026",
+        "meeting_title": "TRCCC 2026 R3"
+      }
+    },
+    "highest_quals_per_class": {
+      "4WD Buggy": 11,
+      "2WD Buggy": 25
+    },
+    "best10_per_class": {
+      "2WD Buggy": 10.0,
+      "4WD Buggy": 24.55
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 321.84,
+      "best_lap": 25.93,
+      "average_lap": 26.82,
+      "best10": 26.59
+    },
+    {
+      "meeting_id": 8780,
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "season": "22/23",
+      "class": "4WD Buggy",
+      "final": "B Final",
+      "position": 3,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 7.0,
+      "average_lap": 7.0,
+      "best10": 3.0
+    },
+    {
+      "meeting_id": 8780,
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 10.0,
+      "average_lap": 10.0,
+      "best10": 10.0
+    }
+  ]
+}

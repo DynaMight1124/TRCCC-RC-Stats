@@ -1,0 +1,84 @@
+{
+  "name": "Stephen Needle",
+  "slug": "stephen-needle",
+  "summary": {
+    "name": "Stephen Needle",
+    "slug": "stephen-needle",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 92,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 27.2,
+    "metronome": 2.04,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 27.2
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 323.31,
+        "result_str": "11 / 323.31",
+        "meeting_date": "24-Sep-2023"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 4,
+        "rank": 24,
+        "meeting_date": "24-Sep-2023",
+        "meeting_title": "TRCCC 2023 R10"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 24
+    },
+    "best10_per_class": {
+      "2WD Buggy": 28.82
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 9387,
+      "date": "24-Sep-2023",
+      "title": "TRCCC 2023 R10",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 323.31,
+      "best_lap": 27.78,
+      "average_lap": 29.39,
+      "best10": 28.82
+    },
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 6,
+      "laps": 11,
+      "total_seconds": 326.38,
+      "best_lap": 27.2,
+      "average_lap": 29.67,
+      "best10": 28.99
+    }
+  ]
+}

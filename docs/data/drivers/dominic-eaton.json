@@ -1,0 +1,82 @@
+{
+  "name": "Dominic Eaton",
+  "slug": "dominic-eaton",
+  "summary": {
+    "name": "Dominic Eaton",
+    "slug": "dominic-eaton",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 66,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 33.64,
+    "metronome": 5.95,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 33.64
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 8,
+        "seconds": 301.68,
+        "result_str": "8 / 301.68",
+        "meeting_date": "10-Aug-2025"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 6,
+        "rank": 36,
+        "meeting_date": "25-May-2025",
+        "meeting_title": "TRCCC 2025 R4"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 35
+    },
+    "best10_per_class": {}
+  },
+  "timeline": [
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 2,
+      "laps": 8,
+      "total_seconds": 301.68,
+      "best_lap": 33.64,
+      "average_lap": 37.71,
+      "best10": null
+    },
+    {
+      "meeting_id": 15875,
+      "date": "25-May-2025",
+      "title": "TRCCC 2025 R4",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 6,
+      "laps": 7,
+      "total_seconds": 320.82,
+      "best_lap": 38.01,
+      "average_lap": 45.83,
+      "best10": null
+    }
+  ]
+}

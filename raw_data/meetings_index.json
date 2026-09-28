@@ -1,0 +1,225 @@
+{
+  "scraped_meetings": {
+    "21272": {
+      "date": "13-Sep-2026",
+      "title": "TRCCC 2026 R11",
+      "scraped_at": "2026-09-22T15:59:42Z"
+    },
+    "21039": {
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "scraped_at": "2026-09-22T15:59:48Z"
+    },
+    "20885": {
+      "date": "09-Aug-2026",
+      "title": "TRCCC 2026 R9",
+      "scraped_at": "2026-09-22T15:59:57Z"
+    },
+    "20730": {
+      "date": "26-Jul-2026",
+      "title": "TRCCC 2026 R8",
+      "scraped_at": "2026-09-22T16:00:03Z"
+    },
+    "20581": {
+      "date": "12-Jul-2026",
+      "title": "TRCCC 2026 R7",
+      "scraped_at": "2026-09-22T16:00:11Z"
+    },
+    "20417": {
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "scraped_at": "2026-09-22T16:00:20Z"
+    },
+    "20261": {
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "scraped_at": "2026-09-22T16:00:28Z"
+    },
+    "20010": {
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "scraped_at": "2026-09-22T16:00:36Z"
+    },
+    "19862": {
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "scraped_at": "2026-09-22T16:00:45Z"
+    },
+    "19689": {
+      "date": "26-Apr-2026",
+      "title": "TRCCC 2026 R2",
+      "scraped_at": "2026-09-22T16:00:53Z"
+    },
+    "19520": {
+      "date": "11-Apr-2026",
+      "title": "TRCCC 2026 R1",
+      "scraped_at": "2026-09-22T16:01:01Z"
+    },
+    "17330": {
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "scraped_at": "2026-09-22T16:01:10Z"
+    },
+    "17159": {
+      "date": "13-Sep-2025",
+      "title": "TRCCC 2025 R11",
+      "scraped_at": "2026-09-22T16:01:15Z"
+    },
+    "16935": {
+      "date": "24-Aug-2025",
+      "title": "TRCCC 2025 R10",
+      "scraped_at": "2026-09-22T16:01:22Z"
+    },
+    "16790": {
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "scraped_at": "2026-09-22T16:01:32Z"
+    },
+    "16467": {
+      "date": "13-Jul-2025",
+      "title": "TRCCC 2025 R8",
+      "scraped_at": "2026-09-22T16:01:42Z"
+    },
+    "16295": {
+      "date": "29-Jun-2025",
+      "title": "TRCCC 2025 R7",
+      "scraped_at": "2026-09-22T16:01:51Z"
+    },
+    "16212": {
+      "date": "22-Jun-2025",
+      "title": "TRCCC 2025 R6",
+      "scraped_at": "2026-09-22T16:02:00Z"
+    },
+    "16048": {
+      "date": "08-Jun-2025",
+      "title": "TRCCC 2025 R5",
+      "scraped_at": "2026-09-22T16:02:07Z"
+    },
+    "15875": {
+      "date": "25-May-2025",
+      "title": "TRCCC 2025 R4",
+      "scraped_at": "2026-09-22T16:02:16Z"
+    },
+    "15693": {
+      "date": "11-May-2025",
+      "title": "TRCCC 2025 R3",
+      "scraped_at": "2026-09-22T16:02:25Z"
+    },
+    "15516": {
+      "date": "27-Apr-2025",
+      "title": "TRCCC 2025 R2",
+      "scraped_at": "2026-09-22T16:02:34Z"
+    },
+    "15357": {
+      "date": "12-Apr-2025",
+      "title": "TRCCC 2025 R1",
+      "scraped_at": "2026-09-22T16:02:45Z"
+    },
+    "13182": {
+      "date": "22-Sep-2024",
+      "title": "TRCCC 2024 R12",
+      "scraped_at": "2026-09-22T16:02:52Z"
+    },
+    "13024": {
+      "date": "08-Sep-2024",
+      "title": "TRCCC 2024 R11",
+      "scraped_at": "2026-09-22T16:02:58Z"
+    },
+    "12879": {
+      "date": "25-Aug-2024",
+      "title": "TRCCC 2024 R10",
+      "scraped_at": "2026-09-22T16:03:07Z"
+    },
+    "12808": {
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "scraped_at": "2026-09-22T16:03:16Z"
+    },
+    "12603": {
+      "date": "28-Jul-2024",
+      "title": "TRCCC 2024 R8",
+      "scraped_at": "2026-09-22T16:03:22Z"
+    },
+    "12520": {
+      "date": "21-Jul-2024",
+      "title": "SW Regional Round 3",
+      "scraped_at": "2026-09-22T16:03:33Z"
+    },
+    "12454": {
+      "date": "14-Jul-2024",
+      "title": "TRCCC 2024 R7",
+      "scraped_at": "2026-09-22T16:03:44Z"
+    },
+    "12207": {
+      "date": "23-Jun-2024",
+      "title": "TRCCC 2024 R6",
+      "scraped_at": "2026-09-22T16:03:53Z"
+    },
+    "12039": {
+      "date": "09-Jun-2024",
+      "title": "TRCCC 2024 R5",
+      "scraped_at": "2026-09-22T16:04:04Z"
+    },
+    "11819": {
+      "date": "19-May-2024",
+      "title": "TRCCC 2024 R4",
+      "scraped_at": "2026-09-22T16:04:13Z"
+    },
+    "11731": {
+      "date": "12-May-2024",
+      "title": "TRCCC 2024 R3",
+      "scraped_at": "2026-09-22T16:04:22Z"
+    },
+    "11578": {
+      "date": "27-Apr-2024",
+      "title": "TRCCC 2024 R2",
+      "scraped_at": "2026-09-22T16:04:30Z"
+    },
+    "11426": {
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "scraped_at": "2026-09-22T16:04:40Z"
+    },
+    "9387": {
+      "date": "24-Sep-2023",
+      "title": "TRCCC 2023 R10",
+      "scraped_at": "2026-09-22T16:04:47Z"
+    },
+    "9241": {
+      "date": "10-Sep-2023",
+      "title": "TRCCC 2023 R9",
+      "scraped_at": "2026-09-22T16:04:55Z"
+    },
+    "9094": {
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "scraped_at": "2026-09-22T16:05:03Z"
+    },
+    "8969": {
+      "date": "13-Aug-2023",
+      "title": "TRCCC 2023 R7",
+      "scraped_at": "2026-09-22T16:05:10Z"
+    },
+    "8780": {
+      "date": "23-Jul-2023",
+      "title": "SW Regionals 2023 R4 TRCCC",
+      "scraped_at": "2026-09-22T16:05:22Z"
+    },
+    "8615": {
+      "date": "09-Jul-2023",
+      "title": "TRCCC 2023 R6",
+      "scraped_at": "2026-09-22T16:05:28Z"
+    },
+    "8616": {
+      "date": "07-Jul-2023",
+      "title": "Test Meeting 1",
+      "scraped_at": "2026-09-22T16:05:30Z"
+    },
+    "21436": {
+      "date": "27-Sep-2026",
+      "title": "TRCCC 2026 R12",
+      "scraped_at": "2026-09-27T15:33:20Z"
+    }
+  },
+  "venue_id": 1117
+}

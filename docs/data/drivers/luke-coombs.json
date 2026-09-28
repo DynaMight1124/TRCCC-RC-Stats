@@ -1,0 +1,194 @@
+{
+  "name": "Luke Coombs",
+  "slug": "luke-coombs",
+  "summary": {
+    "name": "Luke Coombs",
+    "slug": "luke-coombs",
+    "meetings_count": 8,
+    "attendance_pct": 18.2,
+    "total_laps": 405,
+    "a_final_wins": 0,
+    "a_final_podiums": 2,
+    "a_final_appearances": 7,
+    "a_final_rate": 87.5,
+    "a_final_podium_rate": 28.6,
+    "a_final_avg_pos": 4.4,
+    "a_finals_by_class": {
+      "Stadium Trucks": 7
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "Stadium Trucks"
+    ],
+    "best_lap": 22.8,
+    "metronome": 1.88,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Stadium Trucks": 22.8,
+      "2WD Buggy": 27.39
+    },
+    "best_runs_per_class": {
+      "Stadium Trucks": {
+        "laps": 13,
+        "seconds": 320.53,
+        "result_str": "13 / 320.53",
+        "meeting_date": "18-Aug-2024"
+      },
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 330.01,
+        "result_str": "11 / 330.01",
+        "meeting_date": "11-Apr-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 3,
+        "rank": 3,
+        "meeting_date": "12-Apr-2025",
+        "meeting_title": "TRCCC 2025 R1"
+      },
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 3,
+        "rank": 33,
+        "meeting_date": "11-Apr-2026",
+        "meeting_title": "TRCCC 2026 R1"
+      }
+    },
+    "highest_quals_per_class": {
+      "Stadium Trucks": 2,
+      "2WD Buggy": 36
+    },
+    "best10_per_class": {
+      "Stadium Trucks": 23.69,
+      "2WD Buggy": 29.42
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 19520,
+      "date": "11-Apr-2026",
+      "title": "TRCCC 2026 R1",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 3,
+      "laps": 11,
+      "total_seconds": 330.01,
+      "best_lap": 28.42,
+      "average_lap": 30.0,
+      "best10": 29.42
+    },
+    {
+      "meeting_id": 17330,
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 3,
+      "laps": 11,
+      "total_seconds": 312.61,
+      "best_lap": 25.71,
+      "average_lap": 28.41,
+      "best10": 27.94
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 6,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 27.11,
+      "average_lap": null,
+      "best10": 27.54
+    },
+    {
+      "meeting_id": 16295,
+      "date": "29-Jun-2025",
+      "title": "TRCCC 2025 R7",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 5,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": 26.79,
+      "average_lap": null,
+      "best10": 27.15
+    },
+    {
+      "meeting_id": 15693,
+      "date": "11-May-2025",
+      "title": "TRCCC 2025 R3",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 5,
+      "laps": 11,
+      "total_seconds": 326.06,
+      "best_lap": 26.77,
+      "average_lap": 29.64,
+      "best10": 28.95
+    },
+    {
+      "meeting_id": 15357,
+      "date": "12-Apr-2025",
+      "title": "TRCCC 2025 R1",
+      "season": "24/25",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 3,
+      "laps": 10,
+      "total_seconds": 305.24,
+      "best_lap": 29.23,
+      "average_lap": 30.52,
+      "best10": 30.52
+    },
+    {
+      "meeting_id": 12808,
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 5,
+      "laps": 13,
+      "total_seconds": 320.53,
+      "best_lap": 23.19,
+      "average_lap": 24.66,
+      "best10": 24.19
+    },
+    {
+      "meeting_id": 11731,
+      "date": "12-May-2024",
+      "title": "TRCCC 2024 R3",
+      "season": "23/24",
+      "class": "Stadium Trucks",
+      "final": "A Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 311.57,
+      "best_lap": 26.92,
+      "average_lap": 28.32,
+      "best10": 27.9
+    }
+  ]
+}

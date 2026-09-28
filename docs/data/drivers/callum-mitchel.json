@@ -1,0 +1,86 @@
+{
+  "name": "Callum Mitchel",
+  "slug": "callum-mitchel",
+  "summary": {
+    "name": "Callum Mitchel",
+    "slug": "callum-mitchel",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 124,
+    "a_final_wins": 0,
+    "a_final_podiums": 1,
+    "a_final_appearances": 2,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 50.0,
+    "a_final_avg_pos": 6.0,
+    "a_finals_by_class": {
+      "2WD Buggy": 2
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 20.42,
+    "metronome": 1.68,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 20.42
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 13,
+        "seconds": 311.18,
+        "result_str": "13 / 311.18",
+        "meeting_date": "23-Aug-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 2,
+        "rank": 2,
+        "meeting_date": "08-Jun-2025",
+        "meeting_title": "TRCCC 2025 R5"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 2
+    },
+    "best10_per_class": {
+      "2WD Buggy": 20.73
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21039,
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 10,
+      "laps": 13,
+      "total_seconds": 311.18,
+      "best_lap": 21.15,
+      "average_lap": 23.93,
+      "best10": 22.66
+    },
+    {
+      "meeting_id": 16048,
+      "date": "08-Jun-2025",
+      "title": "TRCCC 2025 R5",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 13,
+      "total_seconds": 319.87,
+      "best_lap": 24.04,
+      "average_lap": 24.61,
+      "best10": 24.36
+    }
+  ]
+}

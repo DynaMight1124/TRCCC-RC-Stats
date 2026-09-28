@@ -1,0 +1,84 @@
+{
+  "name": "Doug Penman",
+  "slug": "doug-penman",
+  "summary": {
+    "name": "Doug Penman",
+    "slug": "doug-penman",
+    "meetings_count": 2,
+    "attendance_pct": 4.5,
+    "total_laps": 104,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 25.13,
+    "metronome": 1.76,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 25.13
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 303.57,
+        "result_str": "11 / 303.57",
+        "meeting_date": "18-Aug-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 2,
+        "rank": 32,
+        "meeting_date": "18-Aug-2024",
+        "meeting_title": "TRCCC 2024 R9"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 32
+    },
+    "best10_per_class": {
+      "2WD Buggy": 27.16
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 12879,
+      "date": "25-Aug-2024",
+      "title": "TRCCC 2024 R10",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 2,
+      "laps": 11,
+      "total_seconds": 332.19,
+      "best_lap": 28.27,
+      "average_lap": 30.2,
+      "best10": 29.72
+    },
+    {
+      "meeting_id": 12808,
+      "date": "18-Aug-2024",
+      "title": "TRCCC 2024 R9",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 2,
+      "laps": 11,
+      "total_seconds": 303.57,
+      "best_lap": 26.01,
+      "average_lap": 27.6,
+      "best10": 27.4
+    }
+  ]
+}

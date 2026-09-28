@@ -1,0 +1,112 @@
+{
+  "name": "Greg Lane",
+  "slug": "greg-lane",
+  "summary": {
+    "name": "Greg Lane",
+    "slug": "greg-lane",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 244,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 21.04,
+    "metronome": 1.26,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 21.04
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 14,
+        "seconds": 316.95,
+        "result_str": "14 / 316.95",
+        "meeting_date": "23-Aug-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 10,
+        "rank": 20,
+        "meeting_date": "27-Sep-2026",
+        "meeting_title": "TRCCC 2026 R12"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 18
+    },
+    "best10_per_class": {
+      "2WD Buggy": 21.73
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21436,
+      "date": "27-Sep-2026",
+      "title": "TRCCC 2026 R12",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 21039,
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 3,
+      "laps": 14,
+      "total_seconds": 316.95,
+      "best_lap": 21.63,
+      "average_lap": 22.63,
+      "best10": 22.21
+    },
+    {
+      "meeting_id": 20261,
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 303.23,
+      "best_lap": 23.78,
+      "average_lap": 25.26,
+      "best10": 24.4
+    },
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 307.15,
+      "best_lap": 24.28,
+      "average_lap": 25.59,
+      "best10": 24.98
+    }
+  ]
+}

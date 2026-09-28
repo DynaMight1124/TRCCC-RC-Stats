@@ -1,0 +1,70 @@
+{
+  "name": "Nick Cochrane",
+  "slug": "nick-cochrane",
+  "summary": {
+    "name": "Nick Cochrane",
+    "slug": "nick-cochrane",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 52,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 25.6,
+    "metronome": 1.28,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 25.6
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 326.84,
+        "result_str": "12 / 326.84",
+        "meeting_date": "14-Apr-2024"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 2,
+        "rank": 22,
+        "meeting_date": "14-Apr-2024",
+        "meeting_title": "TRCCC 2024 R1"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 25
+    },
+    "best10_per_class": {
+      "2WD Buggy": 26.21
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 11426,
+      "date": "14-Apr-2024",
+      "title": "TRCCC 2024 R1",
+      "season": "23/24",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 2,
+      "laps": 12,
+      "total_seconds": 326.84,
+      "best_lap": 25.96,
+      "average_lap": 27.24,
+      "best10": 26.8
+    }
+  ]
+}

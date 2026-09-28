@@ -1,0 +1,181 @@
+{
+  "name": "Charlie Anyon",
+  "slug": "charlie-anyon",
+  "summary": {
+    "name": "Charlie Anyon",
+    "slug": "charlie-anyon",
+    "meetings_count": 7,
+    "attendance_pct": 15.9,
+    "total_laps": 431,
+    "a_final_wins": 0,
+    "a_final_podiums": 2,
+    "a_final_appearances": 6,
+    "a_final_rate": 85.7,
+    "a_final_podium_rate": 33.3,
+    "a_final_avg_pos": 5.5,
+    "a_finals_by_class": {
+      "2WD Buggy": 5,
+      "4WD Buggy": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "4WD Buggy"
+    ],
+    "best_lap": 20.3,
+    "metronome": 1.04,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 20.3,
+      "4WD Buggy": 21.6
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 13,
+        "seconds": 305.84,
+        "result_str": "13 / 305.84",
+        "meeting_date": "24-May-2026"
+      },
+      "4WD Buggy": {
+        "laps": 14,
+        "seconds": 321.51,
+        "result_str": "14 / 321.51",
+        "meeting_date": "12-Jul-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 2,
+        "rank": 2,
+        "meeting_date": "24-May-2026",
+        "meeting_title": "TRCCC 2026 R4"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 3,
+        "rank": 3,
+        "meeting_date": "12-Jul-2026",
+        "meeting_title": "TRCCC 2026 R7"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 3,
+      "4WD Buggy": 3
+    },
+    "best10_per_class": {
+      "2WD Buggy": 20.61,
+      "4WD Buggy": 22.08
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 21039,
+      "date": "23-Aug-2026",
+      "title": "TRCCC 2026 R10",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 20581,
+      "date": "12-Jul-2026",
+      "title": "TRCCC 2026 R7",
+      "season": "25/26",
+      "class": "4WD Buggy",
+      "final": "A Final",
+      "position": 3,
+      "laps": 14,
+      "total_seconds": 321.51,
+      "best_lap": 22.11,
+      "average_lap": 22.96,
+      "best10": 22.44
+    },
+    {
+      "meeting_id": 20417,
+      "date": "28-Jun-2026",
+      "title": "TRCCC 2026 R6",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 6,
+      "laps": 13,
+      "total_seconds": 311.01,
+      "best_lap": 22.97,
+      "average_lap": 23.92,
+      "best10": 23.5
+    },
+    {
+      "meeting_id": 20261,
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 10,
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best_lap": null,
+      "average_lap": null,
+      "best10": null
+    },
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 2,
+      "laps": 13,
+      "total_seconds": 305.84,
+      "best_lap": 22.95,
+      "average_lap": 23.52,
+      "best10": 23.32
+    },
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 6,
+      "laps": 12,
+      "total_seconds": 304.31,
+      "best_lap": 24.39,
+      "average_lap": 25.35,
+      "best10": 24.82
+    },
+    {
+      "meeting_id": 19520,
+      "date": "11-Apr-2026",
+      "title": "TRCCC 2026 R1",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 6,
+      "laps": 9,
+      "total_seconds": 305.96,
+      "best_lap": 32.11,
+      "average_lap": 33.99,
+      "best10": null
+    }
+  ]
+}

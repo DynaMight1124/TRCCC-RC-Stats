@@ -1,0 +1,112 @@
+{
+  "name": "James Santer",
+  "slug": "james-santer",
+  "summary": {
+    "name": "James Santer",
+    "slug": "james-santer",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 196,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 25.33,
+    "metronome": 2.36,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 25.33
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 300.07,
+        "result_str": "11 / 300.07",
+        "meeting_date": "12-Jul-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 1,
+        "rank": 31,
+        "meeting_date": "24-May-2026",
+        "meeting_title": "TRCCC 2026 R4"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 31
+    },
+    "best10_per_class": {
+      "2WD Buggy": 26.27
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20581,
+      "date": "12-Jul-2026",
+      "title": "TRCCC 2026 R7",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 3,
+      "laps": 11,
+      "total_seconds": 300.07,
+      "best_lap": 25.77,
+      "average_lap": 27.27,
+      "best10": 26.97
+    },
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 1,
+      "laps": 11,
+      "total_seconds": 302.93,
+      "best_lap": 26.5,
+      "average_lap": 27.53,
+      "best10": 27.31
+    },
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 10,
+      "laps": 9,
+      "total_seconds": 300.33,
+      "best_lap": 28.33,
+      "average_lap": 33.37,
+      "best10": null
+    },
+    {
+      "meeting_id": 19689,
+      "date": "26-Apr-2026",
+      "title": "TRCCC 2026 R2",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "E Final",
+      "position": 3,
+      "laps": 10,
+      "total_seconds": 321.13,
+      "best_lap": 30.24,
+      "average_lap": 32.11,
+      "best10": 32.11
+    }
+  ]
+}

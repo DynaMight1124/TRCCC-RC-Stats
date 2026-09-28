@@ -1,0 +1,70 @@
+{
+  "name": "Barrie Davis",
+  "slug": "barrie-davis",
+  "summary": {
+    "name": "Barrie Davis",
+    "slug": "barrie-davis",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 52,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 26.49,
+    "metronome": 2.54,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Vintage / Rear Motor": 26.49
+    },
+    "best_runs_per_class": {
+      "Vintage / Rear Motor": {
+        "laps": 11,
+        "seconds": 326.93,
+        "result_str": "11 / 326.93",
+        "meeting_date": "26-Apr-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Vintage / Rear Motor": {
+        "final": "B Final",
+        "position": 4,
+        "rank": 14,
+        "meeting_date": "26-Apr-2026",
+        "meeting_title": "TRCCC 2026 R2"
+      }
+    },
+    "highest_quals_per_class": {
+      "Vintage / Rear Motor": 12
+    },
+    "best10_per_class": {
+      "Vintage / Rear Motor": 28.45
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 19689,
+      "date": "26-Apr-2026",
+      "title": "TRCCC 2026 R2",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 326.93,
+      "best_lap": 27.18,
+      "average_lap": 29.72,
+      "best10": 29.28
+    }
+  ]
+}

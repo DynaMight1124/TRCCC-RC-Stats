@@ -1,0 +1,122 @@
+{
+  "name": "Coran Singleton",
+  "slug": "coran-singleton",
+  "summary": {
+    "name": "Coran Singleton",
+    "slug": "coran-singleton",
+    "meetings_count": 3,
+    "attendance_pct": 6.8,
+    "total_laps": 167,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy",
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 24.48,
+    "metronome": 2.03,
+    "badges_count": 1
+  },
+  "badges": [
+    {
+      "id": "multi_class",
+      "label": "Multi-Class",
+      "icon": "shuffle",
+      "desc": "Competes in multiple classes"
+    }
+  ],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Vintage / Rear Motor": 24.48,
+      "2WD Buggy": 24.95
+    },
+    "best_runs_per_class": {
+      "Vintage / Rear Motor": {
+        "laps": 12,
+        "seconds": 312.69,
+        "result_str": "12 / 312.69",
+        "meeting_date": "10-Aug-2025"
+      },
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 302.79,
+        "result_str": "11 / 302.79",
+        "meeting_date": "28-Sep-2025"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Vintage / Rear Motor": {
+        "final": "B Final",
+        "position": 1,
+        "rank": 11,
+        "meeting_date": "10-Aug-2025",
+        "meeting_title": "TRCCC 2025 R9"
+      },
+      "2WD Buggy": {
+        "final": "D Final",
+        "position": 4,
+        "rank": 34,
+        "meeting_date": "28-Sep-2025",
+        "meeting_title": "TRCCC 2025 R12"
+      }
+    },
+    "highest_quals_per_class": {
+      "Vintage / Rear Motor": 12,
+      "2WD Buggy": 33
+    },
+    "best10_per_class": {
+      "Vintage / Rear Motor": 25.49,
+      "2WD Buggy": 26.2
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 17330,
+      "date": "28-Sep-2025",
+      "title": "TRCCC 2025 R12",
+      "season": "24/25",
+      "class": "2WD Buggy",
+      "final": "D Final",
+      "position": 4,
+      "laps": 11,
+      "total_seconds": 302.79,
+      "best_lap": 25.08,
+      "average_lap": 27.52,
+      "best10": 27.26
+    },
+    {
+      "meeting_id": 16790,
+      "date": "10-Aug-2025",
+      "title": "TRCCC 2025 R9",
+      "season": "24/25",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 1,
+      "laps": 12,
+      "total_seconds": 312.69,
+      "best_lap": 24.48,
+      "average_lap": 26.05,
+      "best10": 25.49
+    },
+    {
+      "meeting_id": 16467,
+      "date": "13-Jul-2025",
+      "title": "TRCCC 2025 R8",
+      "season": "24/25",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 3,
+      "laps": 11,
+      "total_seconds": 310.28,
+      "best_lap": 26.13,
+      "average_lap": 28.2,
+      "best10": 27.87
+    }
+  ]
+}

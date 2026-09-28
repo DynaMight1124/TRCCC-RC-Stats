@@ -1,0 +1,72 @@
+{
+  "name": "Jon Tucker",
+  "slug": "jon-tucker",
+  "summary": {
+    "name": "Jon Tucker",
+    "slug": "jon-tucker",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 65,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 1,
+    "a_final_rate": 100.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 6.0,
+    "a_finals_by_class": {
+      "2WD Buggy": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 22.7,
+    "metronome": 1.47,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 22.7
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 13,
+        "seconds": 316.82,
+        "result_str": "13 / 316.82",
+        "meeting_date": "24-May-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 6,
+        "rank": 6,
+        "meeting_date": "24-May-2026",
+        "meeting_title": "TRCCC 2026 R4"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 7
+    },
+    "best10_per_class": {
+      "2WD Buggy": 23.26
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "A Final",
+      "position": 6,
+      "laps": 13,
+      "total_seconds": 316.82,
+      "best_lap": 22.9,
+      "average_lap": 24.37,
+      "best10": 23.82
+    }
+  ]
+}

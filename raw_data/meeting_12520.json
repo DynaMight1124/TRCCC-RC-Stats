@@ -1,0 +1,5117 @@
+{
+  "id": 12520,
+  "date": "21-Jul-2024",
+  "title": "SW Regional Round 3",
+  "venue_id": 1117,
+  "scraped_at": "2026-09-22T16:03:33Z",
+  "qualifying": [
+    {
+      "class": "2wd Buggy",
+      "position": 1,
+      "driver": "Harry Mears",
+      "best_run": "16 / 317.41",
+      "best_laps": 16,
+      "best_seconds": 317.41
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 2,
+      "driver": "Jordan Newbery",
+      "best_run": "15 / 309.55",
+      "best_laps": 15,
+      "best_seconds": 309.55
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 3,
+      "driver": "Keith Halsey",
+      "best_run": "15 / 311.57",
+      "best_laps": 15,
+      "best_seconds": 311.57
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 4,
+      "driver": "Bryan Burrows",
+      "best_run": "15 / 311.87",
+      "best_laps": 15,
+      "best_seconds": 311.87
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 5,
+      "driver": "Carl Davis",
+      "best_run": "15 / 314.76",
+      "best_laps": 15,
+      "best_seconds": 314.76
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 6,
+      "driver": "Adam Roulston",
+      "best_run": "15 / 319.44",
+      "best_laps": 15,
+      "best_seconds": 319.44
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 7,
+      "driver": "Phil Chapman",
+      "best_run": "15 / 312.29",
+      "best_laps": 15,
+      "best_seconds": 312.29
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 8,
+      "driver": "Gavin Knight",
+      "best_run": "15 / 321.37",
+      "best_laps": 15,
+      "best_seconds": 321.37
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 9,
+      "driver": "Steve Ashton",
+      "best_run": "15 / 321.56",
+      "best_laps": 15,
+      "best_seconds": 321.56
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 10,
+      "driver": "Paul Rose",
+      "best_run": "15 / 316.78",
+      "best_laps": 15,
+      "best_seconds": 316.78
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 11,
+      "driver": "Michael Halsey",
+      "best_run": "15 / 319.79",
+      "best_laps": 15,
+      "best_seconds": 319.79
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 12,
+      "driver": "Daniel Hurrell",
+      "best_run": "15 / 316.51",
+      "best_laps": 15,
+      "best_seconds": 316.51
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 13,
+      "driver": "Stuart Ball",
+      "best_run": "15 / 321.04",
+      "best_laps": 15,
+      "best_seconds": 321.04
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 14,
+      "driver": "Liam Galvin",
+      "best_run": "14 / 301.22",
+      "best_laps": 14,
+      "best_seconds": 301.22
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 15,
+      "driver": "Martyn Hadley",
+      "best_run": "14 / 302.65",
+      "best_laps": 14,
+      "best_seconds": 302.65
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 16,
+      "driver": "Andrew Leach",
+      "best_run": "14 / 305.81",
+      "best_laps": 14,
+      "best_seconds": 305.81
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 17,
+      "driver": "Nick Dustan",
+      "best_run": "14 / 305.64",
+      "best_laps": 14,
+      "best_seconds": 305.64
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 18,
+      "driver": "Paul Hopkins",
+      "best_run": "14 / 303.88",
+      "best_laps": 14,
+      "best_seconds": 303.88
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 19,
+      "driver": "Sam Brown",
+      "best_run": "14 / 305.25",
+      "best_laps": 14,
+      "best_seconds": 305.25
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 20,
+      "driver": "Chris Busby",
+      "best_run": "14 / 305.72",
+      "best_laps": 14,
+      "best_seconds": 305.72
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 21,
+      "driver": "Chris Cooke",
+      "best_run": "14 / 310.98",
+      "best_laps": 14,
+      "best_seconds": 310.98
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 22,
+      "driver": "James Westmoreland",
+      "best_run": "14 / 309.14",
+      "best_laps": 14,
+      "best_seconds": 309.14
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 23,
+      "driver": "Mark Cox",
+      "best_run": "14 / 311.03",
+      "best_laps": 14,
+      "best_seconds": 311.03
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 24,
+      "driver": "Dave Berry",
+      "best_run": "14 / 315.10",
+      "best_laps": 14,
+      "best_seconds": 315.1
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 25,
+      "driver": "Alan Stocks",
+      "best_run": "14 / 308.85",
+      "best_laps": 14,
+      "best_seconds": 308.85
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 26,
+      "driver": "Jonathan Baker",
+      "best_run": "14 / 305.91",
+      "best_laps": 14,
+      "best_seconds": 305.91
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 27,
+      "driver": "Trinity Ley",
+      "best_run": "14 / 310.34",
+      "best_laps": 14,
+      "best_seconds": 310.34
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 28,
+      "driver": "John Howe",
+      "best_run": "14 / 309.11",
+      "best_laps": 14,
+      "best_seconds": 309.11
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 29,
+      "driver": "Steve Hawkins",
+      "best_run": "14 / 313.72",
+      "best_laps": 14,
+      "best_seconds": 313.72
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 30,
+      "driver": "Michael Julian",
+      "best_run": "14 / 313.53",
+      "best_laps": 14,
+      "best_seconds": 313.53
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 31,
+      "driver": "Kev Dymond",
+      "best_run": "14 / 322.47",
+      "best_laps": 14,
+      "best_seconds": 322.47
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 32,
+      "driver": "Keith Jenkins",
+      "best_run": "14 / 311.89",
+      "best_laps": 14,
+      "best_seconds": 311.89
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 33,
+      "driver": "Chris Law",
+      "best_run": "13 / 302.98",
+      "best_laps": 13,
+      "best_seconds": 302.98
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 34,
+      "driver": "John Farringdon",
+      "best_run": "14 / 321.36",
+      "best_laps": 14,
+      "best_seconds": 321.36
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 35,
+      "driver": "Alistair Munro",
+      "best_run": "14 / 320.53",
+      "best_laps": 14,
+      "best_seconds": 320.53
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 36,
+      "driver": "Adam Parry",
+      "best_run": "14 / 321.69",
+      "best_laps": 14,
+      "best_seconds": 321.69
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 37,
+      "driver": "Neale Carbis",
+      "best_run": "13 / 309.03",
+      "best_laps": 13,
+      "best_seconds": 309.03
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 38,
+      "driver": "Ross Everill",
+      "best_run": "14 / 321.74",
+      "best_laps": 14,
+      "best_seconds": 321.74
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 39,
+      "driver": "Chris Lewis",
+      "best_run": "14 / 322.65",
+      "best_laps": 14,
+      "best_seconds": 322.65
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 40,
+      "driver": "Andrew Nelson",
+      "best_run": "13 / 305.86",
+      "best_laps": 13,
+      "best_seconds": 305.86
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 41,
+      "driver": "Andrius Zilevicius",
+      "best_run": "13 / 314.80",
+      "best_laps": 13,
+      "best_seconds": 314.8
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 42,
+      "driver": "Ollie Davies",
+      "best_run": "13 / 285.16",
+      "best_laps": 13,
+      "best_seconds": 285.16
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 43,
+      "driver": "Martin Bristow",
+      "best_run": "13 / 310.92",
+      "best_laps": 13,
+      "best_seconds": 310.92
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 44,
+      "driver": "Tobie Osmond",
+      "best_run": "13 / 319.12",
+      "best_laps": 13,
+      "best_seconds": 319.12
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 45,
+      "driver": "Charlie Chappell",
+      "best_run": "13 / 309.48",
+      "best_laps": 13,
+      "best_seconds": 309.48
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 46,
+      "driver": "Jack Babb",
+      "best_run": "13 / 311.89",
+      "best_laps": 13,
+      "best_seconds": 311.89
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 47,
+      "driver": "Terry Leach",
+      "best_run": "13 / 313.06",
+      "best_laps": 13,
+      "best_seconds": 313.06
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 48,
+      "driver": "Nathan Jarvis",
+      "best_run": "13 / 312.44",
+      "best_laps": 13,
+      "best_seconds": 312.44
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 49,
+      "driver": "Harry Porter",
+      "best_run": "13 / 322.80",
+      "best_laps": 13,
+      "best_seconds": 322.8
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 50,
+      "driver": "Adam Mozes",
+      "best_run": "13 / 315.93",
+      "best_laps": 13,
+      "best_seconds": 315.93
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 51,
+      "driver": "Joe Bristow",
+      "best_run": "13 / 324.55",
+      "best_laps": 13,
+      "best_seconds": 324.55
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 52,
+      "driver": "Matt Martin",
+      "best_run": "12 / 309.22",
+      "best_laps": 12,
+      "best_seconds": 309.22
+    },
+    {
+      "class": "2wd Buggy",
+      "position": 53,
+      "driver": "Jonathon Firmin",
+      "best_run": "11 / 324.85",
+      "best_laps": 11,
+      "best_seconds": 324.85
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 1,
+      "driver": "Harry Mears",
+      "best_run": "16 / 307.68",
+      "best_laps": 16,
+      "best_seconds": 307.68
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 2,
+      "driver": "Jordan Newbery",
+      "best_run": "16 / 316.23",
+      "best_laps": 16,
+      "best_seconds": 316.23
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 3,
+      "driver": "Keith Halsey",
+      "best_run": "15 / 300.19",
+      "best_laps": 15,
+      "best_seconds": 300.19
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 4,
+      "driver": "Gavin Knight",
+      "best_run": "15 / 302.58",
+      "best_laps": 15,
+      "best_seconds": 302.58
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 5,
+      "driver": "Adam Roulston",
+      "best_run": "15 / 303.00",
+      "best_laps": 15,
+      "best_seconds": 303.0
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 6,
+      "driver": "Steve Ashton",
+      "best_run": "15 / 310.36",
+      "best_laps": 15,
+      "best_seconds": 310.36
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 7,
+      "driver": "Michael Halsey",
+      "best_run": "15 / 313.84",
+      "best_laps": 15,
+      "best_seconds": 313.84
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 8,
+      "driver": "Paul Field",
+      "best_run": "15 / 311.23",
+      "best_laps": 15,
+      "best_seconds": 311.23
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 9,
+      "driver": "Chris Cooke",
+      "best_run": "15 / 315.90",
+      "best_laps": 15,
+      "best_seconds": 315.9
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 10,
+      "driver": "Matt Hodges",
+      "best_run": "15 / 314.49",
+      "best_laps": 15,
+      "best_seconds": 314.49
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 11,
+      "driver": "Neale Carbis",
+      "best_run": "14 / 303.01",
+      "best_laps": 14,
+      "best_seconds": 303.01
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 12,
+      "driver": "Alistair Munro",
+      "best_run": "13 / 301.98",
+      "best_laps": 13,
+      "best_seconds": 301.98
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 13,
+      "driver": "Jamie Stringer",
+      "best_run": "13 / 306.69",
+      "best_laps": 13,
+      "best_seconds": 306.69
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 14,
+      "driver": "Adam Mozes",
+      "best_run": "14 / 318.59",
+      "best_laps": 14,
+      "best_seconds": 318.59
+    },
+    {
+      "class": "4wd Buggy",
+      "position": 15,
+      "driver": "Nigel Julian",
+      "best_run": "11 / 308.75",
+      "best_laps": 11,
+      "best_seconds": 308.75
+    }
+  ],
+  "finals": [
+    {
+      "class": "2wd Buggy",
+      "final": "F Final",
+      "position": 1,
+      "car": 1,
+      "driver": "Joe Bristow",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "4",
+      "average_lap": 3.0,
+      "best10": 1.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "F Final",
+      "position": 2,
+      "car": 3,
+      "driver": "Jonathon Firmin",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "5",
+      "average_lap": 3.0,
+      "best10": 2.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "F Final",
+      "position": 3,
+      "car": 2,
+      "driver": "Matt Martin",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "6",
+      "average_lap": 3.0,
+      "best10": 3.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 1,
+      "car": 2,
+      "driver": "Ollie Davies",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "11",
+      "average_lap": 10.0,
+      "best10": 1.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 2,
+      "car": 5,
+      "driver": "Charlie Chappell",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "12",
+      "average_lap": 10.0,
+      "best10": 2.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 3,
+      "car": 8,
+      "driver": "Nathan Jarvis",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "13",
+      "average_lap": 10.0,
+      "best10": 3.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 4,
+      "car": 3,
+      "driver": "Martin Bristow",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 10.0,
+      "best10": 4.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 5,
+      "car": 4,
+      "driver": "Tobie Osmond",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "15",
+      "average_lap": 10.0,
+      "best10": 5.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 6,
+      "car": 10,
+      "driver": "Adam Mozes",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "16",
+      "average_lap": 10.0,
+      "best10": 6.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 7,
+      "car": 7,
+      "driver": "Terry Leach",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "17",
+      "average_lap": 10.0,
+      "best10": 7.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 8,
+      "car": 1,
+      "driver": "Andrius Zilevicius",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "18",
+      "average_lap": 10.0,
+      "best10": 8.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 9,
+      "car": 6,
+      "driver": "Jack Babb",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "19",
+      "average_lap": 10.0,
+      "best10": 9.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "E Final",
+      "position": 10,
+      "car": 9,
+      "driver": "Harry Porter",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "20",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 1,
+      "car": 1,
+      "driver": "Kev Dymond",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "11",
+      "average_lap": 10.0,
+      "best10": 1.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 2,
+      "car": 8,
+      "driver": "Ross Everill",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "12",
+      "average_lap": 10.0,
+      "best10": 2.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 3,
+      "car": 9,
+      "driver": "Chris Lewis",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "13",
+      "average_lap": 10.0,
+      "best10": 3.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 4,
+      "car": 4,
+      "driver": "John Farringdon",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 10.0,
+      "best10": 4.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 5,
+      "car": 6,
+      "driver": "Adam Parry",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "15",
+      "average_lap": 10.0,
+      "best10": 5.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 6,
+      "car": 3,
+      "driver": "Chris Law",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "16",
+      "average_lap": 10.0,
+      "best10": 6.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 7,
+      "car": 10,
+      "driver": "Andrew Nelson",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "17",
+      "average_lap": 10.0,
+      "best10": 7.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 8,
+      "car": 5,
+      "driver": "Alistair Munro",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "18",
+      "average_lap": 10.0,
+      "best10": 8.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 9,
+      "car": 2,
+      "driver": "Keith Jenkins",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "19",
+      "average_lap": 10.0,
+      "best10": 9.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "D Final",
+      "position": 10,
+      "car": 7,
+      "driver": "Neale Carbis",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "20",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 1,
+      "car": 2,
+      "driver": "James Westmoreland",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "11",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 1.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 2,
+      "car": 1,
+      "driver": "Chris Cooke",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "12",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 2.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 3,
+      "car": 3,
+      "driver": "Mark Cox",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "13",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 4,
+      "car": 8,
+      "driver": "John Howe",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 4.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 5,
+      "car": 4,
+      "driver": "Dave Berry",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "15",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 5.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 6,
+      "car": 10,
+      "driver": "Michael Julian",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "16",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 6.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 7,
+      "car": 6,
+      "driver": "Jonathan Baker",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "17",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 7.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 8,
+      "car": 5,
+      "driver": "Alan Stocks",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "18",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 8.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 9,
+      "car": 9,
+      "driver": "Steve Hawkins",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "19",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 9.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "C Final",
+      "position": 10,
+      "car": 7,
+      "driver": "Trinity Ley",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "20",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 1,
+      "car": 1,
+      "driver": "Michael Halsey",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "11",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 1.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 2,
+      "car": 4,
+      "driver": "Liam Galvin",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "12",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 2.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 3,
+      "car": 5,
+      "driver": "Martyn Hadley",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "13",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 4,
+      "car": 6,
+      "driver": "Andrew Leach",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 4.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 5,
+      "car": 10,
+      "driver": "Chris Busby",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "15",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 5.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 6,
+      "car": 2,
+      "driver": "Daniel Hurrell",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "16",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 6.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 7,
+      "car": 7,
+      "driver": "Nick Dustan",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "17",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 7.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 8,
+      "car": 8,
+      "driver": "Paul Hopkins",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "18",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 8.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 9,
+      "car": 9,
+      "driver": "Sam Brown",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "19",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 9.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "B Final",
+      "position": 10,
+      "car": 3,
+      "driver": "Stuart Ball",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "20",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 1,
+      "car": 1,
+      "driver": "Harry Mears",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "2",
+      "average_lap": 1.0,
+      "best10": 1.0,
+      "best_lap": 2.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 2,
+      "car": 3,
+      "driver": "Keith Halsey",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "4",
+      "average_lap": 3.0,
+      "best10": 8.0,
+      "best_lap": 1.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 3,
+      "car": 2,
+      "driver": "Jordan Newbery",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "5",
+      "average_lap": 6.0,
+      "best10": 2.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 4,
+      "car": 4,
+      "driver": "Bryan Burrows",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "8",
+      "average_lap": 2.0,
+      "best10": 9.0,
+      "best_lap": 6.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 5,
+      "car": 5,
+      "driver": "Carl Davis",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "8",
+      "average_lap": 9.0,
+      "best10": 3.0,
+      "best_lap": 5.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 6,
+      "car": 7,
+      "driver": "Phil Chapman",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "8",
+      "average_lap": 4.0,
+      "best10": 7.0,
+      "best_lap": 4.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 7,
+      "car": 6,
+      "driver": "Adam Roulston",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "9",
+      "average_lap": 5.0,
+      "best10": 4.0,
+      "best_lap": 7.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 8,
+      "car": 8,
+      "driver": "Gavin Knight",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "12",
+      "average_lap": 7.0,
+      "best10": 5.0,
+      "best_lap": 9.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 9,
+      "car": 10,
+      "driver": "Paul Rose",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "13",
+      "average_lap": 7.0,
+      "best10": 6.0,
+      "best_lap": 8.0
+    },
+    {
+      "class": "2wd Buggy",
+      "final": "A Final",
+      "position": 10,
+      "car": 9,
+      "driver": "Steve Ashton",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "20",
+      "average_lap": 10.0,
+      "best10": 10.0,
+      "best_lap": 10.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "B Final",
+      "position": 1,
+      "car": 1,
+      "driver": "Neale Carbis",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "6",
+      "average_lap": 5.0,
+      "best10": 5.0,
+      "best_lap": 1.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "B Final",
+      "position": 2,
+      "car": 2,
+      "driver": "Alistair Munro",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "7",
+      "average_lap": 5.0,
+      "best10": 5.0,
+      "best_lap": 2.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "B Final",
+      "position": 3,
+      "car": 4,
+      "driver": "Adam Mozes",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "8",
+      "average_lap": 5.0,
+      "best10": 5.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "B Final",
+      "position": 4,
+      "car": 3,
+      "driver": "Jamie Stringer",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "9",
+      "average_lap": 5.0,
+      "best10": 5.0,
+      "best_lap": 4.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "B Final",
+      "position": 5,
+      "car": 5,
+      "driver": "Nigel Julian",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "10",
+      "average_lap": 5.0,
+      "best10": 5.0,
+      "best_lap": 5.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 1,
+      "car": 1,
+      "driver": "Harry Mears",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "2",
+      "average_lap": 1.0,
+      "best10": 1.0,
+      "best_lap": 1.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 2,
+      "car": 2,
+      "driver": "Jordan Newbery",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "4",
+      "average_lap": 3.0,
+      "best10": 2.0,
+      "best_lap": 2.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 3,
+      "car": 3,
+      "driver": "Keith Halsey",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "6",
+      "average_lap": 2.0,
+      "best10": 4.0,
+      "best_lap": 5.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 4,
+      "car": 7,
+      "driver": "Michael Halsey",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "6",
+      "average_lap": 8.0,
+      "best10": 3.0,
+      "best_lap": 3.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 5,
+      "car": 4,
+      "driver": "Gavin Knight",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "8",
+      "average_lap": 4.0,
+      "best10": 5.0,
+      "best_lap": 4.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 6,
+      "car": 10,
+      "driver": "Matt Hodges",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "12",
+      "average_lap": 9.0,
+      "best10": 6.0,
+      "best_lap": 6.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 7,
+      "car": 5,
+      "driver": "Adam Roulston",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 5.0,
+      "best10": 10.0,
+      "best_lap": 9.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 8,
+      "car": 8,
+      "driver": "Paul Field",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 6.0,
+      "best10": 8.0,
+      "best_lap": 8.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 9,
+      "car": 6,
+      "driver": "Steve Ashton",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "14",
+      "average_lap": 7.0,
+      "best10": 7.0,
+      "best_lap": 7.0
+    },
+    {
+      "class": "4wd Buggy",
+      "final": "A Final",
+      "position": 10,
+      "car": 9,
+      "driver": "Chris Cooke",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "result_str": "19",
+      "average_lap": 10.0,
+      "best10": 9.0,
+      "best_lap": 10.0
+    }
+  ],
+  "heats": [
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Busby",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 5,
+      "total_seconds": 185.34,
+      "best10": null,
+      "best_lap": 26.51
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Matt Martin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 199.01,
+      "best10": null,
+      "best_lap": 27.55
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Tobie Osmond",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 185.85,
+      "best10": null,
+      "best_lap": 26.91
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nathan Jarvis",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 194.17,
+      "best10": null,
+      "best_lap": 28.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Charlie Chappell",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 195.9,
+      "best10": null,
+      "best_lap": 28.93
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jack Babb",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 197.47,
+      "best10": null,
+      "best_lap": 30.48
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathon Firmin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 202.12,
+      "best10": null,
+      "best_lap": 30.29
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Joe Bristow",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 207.68,
+      "best10": null,
+      "best_lap": 32.7
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Parry",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Nelson",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 188.55,
+      "best10": null,
+      "best_lap": 25.9
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 203.16,
+      "best10": null,
+      "best_lap": 27.13
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrius Zilevicius",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 210.65,
+      "best10": null,
+      "best_lap": 27.01
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 186.03,
+      "best10": null,
+      "best_lap": 27.02
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Lewis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 207.88,
+      "best10": null,
+      "best_lap": 26.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Terry Leach",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 177.26,
+      "best10": null,
+      "best_lap": 27.36
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Porter",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 201.88,
+      "best10": null,
+      "best_lap": 26.24
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ross Everill",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 5,
+      "total_seconds": 166.35,
+      "best10": null,
+      "best_lap": 29.03
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Farringdon",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 206.01,
+      "best10": null,
+      "best_lap": 24.71
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Dave Berry",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 196.4,
+      "best10": null,
+      "best_lap": 24.78
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathan Baker",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 188.16,
+      "best10": null,
+      "best_lap": 24.14
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martin Bristow",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 185.83,
+      "best10": null,
+      "best_lap": 24.61
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Kev Dymond",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 191.81,
+      "best10": null,
+      "best_lap": 25.62
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 184.21,
+      "best10": null,
+      "best_lap": 24.97
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alan Stocks",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 193.6,
+      "best10": null,
+      "best_lap": 25.09
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Law",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 197.34,
+      "best10": null,
+      "best_lap": 26.52
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Jenkins",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 200.14,
+      "best10": null,
+      "best_lap": 24.83
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ollie Davies",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 181.16,
+      "best10": null,
+      "best_lap": 24.58
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Leach",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 184.61,
+      "best10": null,
+      "best_lap": 24.57
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Hopkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 204.54,
+      "best10": null,
+      "best_lap": 24.46
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Mark Cox",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 182.0,
+      "best10": null,
+      "best_lap": 25.01
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Howe",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 199.26,
+      "best10": null,
+      "best_lap": 24.97
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Julian",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 194.75,
+      "best10": null,
+      "best_lap": 25.55
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Hawkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 195.66,
+      "best10": null,
+      "best_lap": 25.14
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Sam Brown",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 180.22,
+      "best10": null,
+      "best_lap": 24.57
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Trinity Ley",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 182.89,
+      "best10": null,
+      "best_lap": 25.25
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 198.61,
+      "best10": null,
+      "best_lap": 23.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Bryan Burrows",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 193.7,
+      "best10": null,
+      "best_lap": 23.2
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Daniel Hurrell",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 186.4,
+      "best10": null,
+      "best_lap": 23.46
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Carl Davis",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 187.9,
+      "best10": null,
+      "best_lap": 24.17
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 202.3,
+      "best10": null,
+      "best_lap": 24.43
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "James Westmoreland",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 187.2,
+      "best10": null,
+      "best_lap": 24.41
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nick Dustan",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 183.74,
+      "best10": null,
+      "best_lap": 24.93
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Rose",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 195.12,
+      "best10": null,
+      "best_lap": 24.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 189.35,
+      "best10": null,
+      "best_lap": 25.25
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 187.36,
+      "best10": null,
+      "best_lap": 22.55
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Liam Galvin",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 181.15,
+      "best10": null,
+      "best_lap": 23.07
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 187.52,
+      "best10": null,
+      "best_lap": 22.39
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 198.7,
+      "best10": null,
+      "best_lap": 23.7
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Stuart Ball",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 202.3,
+      "best10": null,
+      "best_lap": 23.2
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martyn Hadley",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 201.4,
+      "best10": null,
+      "best_lap": 23.65
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 190.06,
+      "best10": null,
+      "best_lap": 22.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Phil Chapman",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 180.48,
+      "best10": null,
+      "best_lap": 23.69
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 193.1,
+      "best10": null,
+      "best_lap": 25.22
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 202.42,
+      "best10": null,
+      "best_lap": 21.17
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 189.86,
+      "best10": null,
+      "best_lap": 22.73
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 202.86,
+      "best10": null,
+      "best_lap": 23.45
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 203.46,
+      "best10": null,
+      "best_lap": 24.25
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jamie Stringer",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 7,
+      "total_seconds": 201.05,
+      "best10": null,
+      "best_lap": 26.05
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Nigel Julian",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 184.47,
+      "best10": null,
+      "best_lap": 19.85
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 194.07,
+      "best10": null,
+      "best_lap": 20.61
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 200.61,
+      "best10": null,
+      "best_lap": 21.06
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 198.71,
+      "best10": null,
+      "best_lap": 21.48
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Matt Hodges",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 180.34,
+      "best10": null,
+      "best_lap": 21.13
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 7,
+      "total_seconds": 185.98,
+      "best10": null,
+      "best_lap": 22.02
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Paul Field",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 7,
+      "total_seconds": 181.37,
+      "best10": null,
+      "best_lap": 21.9
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 191.83,
+      "best10": null,
+      "best_lap": 22.16
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Busby",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 194.19,
+      "best10": null,
+      "best_lap": 23.69
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Parry",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 182.06,
+      "best10": null,
+      "best_lap": 24.18
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Tobie Osmond",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 202.97,
+      "best10": null,
+      "best_lap": 24.1
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nathan Jarvis",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 205.13,
+      "best10": null,
+      "best_lap": 25.15
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jack Babb",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 194.0,
+      "best10": null,
+      "best_lap": 25.63
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Joe Bristow",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 202.51,
+      "best10": null,
+      "best_lap": 25.71
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Charlie Chappell",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 180.26,
+      "best10": null,
+      "best_lap": 27.13
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Matt Martin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 201.62,
+      "best10": null,
+      "best_lap": 26.11
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathon Firmin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 3,
+      "total_seconds": 90.85,
+      "best10": null,
+      "best_lap": 29.43
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 180.54,
+      "best10": null,
+      "best_lap": 24.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Lewis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 187.49,
+      "best10": null,
+      "best_lap": 25.32
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Nelson",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 183.89,
+      "best10": null,
+      "best_lap": 24.79
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrius Zilevicius",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 186.37,
+      "best10": null,
+      "best_lap": 26.07
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Porter",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 198.98,
+      "best10": null,
+      "best_lap": 25.99
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Terry Leach",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 195.47,
+      "best10": null,
+      "best_lap": 26.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 207.82,
+      "best10": null,
+      "best_lap": 27.41
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ross Everill",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 2,
+      "total_seconds": 66.1,
+      "best10": null,
+      "best_lap": 29.05
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Law",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 197.17,
+      "best10": null,
+      "best_lap": 23.77
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathan Baker",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 198.95,
+      "best10": null,
+      "best_lap": 23.77
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Farringdon",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 198.35,
+      "best10": null,
+      "best_lap": 24.25
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Kev Dymond",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 181.4,
+      "best10": null,
+      "best_lap": 23.81
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martin Bristow",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 202.82,
+      "best10": null,
+      "best_lap": 24.35
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alan Stocks",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 180.42,
+      "best10": null,
+      "best_lap": 24.29
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Jenkins",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 184.7,
+      "best10": null,
+      "best_lap": 25.04
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 182.05,
+      "best10": null,
+      "best_lap": 24.49
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Dave Berry",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 189.68,
+      "best10": null,
+      "best_lap": 24.51
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Mark Cox",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 198.1,
+      "best10": null,
+      "best_lap": 23.11
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Leach",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 200.7,
+      "best10": null,
+      "best_lap": 23.1
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Sam Brown",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 197.58,
+      "best10": null,
+      "best_lap": 23.28
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Hopkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 183.65,
+      "best10": null,
+      "best_lap": 23.77
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ollie Davies",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 197.92,
+      "best10": null,
+      "best_lap": 24.04
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Julian",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 187.41,
+      "best10": null,
+      "best_lap": 24.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Hawkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 203.25,
+      "best10": null,
+      "best_lap": 24.5
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Howe",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 188.31,
+      "best10": null,
+      "best_lap": 24.3
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Trinity Ley",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 186.51,
+      "best10": null,
+      "best_lap": 24.75
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Daniel Hurrell",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 182.66,
+      "best10": null,
+      "best_lap": 22.06
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nick Dustan",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 193.73,
+      "best10": null,
+      "best_lap": 22.55
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Bryan Burrows",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 194.91,
+      "best10": null,
+      "best_lap": 21.75
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 190.67,
+      "best10": null,
+      "best_lap": 22.65
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "James Westmoreland",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 201.26,
+      "best10": null,
+      "best_lap": 23.14
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 199.8,
+      "best10": null,
+      "best_lap": 23.15
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Rose",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 196.19,
+      "best10": null,
+      "best_lap": 23.35
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 181.13,
+      "best10": null,
+      "best_lap": 22.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Carl Davis",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 187.16,
+      "best10": null,
+      "best_lap": 25.92
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 9,
+      "total_seconds": 211.17,
+      "best10": null,
+      "best_lap": 21.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 185.06,
+      "best10": null,
+      "best_lap": 21.59
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 9,
+      "total_seconds": 199.14,
+      "best10": null,
+      "best_lap": 21.53
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Phil Chapman",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 184.32,
+      "best10": null,
+      "best_lap": 21.84
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Stuart Ball",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 186.77,
+      "best10": null,
+      "best_lap": 22.1
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 183.46,
+      "best10": null,
+      "best_lap": 22.28
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 211.59,
+      "best10": null,
+      "best_lap": 23.67
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martyn Hadley",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 197.07,
+      "best10": null,
+      "best_lap": 23.22
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Liam Galvin",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 183.86,
+      "best10": null,
+      "best_lap": 23.75
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 201.01,
+      "best10": null,
+      "best_lap": 20.74
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 181.9,
+      "best10": null,
+      "best_lap": 21.46
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 193.52,
+      "best10": null,
+      "best_lap": 22.88
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 197.11,
+      "best10": null,
+      "best_lap": 22.83
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jamie Stringer",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 197.46,
+      "best10": null,
+      "best_lap": 23.29
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Nigel Julian",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 6,
+      "total_seconds": 187.13,
+      "best10": null,
+      "best_lap": 28.48
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 180.53,
+      "best10": null,
+      "best_lap": 19.41
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 184.85,
+      "best10": null,
+      "best_lap": 19.28
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 189.37,
+      "best10": null,
+      "best_lap": 20.08
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 187.92,
+      "best10": null,
+      "best_lap": 20.43
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Matt Hodges",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 194.85,
+      "best10": null,
+      "best_lap": 20.56
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 9,
+      "total_seconds": 201.47,
+      "best10": null,
+      "best_lap": 20.52
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Paul Field",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 8,
+      "total_seconds": 188.68,
+      "best10": null,
+      "best_lap": 21.1
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 7,
+      "total_seconds": 180.6,
+      "best10": null,
+      "best_lap": 21.27
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Busby",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 307.44,
+      "best10": 23.02,
+      "best_lap": 22.06
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Tobie Osmond",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 303.79,
+      "best10": 24.87,
+      "best_lap": 23.06
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Parry",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 303.8,
+      "best10": 24.23,
+      "best_lap": 23.18
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jack Babb",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 313.01,
+      "best10": 25.66,
+      "best_lap": 23.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Joe Bristow",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 321.74,
+      "best10": 25.91,
+      "best_lap": 24.64
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Charlie Chappell",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 306.28,
+      "best10": 27.24,
+      "best_lap": 24.17
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Matt Martin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 310.21,
+      "best10": 27.88,
+      "best_lap": 24.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathon Firmin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 10,
+      "total_seconds": 306.13,
+      "best10": 30.61,
+      "best_lap": 28.33
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nathan Jarvis",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 6,
+      "total_seconds": 150.58,
+      "best10": null,
+      "best_lap": 24.14
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.47,
+      "best10": 23.94,
+      "best_lap": 23.58
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrius Zilevicius",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 322.1,
+      "best10": 24.6,
+      "best_lap": 23.63
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Nelson",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 323.51,
+      "best10": 24.12,
+      "best_lap": 23.18
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Porter",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 310.51,
+      "best10": 24.94,
+      "best_lap": 23.66
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Terry Leach",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 311.89,
+      "best10": 25.64,
+      "best_lap": 24.33
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 318.89,
+      "best10": 25.9,
+      "best_lap": 24.57
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ross Everill",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 322.38,
+      "best10": 25.51,
+      "best_lap": 23.65
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Lewis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 1,
+      "total_seconds": 25.29,
+      "best10": null,
+      "best_lap": 25.29
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Dave Berry",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 320.93,
+      "best10": 22.62,
+      "best_lap": 22.18
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alan Stocks",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 305.32,
+      "best10": 23.02,
+      "best_lap": 22.52
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Law",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 317.6,
+      "best10": 23.85,
+      "best_lap": 23.14
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Farringdon",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.07,
+      "best10": 23.83,
+      "best_lap": 23.17
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Jenkins",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 322.75,
+      "best10": 23.86,
+      "best_lap": 23.0
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Kev Dymond",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 301.98,
+      "best10": 24.32,
+      "best_lap": 22.86
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 302.25,
+      "best10": 24.45,
+      "best_lap": 23.25
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martin Bristow",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 309.72,
+      "best10": 25.24,
+      "best_lap": 23.76
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathan Baker",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 8,
+      "total_seconds": 190.79,
+      "best10": null,
+      "best_lap": 22.5
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Hopkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 320.44,
+      "best10": 22.59,
+      "best_lap": 22.25
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Mark Cox",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 322.69,
+      "best10": 22.65,
+      "best_lap": 22.31
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Sam Brown",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 322.88,
+      "best10": 22.57,
+      "best_lap": 21.98
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Leach",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 300.5,
+      "best10": 22.7,
+      "best_lap": 22.27
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Howe",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 311.11,
+      "best10": 23.48,
+      "best_lap": 22.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Hawkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 314.57,
+      "best10": 23.73,
+      "best_lap": 23.29
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Julian",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 309.1,
+      "best10": 25.19,
+      "best_lap": 24.45
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Trinity Ley",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 321.14,
+      "best10": 25.5,
+      "best_lap": 24.2
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ollie Davies",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 157.03,
+      "best10": null,
+      "best_lap": 21.56
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Bryan Burrows",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 306.21,
+      "best10": 21.68,
+      "best_lap": 21.43
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 306.95,
+      "best10": 21.73,
+      "best_lap": 21.44
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 310.86,
+      "best10": 21.91,
+      "best_lap": 21.35
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Carl Davis",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 313.98,
+      "best10": 22.08,
+      "best_lap": 21.53
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Rose",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 314.47,
+      "best10": 22.01,
+      "best_lap": 21.32
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nick Dustan",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 316.95,
+      "best10": 22.0,
+      "best_lap": 21.77
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.42,
+      "best10": 22.61,
+      "best_lap": 22.23
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Daniel Hurrell",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.94,
+      "best10": 22.19,
+      "best_lap": 21.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "James Westmoreland",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 302.87,
+      "best10": 22.9,
+      "best_lap": 21.99
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 313.21,
+      "best10": 20.49,
+      "best_lap": 19.95
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 302.75,
+      "best10": 21.19,
+      "best_lap": 20.63
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 307.84,
+      "best10": 21.87,
+      "best_lap": 21.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 308.53,
+      "best10": 21.62,
+      "best_lap": 21.26
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Phil Chapman",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 308.56,
+      "best10": 21.69,
+      "best_lap": 21.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martyn Hadley",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 315.88,
+      "best10": 22.26,
+      "best_lap": 22.0
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 317.17,
+      "best10": 21.31,
+      "best_lap": 20.96
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Stuart Ball",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 304.02,
+      "best10": 22.45,
+      "best_lap": 21.5
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Liam Galvin",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 304.03,
+      "best10": 22.3,
+      "best_lap": 21.35
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 315.97,
+      "best10": 20.83,
+      "best_lap": 20.35
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 302.44,
+      "best10": 20.72,
+      "best_lap": 19.74
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 306.62,
+      "best10": 21.35,
+      "best_lap": 21.05
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 311.54,
+      "best10": 23.72,
+      "best_lap": 23.06
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jamie Stringer",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 321.01,
+      "best10": 23.77,
+      "best_lap": 22.72
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Nigel Julian",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 11,
+      "total_seconds": 308.75,
+      "best10": 27.49,
+      "best_lap": 25.54
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 16,
+      "total_seconds": 311.71,
+      "best10": 19.31,
+      "best_lap": 18.98
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 300.19,
+      "best10": 19.59,
+      "best_lap": 19.21
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 304.57,
+      "best10": 19.77,
+      "best_lap": 19.36
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 310.27,
+      "best10": 20.22,
+      "best_lap": 20.05
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 318.03,
+      "best10": 20.82,
+      "best_lap": 20.15
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Matt Hodges",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 301.14,
+      "best10": 20.86,
+      "best_lap": 20.36
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 303.89,
+      "best10": 21.04,
+      "best_lap": 20.46
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Paul Field",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 7,
+      "total_seconds": 203.38,
+      "best10": null,
+      "best_lap": 19.97
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Busby",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 314.26,
+      "best10": 22.1,
+      "best_lap": 21.8
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Charlie Chappell",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 309.48,
+      "best10": 23.42,
+      "best_lap": 23.09
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Parry",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 312.67,
+      "best10": 23.46,
+      "best_lap": 22.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Tobie Osmond",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 320.23,
+      "best10": 23.72,
+      "best_lap": 22.04
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nathan Jarvis",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 322.11,
+      "best10": 24.18,
+      "best_lap": 23.3
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jack Babb",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 304.66,
+      "best10": 24.37,
+      "best_lap": 23.07
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Joe Bristow",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 307.32,
+      "best10": 24.88,
+      "best_lap": 23.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Matt Martin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 328.09,
+      "best10": 26.73,
+      "best_lap": 24.58
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathon Firmin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 10,
+      "total_seconds": 308.48,
+      "best10": 30.84,
+      "best_lap": 28.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Lewis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 309.12,
+      "best10": 23.32,
+      "best_lap": 22.92
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Nelson",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 318.43,
+      "best10": 23.32,
+      "best_lap": 22.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ross Everill",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.14,
+      "best10": 23.54,
+      "best_lap": 22.81
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.48,
+      "best10": 23.47,
+      "best_lap": 22.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrius Zilevicius",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 323.58,
+      "best10": 24.02,
+      "best_lap": 23.22
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Terry Leach",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 300.29,
+      "best10": 24.58,
+      "best_lap": 23.57
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Porter",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 300.86,
+      "best10": 24.64,
+      "best_lap": 23.87
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 306.19,
+      "best10": 24.84,
+      "best_lap": 23.85
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Kev Dymond",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 322.47,
+      "best10": 22.86,
+      "best_lap": 22.33
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Dave Berry",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 302.05,
+      "best10": 22.8,
+      "best_lap": 22.12
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Law",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 302.98,
+      "best10": 23.09,
+      "best_lap": 22.63
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 304.42,
+      "best10": 23.03,
+      "best_lap": 22.46
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Jenkins",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 306.37,
+      "best10": 22.98,
+      "best_lap": 22.35
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathan Baker",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 306.44,
+      "best10": 22.56,
+      "best_lap": 21.79
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Farringdon",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 312.07,
+      "best10": 23.36,
+      "best_lap": 22.66
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martin Bristow",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 307.84,
+      "best10": 25.02,
+      "best_lap": 23.51
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alan Stocks",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Leach",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 307.78,
+      "best10": 21.84,
+      "best_lap": 21.35
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Sam Brown",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 312.47,
+      "best10": 21.88,
+      "best_lap": 21.25
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Hopkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 312.75,
+      "best10": 21.83,
+      "best_lap": 21.41
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ollie Davies",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 285.16,
+      "best10": 21.37,
+      "best_lap": 20.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Hawkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.84,
+      "best10": 22.99,
+      "best_lap": 22.43
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Trinity Ley",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.85,
+      "best10": 22.71,
+      "best_lap": 21.88
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Julian",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 302.15,
+      "best10": 22.89,
+      "best_lap": 22.31
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Howe",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 303.38,
+      "best10": 22.43,
+      "best_lap": 22.03
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Mark Cox",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 309.67,
+      "best10": 22.89,
+      "best_lap": 21.57
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Bryan Burrows",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 316.14,
+      "best10": 20.92,
+      "best_lap": 20.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Carl Davis",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 318.97,
+      "best10": 21.01,
+      "best_lap": 20.28
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 319.44,
+      "best10": 21.13,
+      "best_lap": 20.8
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 303.48,
+      "best10": 21.17,
+      "best_lap": 20.64
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Daniel Hurrell",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 306.0,
+      "best10": 21.42,
+      "best_lap": 20.89
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Rose",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 313.12,
+      "best10": 21.67,
+      "best_lap": 20.97
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "James Westmoreland",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 317.34,
+      "best10": 22.21,
+      "best_lap": 21.75
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nick Dustan",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.66,
+      "best10": 21.65,
+      "best_lap": 21.23
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.62,
+      "best10": 22.65,
+      "best_lap": 22.36
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 300.42,
+      "best10": 19.86,
+      "best_lap": 19.47
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 313.3,
+      "best10": 20.75,
+      "best_lap": 20.55
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 316.79,
+      "best10": 20.81,
+      "best_lap": 20.35
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 321.56,
+      "best10": 21.01,
+      "best_lap": 20.82
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Phil Chapman",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 300.59,
+      "best10": 21.27,
+      "best_lap": 21.01
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 301.77,
+      "best10": 21.39,
+      "best_lap": 21.07
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Liam Galvin",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 304.33,
+      "best10": 21.08,
+      "best_lap": 20.7
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Stuart Ball",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 304.77,
+      "best10": 21.52,
+      "best_lap": 21.24
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martyn Hadley",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.45,
+      "best10": 21.98,
+      "best_lap": 21.25
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 309.18,
+      "best10": 20.21,
+      "best_lap": 19.79
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 313.84,
+      "best10": 20.03,
+      "best_lap": 19.79
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 312.99,
+      "best10": 21.0,
+      "best_lap": 20.73
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jamie Stringer",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 308.23,
+      "best10": 23.17,
+      "best_lap": 22.22
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Nigel Julian",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 11,
+      "total_seconds": 316.2,
+      "best10": 28.41,
+      "best_lap": 26.28
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 11,
+      "total_seconds": 316.3,
+      "best10": 26.56,
+      "best_lap": 22.95
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 16,
+      "total_seconds": 312.59,
+      "best10": 19.19,
+      "best_lap": 18.62
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 16,
+      "total_seconds": 319.61,
+      "best10": 19.7,
+      "best_lap": 19.3
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 303.59,
+      "best10": 19.63,
+      "best_lap": 19.23
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 307.69,
+      "best10": 20.06,
+      "best_lap": 19.83
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Paul Field",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 300.29,
+      "best10": 20.94,
+      "best_lap": 20.41
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Matt Hodges",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 302.93,
+      "best10": 20.94,
+      "best_lap": 20.19
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 308.31,
+      "best10": 21.1,
+      "best_lap": 20.69
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.4,
+      "best10": 21.41,
+      "best_lap": 20.03
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Busby",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 306.76,
+      "best10": 21.72,
+      "best_lap": 21.2
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Parry",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 321.69,
+      "best10": 22.29,
+      "best_lap": 21.89
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jack Babb",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 317.16,
+      "best10": 23.7,
+      "best_lap": 22.84
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Tobie Osmond",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.12,
+      "best10": 23.37,
+      "best_lap": 22.21
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Charlie Chappell",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.21,
+      "best10": 23.35,
+      "best_lap": 22.07
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Matt Martin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 309.22,
+      "best10": 25.28,
+      "best_lap": 23.13
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Joe Bristow",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 313.3,
+      "best10": 25.42,
+      "best_lap": 23.59
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathon Firmin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 324.85,
+      "best10": 29.13,
+      "best_lap": 27.45
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nathan Jarvis",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 7,
+      "total_seconds": 210.57,
+      "best10": null,
+      "best_lap": 23.27
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ross Everill",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 321.74,
+      "best10": 22.61,
+      "best_lap": 21.73
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Lewis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 322.65,
+      "best10": 22.74,
+      "best_lap": 22.5
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 309.03,
+      "best10": 23.02,
+      "best_lap": 22.08
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Nelson",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 309.25,
+      "best10": 22.57,
+      "best_lap": 22.32
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrius Zilevicius",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 314.8,
+      "best10": 23.58,
+      "best_lap": 22.58
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Porter",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 320.46,
+      "best10": 25.86,
+      "best_lap": 23.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 266.27,
+      "best10": 24.06,
+      "best_lap": 22.98
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Terry Leach",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 274.94,
+      "best10": 24.8,
+      "best_lap": 23.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathan Baker",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.18,
+      "best10": 22.24,
+      "best_lap": 21.43
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alan Stocks",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 321.25,
+      "best10": 22.26,
+      "best_lap": 21.75
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Dave Berry",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 325.0,
+      "best10": 22.57,
+      "best_lap": 21.75
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Kev Dymond",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 302.8,
+      "best10": 22.36,
+      "best_lap": 21.79
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Law",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 308.68,
+      "best10": 23.05,
+      "best_lap": 21.91
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martin Bristow",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 310.92,
+      "best10": 23.68,
+      "best_lap": 22.8
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 311.08,
+      "best10": 22.92,
+      "best_lap": 22.3
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Farringdon",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 313.22,
+      "best10": 23.42,
+      "best_lap": 22.27
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Jenkins",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 5,
+      "total_seconds": 110.94,
+      "best10": null,
+      "best_lap": 21.81
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Leach",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 305.81,
+      "best10": 21.62,
+      "best_lap": 21.33
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Sam Brown",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 308.65,
+      "best10": 21.71,
+      "best_lap": 21.48
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Trinity Ley",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 310.34,
+      "best10": 21.8,
+      "best_lap": 21.09
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Hawkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 313.72,
+      "best10": 22.24,
+      "best_lap": 21.82
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Howe",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 316.09,
+      "best10": 22.03,
+      "best_lap": 21.79
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Mark Cox",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 317.43,
+      "best10": 21.82,
+      "best_lap": 21.2
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Julian",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.45,
+      "best10": 22.43,
+      "best_lap": 21.92
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Hopkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 320.81,
+      "best10": 21.54,
+      "best_lap": 21.02
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ollie Davies",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Carl Davis",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 314.76,
+      "best10": 20.71,
+      "best_lap": 20.45
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 320.02,
+      "best10": 20.89,
+      "best_lap": 20.72
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Bryan Burrows",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 300.48,
+      "best10": 20.79,
+      "best_lap": 20.64
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Rose",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 301.59,
+      "best10": 21.08,
+      "best_lap": 20.74
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Daniel Hurrell",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 304.34,
+      "best10": 21.14,
+      "best_lap": 20.72
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 308.86,
+      "best10": 21.39,
+      "best_lap": 20.7
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "James Westmoreland",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 311.77,
+      "best10": 21.82,
+      "best_lap": 21.54
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 314.98,
+      "best10": 21.89,
+      "best_lap": 21.44
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nick Dustan",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 315.27,
+      "best10": 21.57,
+      "best_lap": 21.1
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 306.97,
+      "best10": 20.03,
+      "best_lap": 19.65
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 310.1,
+      "best10": 20.54,
+      "best_lap": 20.31
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 311.66,
+      "best10": 20.65,
+      "best_lap": 20.4
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Phil Chapman",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 316.74,
+      "best10": 20.98,
+      "best_lap": 20.77
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Stuart Ball",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 321.04,
+      "best10": 21.11,
+      "best_lap": 20.69
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 321.37,
+      "best10": 20.95,
+      "best_lap": 20.57
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Liam Galvin",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 301.22,
+      "best10": 21.0,
+      "best_lap": 20.63
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martyn Hadley",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 306.64,
+      "best10": 21.55,
+      "best_lap": 21.15
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 309.27,
+      "best10": 21.18,
+      "best_lap": 20.46
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 303.0,
+      "best10": 20.05,
+      "best_lap": 19.9
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 316.68,
+      "best10": 20.24,
+      "best_lap": 19.57
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 309.94,
+      "best10": 21.21,
+      "best_lap": 20.63
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.98,
+      "best10": 22.39,
+      "best_lap": 21.79
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jamie Stringer",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 306.69,
+      "best10": 22.88,
+      "best_lap": 22.45
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 310.14,
+      "best10": 23.16,
+      "best_lap": 21.92
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Nigel Julian",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 11,
+      "total_seconds": 311.41,
+      "best10": 28.04,
+      "best_lap": 26.63
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 16,
+      "total_seconds": 307.68,
+      "best10": 19.05,
+      "best_lap": 18.76
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 16,
+      "total_seconds": 316.23,
+      "best10": 19.27,
+      "best_lap": 18.97
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 308.81,
+      "best10": 19.47,
+      "best_lap": 19.13
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 310.85,
+      "best10": 20.45,
+      "best_lap": 20.04
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 315.9,
+      "best10": 20.64,
+      "best_lap": 20.34
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Paul Field",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 318.97,
+      "best10": 20.55,
+      "best_lap": 19.75
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Matt Hodges",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 319.58,
+      "best10": 20.58,
+      "best_lap": 20.17
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 6,
+      "total_seconds": 281.81,
+      "best10": null,
+      "best_lap": 19.91
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Busby",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 305.72,
+      "best10": 21.51,
+      "best_lap": 21.01
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Parry",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 327.67,
+      "best10": 22.48,
+      "best_lap": 21.9
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jack Babb",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 311.89,
+      "best10": 23.42,
+      "best_lap": 22.69
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nathan Jarvis",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 312.44,
+      "best10": 23.28,
+      "best_lap": 22.44
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Joe Bristow",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 324.55,
+      "best10": 23.81,
+      "best_lap": 22.96
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Tobie Osmond",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 12,
+      "total_seconds": 306.35,
+      "best10": 24.29,
+      "best_lap": 22.43
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Charlie Chappell",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 279.8,
+      "best10": 25.1,
+      "best_lap": 22.85
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Matt Martin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 11,
+      "total_seconds": 300.32,
+      "best10": 26.86,
+      "best_lap": 23.44
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathon Firmin",
+      "heat_title": "Race 1 - 2wd Buggy",
+      "laps": 10,
+      "total_seconds": 315.62,
+      "best10": 31.56,
+      "best_lap": 28.09
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ross Everill",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.0,
+      "best10": 22.64,
+      "best_lap": 21.93
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Lewis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 303.55,
+      "best10": 22.82,
+      "best_lap": 22.33
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Nelson",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 305.86,
+      "best10": 22.79,
+      "best_lap": 22.22
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Terry Leach",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 313.06,
+      "best10": 23.83,
+      "best_lap": 23.02
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 315.93,
+      "best10": 24.01,
+      "best_lap": 23.23
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrius Zilevicius",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 316.92,
+      "best10": 23.65,
+      "best_lap": 22.58
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 319.19,
+      "best10": 23.27,
+      "best_lap": 22.3
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Porter",
+      "heat_title": "Race 2 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 322.8,
+      "best10": 24.14,
+      "best_lap": 22.7
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jonathan Baker",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 305.91,
+      "best10": 21.44,
+      "best_lap": 20.75
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alan Stocks",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 308.85,
+      "best10": 21.92,
+      "best_lap": 21.48
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Jenkins",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 311.89,
+      "best10": 22.02,
+      "best_lap": 21.86
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Dave Berry",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 315.1,
+      "best10": 22.13,
+      "best_lap": 21.7
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 320.53,
+      "best10": 22.55,
+      "best_lap": 22.16
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Farringdon",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 321.36,
+      "best10": 22.69,
+      "best_lap": 21.81
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Kev Dymond",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 300.46,
+      "best10": 22.62,
+      "best_lap": 22.21
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Law",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 303.73,
+      "best10": 22.6,
+      "best_lap": 22.37
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martin Bristow",
+      "heat_title": "Race 3 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 318.98,
+      "best10": 23.97,
+      "best_lap": 23.13
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Hopkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 303.88,
+      "best10": 21.37,
+      "best_lap": 20.83
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Sam Brown",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 305.25,
+      "best10": 21.58,
+      "best_lap": 21.28
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "John Howe",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 309.11,
+      "best10": 21.8,
+      "best_lap": 21.41
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Mark Cox",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 311.03,
+      "best10": 21.68,
+      "best_lap": 21.32
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Trinity Ley",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 312.15,
+      "best10": 21.68,
+      "best_lap": 21.24
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Julian",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 313.53,
+      "best10": 22.05,
+      "best_lap": 21.31
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Andrew Leach",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 319.81,
+      "best10": 21.55,
+      "best_lap": 21.19
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Hawkins",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 13,
+      "total_seconds": 302.18,
+      "best10": 22.35,
+      "best_lap": 21.95
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Ollie Davies",
+      "heat_title": "Race 4 - 2wd Buggy",
+      "laps": 0,
+      "total_seconds": 0.0,
+      "best10": null,
+      "best_lap": null
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Bryan Burrows",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 311.87,
+      "best10": 20.6,
+      "best_lap": 20.3
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Daniel Hurrell",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 316.51,
+      "best10": 20.82,
+      "best_lap": 20.38
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Paul Rose",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 316.78,
+      "best10": 20.97,
+      "best_lap": 20.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Carl Davis",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 318.25,
+      "best10": 20.62,
+      "best_lap": 20.2
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 319.79,
+      "best10": 20.77,
+      "best_lap": 19.97
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 303.12,
+      "best10": 21.11,
+      "best_lap": 20.6
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Nick Dustan",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 305.64,
+      "best10": 21.31,
+      "best_lap": 20.68
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "James Westmoreland",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 309.14,
+      "best10": 21.89,
+      "best_lap": 21.49
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 5 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 310.98,
+      "best10": 21.7,
+      "best_lap": 21.38
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 16,
+      "total_seconds": 317.41,
+      "best10": 19.74,
+      "best_lap": 19.62
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 309.55,
+      "best10": 20.41,
+      "best_lap": 20.17
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 311.57,
+      "best10": 20.43,
+      "best_lap": 20.12
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Phil Chapman",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 15,
+      "total_seconds": 312.29,
+      "best10": 20.66,
+      "best_lap": 20.34
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 301.37,
+      "best10": 21.08,
+      "best_lap": 20.63
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Stuart Ball",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 301.4,
+      "best10": 20.98,
+      "best_lap": 20.8
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Martyn Hadley",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 302.65,
+      "best10": 21.32,
+      "best_lap": 20.67
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 303.34,
+      "best10": 21.15,
+      "best_lap": 20.92
+    },
+    {
+      "class": "2wd Buggy",
+      "driver": "Liam Galvin",
+      "heat_title": "Race 6 - 2wd Buggy",
+      "laps": 14,
+      "total_seconds": 315.18,
+      "best10": 21.33,
+      "best_lap": 20.62
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Roulston",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 303.73,
+      "best10": 20.11,
+      "best_lap": 19.86
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Neale Carbis",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 303.01,
+      "best10": 21.3,
+      "best_lap": 20.88
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Michael Halsey",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 312.4,
+      "best10": 20.98,
+      "best_lap": 19.32
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Adam Mozes",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 318.59,
+      "best10": 22.42,
+      "best_lap": 21.73
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Alistair Munro",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 301.98,
+      "best10": 22.33,
+      "best_lap": 21.57
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jamie Stringer",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 13,
+      "total_seconds": 313.97,
+      "best10": 23.17,
+      "best_lap": 22.48
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Nigel Julian",
+      "heat_title": "Race 7 - 4wd Buggy",
+      "laps": 10,
+      "total_seconds": 315.01,
+      "best10": 31.5,
+      "best_lap": 26.57
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Harry Mears",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 16,
+      "total_seconds": 308.43,
+      "best10": 19.09,
+      "best_lap": 18.82
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Keith Halsey",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 302.24,
+      "best10": 19.63,
+      "best_lap": 18.97
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Gavin Knight",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 302.58,
+      "best10": 19.95,
+      "best_lap": 19.63
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Jordan Newbery",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 305.37,
+      "best10": 19.87,
+      "best_lap": 19.59
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Steve Ashton",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 310.36,
+      "best10": 20.4,
+      "best_lap": 20.03
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Paul Field",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 311.23,
+      "best10": 20.54,
+      "best_lap": 20.23
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Matt Hodges",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 15,
+      "total_seconds": 314.49,
+      "best10": 20.78,
+      "best_lap": 20.4
+    },
+    {
+      "class": "4wd Buggy",
+      "driver": "Chris Cooke",
+      "heat_title": "Race 8 - 4wd Buggy",
+      "laps": 14,
+      "total_seconds": 317.77,
+      "best10": 21.04,
+      "best_lap": 20.24
+    }
+  ],
+  "stats": {
+    "total_finals": 68,
+    "total_heat_entries": 408
+  }
+}

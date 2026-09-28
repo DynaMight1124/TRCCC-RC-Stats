@@ -1,0 +1,28 @@
+{
+  "venueId": 1117,
+  "clubName": "Tiverton Radio Controlled Car Club",
+  "shortName": "TRCCC",
+  "tagline": "Outdoor Off-Road Radio Controlled Car Club",
+  "website": "https://www.rc-results.com/Viewer/Main/VenueMeetings?venueId=1117",
+  "trackType": "Astro Off-Road",
+  "location": "Devon, UK",
+  "primaryColor": "#e11d48",
+  "secondaryColor": "#0ea5e9",
+  "defaultSeason": "25/26",
+  "classes": [
+    "2WD Buggy",
+    "4WD Buggy",
+    "Stadium Trucks",
+    "Vintage / Rear Motor"
+  ],
+  "classAliases": {
+    "Trucks + 4wd": "Stadium Trucks",
+    "4wd + Trucks": "Stadium Trucks",
+    "Vintage": "Vintage / Rear Motor",
+    "Vintage/Rear Motor": "Vintage / Rear Motor"
+  },
+  "socialLinks": {
+    "results": "https://www.rc-results.com/Viewer/Main/VenueMeetings?venueId=1117",
+    "Facebook": "https://www.facebook.com/profile.php?id=100057708030775"
+  }
+}

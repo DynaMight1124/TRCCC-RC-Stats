@@ -1,0 +1,70 @@
+{
+  "name": "Jack Brann",
+  "slug": "jack-brann",
+  "summary": {
+    "name": "Jack Brann",
+    "slug": "jack-brann",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 63,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 16.65,
+    "metronome": 2.15,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 16.65
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 12,
+        "seconds": 311.64,
+        "result_str": "12 / 311.64",
+        "meeting_date": "14-Jun-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "B Final",
+        "position": 8,
+        "rank": 18,
+        "meeting_date": "14-Jun-2026",
+        "meeting_title": "TRCCC 2026 R5"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 14
+    },
+    "best10_per_class": {
+      "2WD Buggy": 22.75
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20261,
+      "date": "14-Jun-2026",
+      "title": "TRCCC 2026 R5",
+      "season": "25/26",
+      "class": "2WD Buggy",
+      "final": "B Final",
+      "position": 8,
+      "laps": 12,
+      "total_seconds": 311.64,
+      "best_lap": 23.82,
+      "average_lap": 25.97,
+      "best10": 24.96
+    }
+  ]
+}

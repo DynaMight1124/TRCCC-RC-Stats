@@ -1,0 +1,70 @@
+{
+  "name": "Haiden Hicks",
+  "slug": "haiden-hicks",
+  "summary": {
+    "name": "Haiden Hicks",
+    "slug": "haiden-hicks",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 51,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "Stadium Trucks"
+    ],
+    "best_lap": 27.27,
+    "metronome": 3.16,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Stadium Trucks": 27.27
+    },
+    "best_runs_per_class": {
+      "Stadium Trucks": {
+        "laps": 10,
+        "seconds": 319.25,
+        "result_str": "10 / 319.25",
+        "meeting_date": "10-May-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Stadium Trucks": {
+        "final": "B Final",
+        "position": 3,
+        "rank": 13,
+        "meeting_date": "10-May-2026",
+        "meeting_title": "TRCCC 2026 R3"
+      }
+    },
+    "highest_quals_per_class": {
+      "Stadium Trucks": 13
+    },
+    "best10_per_class": {
+      "Stadium Trucks": 28.72
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "Stadium Trucks",
+      "final": "B Final",
+      "position": 3,
+      "laps": 10,
+      "total_seconds": 319.25,
+      "best_lap": 28.76,
+      "average_lap": 31.92,
+      "best10": 31.92
+    }
+  ]
+}

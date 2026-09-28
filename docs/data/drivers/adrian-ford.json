@@ -1,0 +1,114 @@
+{
+  "name": "Adrian Ford",
+  "slug": "adrian-ford",
+  "summary": {
+    "name": "Adrian Ford",
+    "slug": "adrian-ford",
+    "meetings_count": 4,
+    "attendance_pct": 9.1,
+    "total_laps": 213,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 1,
+    "a_final_rate": 25.0,
+    "a_final_podium_rate": 0.0,
+    "a_final_avg_pos": 8.0,
+    "a_finals_by_class": {
+      "Vintage / Rear Motor": 1
+    },
+    "tqs": 0,
+    "classes": [
+      "Vintage / Rear Motor"
+    ],
+    "best_lap": 20.85,
+    "metronome": 1.94,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "Vintage / Rear Motor": 20.85
+    },
+    "best_runs_per_class": {
+      "Vintage / Rear Motor": {
+        "laps": 11,
+        "seconds": 307.41,
+        "result_str": "11 / 307.41",
+        "meeting_date": "24-May-2026"
+      }
+    },
+    "highest_finishes_per_class": {
+      "Vintage / Rear Motor": {
+        "final": "A Final",
+        "position": 8,
+        "rank": 8,
+        "meeting_date": "27-Aug-2023",
+        "meeting_title": "TRCCC 2023 R8"
+      }
+    },
+    "highest_quals_per_class": {
+      "Vintage / Rear Motor": 7
+    },
+    "best10_per_class": {
+      "Vintage / Rear Motor": 25.61
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 20010,
+      "date": "24-May-2026",
+      "title": "TRCCC 2026 R4",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 2,
+      "laps": 11,
+      "total_seconds": 307.41,
+      "best_lap": 25.53,
+      "average_lap": 27.94,
+      "best10": 27.34
+    },
+    {
+      "meeting_id": 19862,
+      "date": "10-May-2026",
+      "title": "TRCCC 2026 R3",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 8,
+      "laps": 10,
+      "total_seconds": 300.85,
+      "best_lap": 28.08,
+      "average_lap": 30.08,
+      "best10": 30.08
+    },
+    {
+      "meeting_id": 19689,
+      "date": "26-Apr-2026",
+      "title": "TRCCC 2026 R2",
+      "season": "25/26",
+      "class": "Vintage / Rear Motor",
+      "final": "B Final",
+      "position": 7,
+      "laps": 10,
+      "total_seconds": 311.13,
+      "best_lap": 29.49,
+      "average_lap": 31.11,
+      "best10": 31.11
+    },
+    {
+      "meeting_id": 9094,
+      "date": "27-Aug-2023",
+      "title": "TRCCC 2023 R8",
+      "season": "22/23",
+      "class": "Vintage / Rear Motor",
+      "final": "A Final",
+      "position": 8,
+      "laps": 11,
+      "total_seconds": 313.65,
+      "best_lap": 26.8,
+      "average_lap": 28.51,
+      "best10": 28.13
+    }
+  ]
+}

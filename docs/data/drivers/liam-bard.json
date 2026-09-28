@@ -1,0 +1,70 @@
+{
+  "name": "Liam Bard",
+  "slug": "liam-bard",
+  "summary": {
+    "name": "Liam Bard",
+    "slug": "liam-bard",
+    "meetings_count": 1,
+    "attendance_pct": 2.3,
+    "total_laps": 52,
+    "a_final_wins": 0,
+    "a_final_podiums": 0,
+    "a_final_appearances": 0,
+    "a_final_rate": 0.0,
+    "a_final_podium_rate": 0,
+    "a_final_avg_pos": null,
+    "a_finals_by_class": {},
+    "tqs": 0,
+    "classes": [
+      "2WD Buggy"
+    ],
+    "best_lap": 26.6,
+    "metronome": 1.45,
+    "badges_count": 0
+  },
+  "badges": [],
+  "personal_bests": {
+    "best_laps_per_class": {
+      "2WD Buggy": 26.6
+    },
+    "best_runs_per_class": {
+      "2WD Buggy": {
+        "laps": 11,
+        "seconds": 308.54,
+        "result_str": "11 / 308.54",
+        "meeting_date": "09-Jul-2023"
+      }
+    },
+    "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "C Final",
+        "position": 3,
+        "rank": 23,
+        "meeting_date": "09-Jul-2023",
+        "meeting_title": "TRCCC 2023 R6"
+      }
+    },
+    "highest_quals_per_class": {
+      "2WD Buggy": 23
+    },
+    "best10_per_class": {
+      "2WD Buggy": 27.49
+    }
+  },
+  "timeline": [
+    {
+      "meeting_id": 8615,
+      "date": "09-Jul-2023",
+      "title": "TRCCC 2023 R6",
+      "season": "22/23",
+      "class": "2WD Buggy",
+      "final": "C Final",
+      "position": 3,
+      "laps": 11,
+      "total_seconds": 308.54,
+      "best_lap": 26.6,
+      "average_lap": 28.05,
+      "best10": 27.49
+    }
+  ]
+}

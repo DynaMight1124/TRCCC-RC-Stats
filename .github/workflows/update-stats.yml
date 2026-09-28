@@ -1,0 +1,76 @@
+name: Update RC Stats & Deploy to GitHub Pages
+
+on:
+  schedule:
+    # Run every Sunday at 20:15 UTC and Monday at 06:15 UTC (off-peak to avoid GitHub runner delays)
+    - cron: '15 20 * * 0'
+    - cron: '15 6 * * 1'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Incremental Scraper
+        run: |
+          python scraper/scraper.py --incremental
+
+      - name: Run Stats Aggregator
+        run: |
+          python scraper/aggregator.py
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add raw_data/ docs/data/
+          if git diff --staged --quiet; then
+            echo "No new race data to commit."
+          else
+            echo "Committing new race meeting data..."
+            git commit -m "chore(data): auto-update race stats [skip ci]"
+            git push
+          fi
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs/'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build-and-update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

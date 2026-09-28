@@ -1,0 +1,42 @@
+{
+  "id": 8616,
+  "date": "07-Jul-2023",
+  "title": "Test Meeting 1",
+  "venue_id": 1117,
+  "scraped_at": "2026-09-22T16:05:30Z",
+  "qualifying": [
+    {
+      "class": "2wd",
+      "position": 1,
+      "driver": "Dan Harding",
+      "best_run": "14 / 317.77",
+      "best_laps": 14,
+      "best_seconds": 317.77
+    }
+  ],
+  "finals": [],
+  "heats": [
+    {
+      "class": "2wd",
+      "driver": "Dan Harding",
+      "heat_title": "Race 1 - 2wd",
+      "laps": 8,
+      "total_seconds": 181.32,
+      "best10": null,
+      "best_lap": 22.01
+    },
+    {
+      "class": "2wd",
+      "driver": "Dan Harding",
+      "heat_title": "Race 1 - 2wd",
+      "laps": 14,
+      "total_seconds": 317.77,
+      "best10": 21.68,
+      "best_lap": 20.47
+    }
+  ],
+  "stats": {
+    "total_finals": 0,
+    "total_heat_entries": 2
+  }
+}
