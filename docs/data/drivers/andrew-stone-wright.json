@@ -16,6 +16,19 @@
     "a_finals_by_class": {
       "Stadium Trucks": 2
     },
+    "by_class": {
+      "Stadium Trucks": {
+        "meetings_count": 2,
+        "attendance_pct": 4.5,
+        "a_final_appearances": 2,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 7.5,
+        "total_laps": 89,
+        "tqs": 0
+      }
+    },
     "tqs": 0,
     "classes": [
       "Stadium Trucks"
