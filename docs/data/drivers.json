@@ -29,17 +29,6 @@
         "total_laps": 2369,
         "tqs": 12
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 30,
-        "attendance_pct": 68.2,
-        "a_final_appearances": 29,
-        "a_final_wins": 20,
-        "a_final_podiums": 27,
-        "a_final_rate": 96.7,
-        "a_final_avg_pos": 1.6,
-        "total_laps": 1870,
-        "tqs": 19
-      },
       "Stadium Trucks": {
         "meetings_count": 4,
         "attendance_pct": 9.1,
@@ -61,6 +50,17 @@
         "a_final_avg_pos": 1.7,
         "total_laps": 215,
         "tqs": 1
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 30,
+        "attendance_pct": 68.2,
+        "a_final_appearances": 29,
+        "a_final_wins": 20,
+        "a_final_podiums": 27,
+        "a_final_rate": 96.7,
+        "a_final_avg_pos": 1.6,
+        "total_laps": 1870,
+        "tqs": 19
       }
     },
     "tqs": 34,
@@ -93,17 +93,6 @@
       "Vintage / Rear Motor": 13
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 41,
-        "attendance_pct": 93.2,
-        "a_final_appearances": 36,
-        "a_final_wins": 0,
-        "a_final_podiums": 7,
-        "a_final_rate": 87.8,
-        "a_final_avg_pos": 4.9,
-        "total_laps": 2625,
-        "tqs": 1
-      },
       "Stadium Trucks": {
         "meetings_count": 21,
         "attendance_pct": 47.7,
@@ -125,6 +114,17 @@
         "a_final_avg_pos": 3.3,
         "total_laps": 855,
         "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 41,
+        "attendance_pct": 93.2,
+        "a_final_appearances": 36,
+        "a_final_wins": 0,
+        "a_final_podiums": 7,
+        "a_final_rate": 87.8,
+        "a_final_avg_pos": 4.9,
+        "total_laps": 2625,
+        "tqs": 1
       },
       "4WD Buggy": {
         "meetings_count": 5,
@@ -178,17 +178,6 @@
         "total_laps": 2034,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 31,
-        "attendance_pct": 70.5,
-        "a_final_appearances": 29,
-        "a_final_wins": 12,
-        "a_final_podiums": 24,
-        "a_final_rate": 93.5,
-        "a_final_avg_pos": 2.3,
-        "total_laps": 1832,
-        "tqs": 12
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -199,6 +188,17 @@
         "a_final_avg_pos": 1.0,
         "total_laps": 15,
         "tqs": 1
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 31,
+        "attendance_pct": 70.5,
+        "a_final_appearances": 29,
+        "a_final_wins": 12,
+        "a_final_podiums": 24,
+        "a_final_rate": 93.5,
+        "a_final_avg_pos": 2.3,
+        "total_laps": 1832,
+        "tqs": 12
       }
     },
     "tqs": 13,
@@ -241,17 +241,6 @@
         "total_laps": 2360,
         "tqs": 18
       },
-      "Stadium Trucks": {
-        "meetings_count": 2,
-        "attendance_pct": 4.5,
-        "a_final_appearances": 2,
-        "a_final_wins": 1,
-        "a_final_podiums": 2,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 1.5,
-        "total_laps": 84,
-        "tqs": 0
-      },
       "Vintage / Rear Motor": {
         "meetings_count": 5,
         "attendance_pct": 11.4,
@@ -262,6 +251,17 @@
         "a_final_avg_pos": 2.8,
         "total_laps": 292,
         "tqs": 1
+      },
+      "Stadium Trucks": {
+        "meetings_count": 2,
+        "attendance_pct": 4.5,
+        "a_final_appearances": 2,
+        "a_final_wins": 1,
+        "a_final_podiums": 2,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 1.5,
+        "total_laps": 84,
+        "tqs": 0
       },
       "4WD Buggy": {
         "meetings_count": 4,
@@ -316,17 +316,6 @@
         "total_laps": 1661,
         "tqs": 2
       },
-      "Stadium Trucks": {
-        "meetings_count": 6,
-        "attendance_pct": 13.6,
-        "a_final_appearances": 6,
-        "a_final_wins": 2,
-        "a_final_podiums": 6,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 1.8,
-        "total_laps": 314,
-        "tqs": 2
-      },
       "Vintage / Rear Motor": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -337,6 +326,17 @@
         "a_final_avg_pos": 8.0,
         "total_laps": 106,
         "tqs": 0
+      },
+      "Stadium Trucks": {
+        "meetings_count": 6,
+        "attendance_pct": 13.6,
+        "a_final_appearances": 6,
+        "a_final_wins": 2,
+        "a_final_podiums": 6,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 1.8,
+        "total_laps": 314,
+        "tqs": 2
       },
       "4WD Buggy": {
         "meetings_count": 11,
@@ -440,17 +440,6 @@
         "total_laps": 1235,
         "tqs": 4
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 8,
-        "attendance_pct": 18.2,
-        "a_final_appearances": 7,
-        "a_final_wins": 4,
-        "a_final_podiums": 7,
-        "a_final_rate": 87.5,
-        "a_final_avg_pos": 1.4,
-        "total_laps": 482,
-        "tqs": 3
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -472,6 +461,17 @@
         "a_final_avg_pos": 8.0,
         "total_laps": 66,
         "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 8,
+        "attendance_pct": 18.2,
+        "a_final_appearances": 7,
+        "a_final_wins": 4,
+        "a_final_podiums": 7,
+        "a_final_rate": 87.5,
+        "a_final_avg_pos": 1.4,
+        "total_laps": 482,
+        "tqs": 3
       }
     },
     "tqs": 7,
@@ -577,17 +577,6 @@
         "total_laps": 1878,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 2,
-        "attendance_pct": 4.5,
-        "a_final_appearances": 2,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 7.0,
-        "total_laps": 108,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -598,6 +587,17 @@
         "a_final_avg_pos": 1.0,
         "total_laps": 108,
         "tqs": 2
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 2,
+        "attendance_pct": 4.5,
+        "a_final_appearances": 2,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 7.0,
+        "total_laps": 108,
+        "tqs": 0
       },
       "4WD Buggy": {
         "meetings_count": 6,
@@ -714,17 +714,6 @@
         "total_laps": 1657,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 15,
-        "attendance_pct": 34.1,
-        "a_final_appearances": 14,
-        "a_final_wins": 0,
-        "a_final_podiums": 4,
-        "a_final_rate": 93.3,
-        "a_final_avg_pos": 5.4,
-        "total_laps": 806,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 5,
         "attendance_pct": 11.4,
@@ -735,6 +724,17 @@
         "a_final_avg_pos": 2.2,
         "total_laps": 251,
         "tqs": 1
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 15,
+        "attendance_pct": 34.1,
+        "a_final_appearances": 14,
+        "a_final_wins": 0,
+        "a_final_podiums": 4,
+        "a_final_rate": 93.3,
+        "a_final_avg_pos": 5.4,
+        "total_laps": 806,
+        "tqs": 0
       },
       "4WD Buggy": {
         "meetings_count": 6,
@@ -839,17 +839,6 @@
       "Vintage / Rear Motor": 14
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 32,
-        "attendance_pct": 72.7,
-        "a_final_appearances": 20,
-        "a_final_wins": 0,
-        "a_final_podiums": 2,
-        "a_final_rate": 62.5,
-        "a_final_avg_pos": 7.1,
-        "total_laps": 1963,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 11,
         "attendance_pct": 25.0,
@@ -860,6 +849,17 @@
         "a_final_avg_pos": 3.7,
         "total_laps": 603,
         "tqs": 1
+      },
+      "2WD Buggy": {
+        "meetings_count": 32,
+        "attendance_pct": 72.7,
+        "a_final_appearances": 20,
+        "a_final_wins": 0,
+        "a_final_podiums": 2,
+        "a_final_rate": 62.5,
+        "a_final_avg_pos": 7.1,
+        "total_laps": 1963,
+        "tqs": 0
       },
       "Vintage / Rear Motor": {
         "meetings_count": 16,
@@ -901,17 +901,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 2,
-        "attendance_pct": 4.5,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 118,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 23,
         "attendance_pct": 52.3,
@@ -921,6 +910,17 @@
         "a_final_rate": 95.7,
         "a_final_avg_pos": 4.6,
         "total_laps": 1267,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 2,
+        "attendance_pct": 4.5,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 118,
         "tqs": 0
       },
       "Vintage / Rear Motor": {
@@ -1012,17 +1012,6 @@
       "2WD Buggy": 1
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 10,
-        "attendance_pct": 22.7,
-        "a_final_appearances": 1,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 10.0,
-        "a_final_avg_pos": 10.0,
-        "total_laps": 601,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 5,
         "attendance_pct": 11.4,
@@ -1033,6 +1022,17 @@
         "a_final_avg_pos": 2.2,
         "total_laps": 239,
         "tqs": 1
+      },
+      "2WD Buggy": {
+        "meetings_count": 10,
+        "attendance_pct": 22.7,
+        "a_final_appearances": 1,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 10.0,
+        "a_final_avg_pos": 10.0,
+        "total_laps": 601,
+        "tqs": 0
       },
       "4WD Buggy": {
         "meetings_count": 3,
@@ -1085,17 +1085,6 @@
         "total_laps": 1027,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 19,
-        "attendance_pct": 43.2,
-        "a_final_appearances": 16,
-        "a_final_wins": 1,
-        "a_final_podiums": 5,
-        "a_final_rate": 84.2,
-        "a_final_avg_pos": 4.8,
-        "total_laps": 1035,
-        "tqs": 1
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -1106,6 +1095,17 @@
         "a_final_avg_pos": 7.0,
         "total_laps": 43,
         "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 19,
+        "attendance_pct": 43.2,
+        "a_final_appearances": 16,
+        "a_final_wins": 1,
+        "a_final_podiums": 5,
+        "a_final_rate": 84.2,
+        "a_final_avg_pos": 4.8,
+        "total_laps": 1035,
+        "tqs": 1
       }
     },
     "tqs": 1,
@@ -1271,17 +1271,6 @@
         "total_laps": 1180,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 11,
-        "attendance_pct": 25.0,
-        "a_final_appearances": 10,
-        "a_final_wins": 0,
-        "a_final_podiums": 2,
-        "a_final_rate": 90.9,
-        "a_final_avg_pos": 5.3,
-        "total_laps": 587,
-        "tqs": 3
-      },
       "4WD Buggy": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -1292,6 +1281,17 @@
         "a_final_avg_pos": 3.5,
         "total_laps": 124,
         "tqs": 1
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 11,
+        "attendance_pct": 25.0,
+        "a_final_appearances": 10,
+        "a_final_wins": 0,
+        "a_final_podiums": 2,
+        "a_final_rate": 90.9,
+        "a_final_avg_pos": 5.3,
+        "total_laps": 587,
+        "tqs": 3
       }
     },
     "tqs": 4,
@@ -1396,17 +1396,6 @@
         "total_laps": 1392,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 8,
-        "attendance_pct": 18.2,
-        "a_final_appearances": 5,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 62.5,
-        "a_final_avg_pos": 9.4,
-        "total_laps": 410,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 5,
         "attendance_pct": 11.4,
@@ -1428,6 +1417,17 @@
         "a_final_avg_pos": 5.5,
         "total_laps": 354,
         "tqs": 2
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 8,
+        "attendance_pct": 18.2,
+        "a_final_appearances": 5,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 62.5,
+        "a_final_avg_pos": 9.4,
+        "total_laps": 410,
+        "tqs": 0
       }
     },
     "tqs": 2,
@@ -1471,17 +1471,6 @@
         "total_laps": 1045,
         "tqs": 0
       },
-      "Stadium Trucks": {
-        "meetings_count": 1,
-        "attendance_pct": 2.3,
-        "a_final_appearances": 1,
-        "a_final_wins": 1,
-        "a_final_podiums": 1,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 1.0,
-        "total_laps": 70,
-        "tqs": 0
-      },
       "Vintage / Rear Motor": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -1491,6 +1480,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 9.0,
         "total_laps": 42,
+        "tqs": 0
+      },
+      "Stadium Trucks": {
+        "meetings_count": 1,
+        "attendance_pct": 2.3,
+        "a_final_appearances": 1,
+        "a_final_wins": 1,
+        "a_final_podiums": 1,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 1.0,
+        "total_laps": 70,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -1706,17 +1706,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 7,
-        "attendance_pct": 15.9,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 380,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 13,
         "attendance_pct": 29.5,
@@ -1727,6 +1716,17 @@
         "a_final_avg_pos": 3.4,
         "total_laps": 658,
         "tqs": 1
+      },
+      "2WD Buggy": {
+        "meetings_count": 7,
+        "attendance_pct": 15.9,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 380,
+        "tqs": 0
       }
     },
     "tqs": 1,
@@ -1753,21 +1753,10 @@
     "a_finals_by_class": {
       "Stadium Trucks": 15,
       "4WD Buggy": 13,
-      "2WD Buggy": 0,
-      "Vintage / Rear Motor": 0
+      "Vintage / Rear Motor": 0,
+      "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 11,
-        "attendance_pct": 25.0,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 555,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 16,
         "attendance_pct": 36.4,
@@ -1788,6 +1777,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 151,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 11,
+        "attendance_pct": 25.0,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 555,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -1927,17 +1927,6 @@
         "total_laps": 2527,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 40,
-        "attendance_pct": 90.9,
-        "a_final_appearances": 33,
-        "a_final_wins": 0,
-        "a_final_podiums": 4,
-        "a_final_rate": 82.5,
-        "a_final_avg_pos": 5.8,
-        "total_laps": 2286,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -1947,6 +1936,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 10.0,
         "total_laps": 66,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 40,
+        "attendance_pct": 90.9,
+        "a_final_appearances": 33,
+        "a_final_wins": 0,
+        "a_final_podiums": 4,
+        "a_final_rate": 82.5,
+        "a_final_avg_pos": 5.8,
+        "total_laps": 2286,
         "tqs": 0
       }
     },
@@ -1990,17 +1990,6 @@
         "total_laps": 2074,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 33,
-        "attendance_pct": 75.0,
-        "a_final_appearances": 28,
-        "a_final_wins": 0,
-        "a_final_podiums": 4,
-        "a_final_rate": 84.8,
-        "a_final_avg_pos": 6.0,
-        "total_laps": 1764,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -2021,6 +2010,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 7.0,
         "total_laps": 63,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 33,
+        "attendance_pct": 75.0,
+        "a_final_appearances": 28,
+        "a_final_wins": 0,
+        "a_final_podiums": 4,
+        "a_final_rate": 84.8,
+        "a_final_avg_pos": 6.0,
+        "total_laps": 1764,
         "tqs": 0
       }
     },
@@ -2064,17 +2064,6 @@
         "total_laps": 1243,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 18,
-        "attendance_pct": 40.9,
-        "a_final_appearances": 14,
-        "a_final_wins": 0,
-        "a_final_podiums": 3,
-        "a_final_rate": 77.8,
-        "a_final_avg_pos": 5.6,
-        "total_laps": 1020,
-        "tqs": 1
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -2085,6 +2074,17 @@
         "a_final_avg_pos": 7.0,
         "total_laps": 13,
         "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 18,
+        "attendance_pct": 40.9,
+        "a_final_appearances": 14,
+        "a_final_wins": 0,
+        "a_final_podiums": 3,
+        "a_final_rate": 77.8,
+        "a_final_avg_pos": 5.6,
+        "total_laps": 1020,
+        "tqs": 1
       }
     },
     "tqs": 1,
@@ -2127,17 +2127,6 @@
         "total_laps": 1179,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 8,
-        "attendance_pct": 18.2,
-        "a_final_appearances": 5,
-        "a_final_wins": 0,
-        "a_final_podiums": 2,
-        "a_final_rate": 62.5,
-        "a_final_avg_pos": 3.6,
-        "total_laps": 465,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -2158,6 +2147,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 2.0,
         "total_laps": 65,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 8,
+        "attendance_pct": 18.2,
+        "a_final_appearances": 5,
+        "a_final_wins": 0,
+        "a_final_podiums": 2,
+        "a_final_rate": 62.5,
+        "a_final_avg_pos": 3.6,
+        "total_laps": 465,
         "tqs": 0
       }
     },
@@ -2201,17 +2201,6 @@
         "total_laps": 1847,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 32,
-        "attendance_pct": 72.7,
-        "a_final_appearances": 22,
-        "a_final_wins": 0,
-        "a_final_podiums": 2,
-        "a_final_rate": 68.8,
-        "a_final_avg_pos": 6.2,
-        "total_laps": 1746,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -2221,6 +2210,17 @@
         "a_final_rate": 50.0,
         "a_final_avg_pos": 6.0,
         "total_laps": 58,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 32,
+        "attendance_pct": 72.7,
+        "a_final_appearances": 22,
+        "a_final_wins": 0,
+        "a_final_podiums": 2,
+        "a_final_rate": 68.8,
+        "a_final_avg_pos": 6.2,
+        "total_laps": 1746,
         "tqs": 0
       }
     },
@@ -2264,17 +2264,6 @@
         "total_laps": 1016,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 7,
-        "attendance_pct": 15.9,
-        "a_final_appearances": 6,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 85.7,
-        "a_final_avg_pos": 6.8,
-        "total_laps": 374,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -2295,6 +2284,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 4.0,
         "total_laps": 158,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 7,
+        "attendance_pct": 15.9,
+        "a_final_appearances": 6,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 85.7,
+        "a_final_avg_pos": 6.8,
+        "total_laps": 374,
         "tqs": 0
       }
     },
@@ -2338,17 +2338,6 @@
         "total_laps": 890,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 8,
-        "attendance_pct": 18.2,
-        "a_final_appearances": 5,
-        "a_final_wins": 0,
-        "a_final_podiums": 2,
-        "a_final_rate": 62.5,
-        "a_final_avg_pos": 6.6,
-        "total_laps": 447,
-        "tqs": 0
-      },
       "4WD Buggy": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -2358,6 +2347,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 5.0,
         "total_laps": 62,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 8,
+        "attendance_pct": 18.2,
+        "a_final_appearances": 5,
+        "a_final_wins": 0,
+        "a_final_podiums": 2,
+        "a_final_rate": 62.5,
+        "a_final_avg_pos": 6.6,
+        "total_laps": 447,
         "tqs": 0
       }
     },
@@ -2400,17 +2400,6 @@
         "total_laps": 451,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 7,
-        "attendance_pct": 15.9,
-        "a_final_appearances": 3,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 42.9,
-        "a_final_avg_pos": 8.0,
-        "total_laps": 326,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 5,
         "attendance_pct": 11.4,
@@ -2420,6 +2409,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 4.6,
         "total_laps": 277,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 7,
+        "attendance_pct": 15.9,
+        "a_final_appearances": 3,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 42.9,
+        "a_final_avg_pos": 8.0,
+        "total_laps": 326,
         "tqs": 0
       }
     },
@@ -2463,17 +2463,6 @@
         "total_laps": 223,
         "tqs": 0
       },
-      "Stadium Trucks": {
-        "meetings_count": 5,
-        "attendance_pct": 11.4,
-        "a_final_appearances": 5,
-        "a_final_wins": 0,
-        "a_final_podiums": 1,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 5.6,
-        "total_laps": 258,
-        "tqs": 0
-      },
       "Vintage / Rear Motor": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -2483,6 +2472,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 99,
+        "tqs": 0
+      },
+      "Stadium Trucks": {
+        "meetings_count": 5,
+        "attendance_pct": 11.4,
+        "a_final_appearances": 5,
+        "a_final_wins": 0,
+        "a_final_podiums": 1,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 5.6,
+        "total_laps": 258,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -2525,17 +2525,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 1,
-        "attendance_pct": 2.3,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 51,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 7,
         "attendance_pct": 15.9,
@@ -2545,6 +2534,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 4.4,
         "total_laps": 354,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 1,
+        "attendance_pct": 2.3,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 51,
         "tqs": 0
       }
     },
@@ -2734,17 +2734,6 @@
         "total_laps": 2355,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 11,
-        "attendance_pct": 25.0,
-        "a_final_appearances": 3,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 27.3,
-        "a_final_avg_pos": 8.7,
-        "total_laps": 636,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -2754,6 +2743,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 8.0,
         "total_laps": 65,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 11,
+        "attendance_pct": 25.0,
+        "a_final_appearances": 3,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 27.3,
+        "a_final_avg_pos": 8.7,
+        "total_laps": 636,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -2808,17 +2808,6 @@
         "total_laps": 1793,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 28,
-        "attendance_pct": 63.6,
-        "a_final_appearances": 14,
-        "a_final_wins": 0,
-        "a_final_podiums": 1,
-        "a_final_rate": 50.0,
-        "a_final_avg_pos": 7.6,
-        "total_laps": 1533,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -2828,6 +2817,17 @@
         "a_final_rate": 50.0,
         "a_final_avg_pos": 5.0,
         "total_laps": 105,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 28,
+        "attendance_pct": 63.6,
+        "a_final_appearances": 14,
+        "a_final_wins": 0,
+        "a_final_podiums": 1,
+        "a_final_rate": 50.0,
+        "a_final_avg_pos": 7.6,
+        "total_laps": 1533,
         "tqs": 0
       }
     },
@@ -2859,17 +2859,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 12,
-        "attendance_pct": 27.3,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 563,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 18,
         "attendance_pct": 40.9,
@@ -2879,6 +2868,17 @@
         "a_final_rate": 83.3,
         "a_final_avg_pos": 7.1,
         "total_laps": 693,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 12,
+        "attendance_pct": 27.3,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 563,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -2982,17 +2982,6 @@
         "total_laps": 560,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 15,
-        "attendance_pct": 34.1,
-        "a_final_appearances": 4,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 26.7,
-        "a_final_avg_pos": 10.5,
-        "total_laps": 713,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 14,
         "attendance_pct": 31.8,
@@ -3013,6 +3002,17 @@
         "a_final_rate": 83.3,
         "a_final_avg_pos": 5.8,
         "total_laps": 312,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 15,
+        "attendance_pct": 34.1,
+        "a_final_appearances": 4,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 26.7,
+        "a_final_avg_pos": 10.5,
+        "total_laps": 713,
         "tqs": 0
       }
     },
@@ -3545,17 +3545,6 @@
       "4WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 14,
-        "attendance_pct": 31.8,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 800,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 21,
         "attendance_pct": 47.7,
@@ -3565,6 +3554,17 @@
         "a_final_rate": 95.2,
         "a_final_avg_pos": 5.6,
         "total_laps": 1117,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 14,
+        "attendance_pct": 31.8,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 800,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -3704,17 +3704,6 @@
         "total_laps": 1590,
         "tqs": 0
       },
-      "Stadium Trucks": {
-        "meetings_count": 1,
-        "attendance_pct": 2.3,
-        "a_final_appearances": 1,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 6.0,
-        "total_laps": 53,
-        "tqs": 0
-      },
       "Vintage / Rear Motor": {
         "meetings_count": 3,
         "attendance_pct": 6.8,
@@ -3724,6 +3713,17 @@
         "a_final_rate": 33.3,
         "a_final_avg_pos": 6.0,
         "total_laps": 164,
+        "tqs": 0
+      },
+      "Stadium Trucks": {
+        "meetings_count": 1,
+        "attendance_pct": 2.3,
+        "a_final_appearances": 1,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 6.0,
+        "total_laps": 53,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -3827,17 +3827,6 @@
         "total_laps": 401,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 14,
-        "attendance_pct": 31.8,
-        "a_final_appearances": 2,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 14.3,
-        "a_final_avg_pos": 8.5,
-        "total_laps": 759,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -3847,6 +3836,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 50,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 14,
+        "attendance_pct": 31.8,
+        "a_final_appearances": 2,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 14.3,
+        "a_final_avg_pos": 8.5,
+        "total_laps": 759,
         "tqs": 0
       }
     },
@@ -3961,17 +3961,6 @@
         "total_laps": 1041,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 13,
-        "attendance_pct": 29.5,
-        "a_final_appearances": 2,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 15.4,
-        "a_final_avg_pos": 9.0,
-        "total_laps": 743,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -3981,6 +3970,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 49,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 13,
+        "attendance_pct": 29.5,
+        "a_final_appearances": 2,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 15.4,
+        "a_final_avg_pos": 9.0,
+        "total_laps": 743,
         "tqs": 0
       }
     },
@@ -4072,17 +4072,6 @@
         "total_laps": 880,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 2,
-        "attendance_pct": 4.5,
-        "a_final_appearances": 2,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 7.0,
-        "total_laps": 117,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -4092,6 +4081,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 5.0,
         "total_laps": 51,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 2,
+        "attendance_pct": 4.5,
+        "a_final_appearances": 2,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 7.0,
+        "total_laps": 117,
         "tqs": 0
       }
     },
@@ -4171,17 +4171,6 @@
         "total_laps": 332,
         "tqs": 0
       },
-      "Vintage / Rear Motor": {
-        "meetings_count": 5,
-        "attendance_pct": 11.4,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 175,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -4202,6 +4191,17 @@
         "a_final_rate": 66.7,
         "a_final_avg_pos": 7.5,
         "total_laps": 115,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 5,
+        "attendance_pct": 11.4,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 175,
         "tqs": 0
       }
     },
@@ -4498,17 +4498,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 11,
-        "attendance_pct": 25.0,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 615,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 11,
         "attendance_pct": 25.0,
@@ -4518,6 +4507,17 @@
         "a_final_rate": 90.9,
         "a_final_avg_pos": 7.2,
         "total_laps": 538,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 11,
+        "attendance_pct": 25.0,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 615,
         "tqs": 0
       }
     },
@@ -4888,17 +4888,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 5,
-        "attendance_pct": 11.4,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 221,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 5,
         "attendance_pct": 11.4,
@@ -4908,6 +4897,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 6.8,
         "total_laps": 233,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 5,
+        "attendance_pct": 11.4,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 221,
         "tqs": 0
       },
       "4WD Buggy": {
@@ -5616,17 +5616,6 @@
       "2WD Buggy": 0
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 2,
-        "attendance_pct": 4.5,
-        "a_final_appearances": 0,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 0.0,
-        "a_final_avg_pos": null,
-        "total_laps": 88,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 4,
         "attendance_pct": 9.1,
@@ -5636,6 +5625,17 @@
         "a_final_rate": 100.0,
         "a_final_avg_pos": 7.0,
         "total_laps": 183,
+        "tqs": 0
+      },
+      "2WD Buggy": {
+        "meetings_count": 2,
+        "attendance_pct": 4.5,
+        "a_final_appearances": 0,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 0.0,
+        "a_final_avg_pos": null,
+        "total_laps": 88,
         "tqs": 0
       }
     },
