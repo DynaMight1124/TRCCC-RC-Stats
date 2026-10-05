@@ -60,42 +60,42 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "Vintage / Rear Motor": 27.57,
-      "Stadium Trucks": 34.05
+      "Stadium Trucks": 34.05,
+      "Vintage / Rear Motor": 27.57
     },
     "best_runs_per_class": {
-      "Vintage / Rear Motor": {
-        "laps": 8,
-        "seconds": 316.73,
-        "result_str": "8 / 316.73",
-        "meeting_date": "12-Apr-2025"
-      },
       "Stadium Trucks": {
         "laps": 8,
         "seconds": 310.25,
         "result_str": "8 / 310.25",
         "meeting_date": "12-Apr-2025"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 8,
+        "seconds": 316.73,
+        "result_str": "8 / 316.73",
+        "meeting_date": "12-Apr-2025"
       }
     },
     "highest_finishes_per_class": {
-      "Vintage / Rear Motor": {
-        "final": "B Final",
-        "position": 2,
-        "rank": 12,
-        "meeting_date": "12-Apr-2025",
-        "meeting_title": "TRCCC 2025 R1"
-      },
       "Stadium Trucks": {
         "final": "A Final",
         "position": 5,
         "rank": 5,
         "meeting_date": "12-Apr-2025",
         "meeting_title": "TRCCC 2025 R1"
+      },
+      "Vintage / Rear Motor": {
+        "final": "B Final",
+        "position": 2,
+        "rank": 12,
+        "meeting_date": "12-Apr-2025",
+        "meeting_title": "TRCCC 2025 R1"
       }
     },
     "highest_quals_per_class": {
-      "Vintage / Rear Motor": 12,
-      "Stadium Trucks": 7
+      "Stadium Trucks": 7,
+      "Vintage / Rear Motor": 12
     },
     "best10_per_class": {
       "Vintage / Rear Motor": 31.18

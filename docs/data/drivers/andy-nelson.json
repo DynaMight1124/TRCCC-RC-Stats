@@ -14,11 +14,22 @@
     "a_final_podium_rate": 6.2,
     "a_final_avg_pos": 7.4,
     "a_finals_by_class": {
-      "Vintage / Rear Motor": 14,
+      "2WD Buggy": 1,
       "Stadium Trucks": 1,
-      "2WD Buggy": 1
+      "Vintage / Rear Motor": 14
     },
     "by_class": {
+      "2WD Buggy": {
+        "meetings_count": 30,
+        "attendance_pct": 68.2,
+        "a_final_appearances": 1,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 3.3,
+        "a_final_avg_pos": 8.0,
+        "total_laps": 1793,
+        "tqs": 0
+      },
       "Stadium Trucks": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -39,17 +50,6 @@
         "a_final_rate": 50.0,
         "a_final_avg_pos": 7.6,
         "total_laps": 1533,
-        "tqs": 0
-      },
-      "2WD Buggy": {
-        "meetings_count": 30,
-        "attendance_pct": 68.2,
-        "a_final_appearances": 1,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 3.3,
-        "a_final_avg_pos": 8.0,
-        "total_laps": 1793,
         "tqs": 0
       }
     },
@@ -80,8 +80,8 @@
   "personal_bests": {
     "best_laps_per_class": {
       "2WD Buggy": 20.41,
-      "Vintage / Rear Motor": 21.68,
-      "Stadium Trucks": 22.06
+      "Stadium Trucks": 22.06,
+      "Vintage / Rear Motor": 21.68
     },
     "best_runs_per_class": {
       "2WD Buggy": {
@@ -90,17 +90,17 @@
         "result_str": "14 / 316.10",
         "meeting_date": "26-Jul-2026"
       },
-      "Vintage / Rear Motor": {
-        "laps": 13,
-        "seconds": 305.98,
-        "result_str": "13 / 305.98",
-        "meeting_date": "28-Jul-2024"
-      },
       "Stadium Trucks": {
         "laps": 12,
         "seconds": 315.39,
         "result_str": "12 / 315.39",
         "meeting_date": "10-Sep-2023"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 13,
+        "seconds": 305.98,
+        "result_str": "13 / 305.98",
+        "meeting_date": "28-Jul-2024"
       }
     },
     "highest_finishes_per_class": {
@@ -111,30 +111,30 @@
         "meeting_date": "23-Aug-2026",
         "meeting_title": "TRCCC 2026 R10"
       },
-      "Vintage / Rear Motor": {
-        "final": "A Final",
-        "position": 2,
-        "rank": 2,
-        "meeting_date": "10-Sep-2023",
-        "meeting_title": "TRCCC 2023 R9"
-      },
       "Stadium Trucks": {
         "final": "A Final",
         "position": 5,
         "rank": 5,
         "meeting_date": "10-Sep-2023",
         "meeting_title": "TRCCC 2023 R9"
+      },
+      "Vintage / Rear Motor": {
+        "final": "A Final",
+        "position": 2,
+        "rank": 2,
+        "meeting_date": "10-Sep-2023",
+        "meeting_title": "TRCCC 2023 R9"
       }
     },
     "highest_quals_per_class": {
       "2WD Buggy": 7,
-      "Vintage / Rear Motor": 7,
-      "Stadium Trucks": 4
+      "Stadium Trucks": 4,
+      "Vintage / Rear Motor": 7
     },
     "best10_per_class": {
       "2WD Buggy": 20.99,
-      "Vintage / Rear Motor": 22.66,
-      "Stadium Trucks": 22.65
+      "Stadium Trucks": 22.65,
+      "Vintage / Rear Motor": 22.66
     }
   },
   "timeline": [

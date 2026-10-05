@@ -14,21 +14,10 @@
     "a_final_podium_rate": 50.0,
     "a_final_avg_pos": 4.0,
     "a_finals_by_class": {
-      "4WD Buggy": 1,
-      "2WD Buggy": 1
+      "2WD Buggy": 1,
+      "4WD Buggy": 1
     },
     "by_class": {
-      "4WD Buggy": {
-        "meetings_count": 1,
-        "attendance_pct": 2.3,
-        "a_final_appearances": 1,
-        "a_final_wins": 0,
-        "a_final_podiums": 1,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 3.0,
-        "total_laps": 67,
-        "tqs": 0
-      },
       "2WD Buggy": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -38,6 +27,17 @@
         "a_final_rate": 50.0,
         "a_final_avg_pos": 5.0,
         "total_laps": 132,
+        "tqs": 0
+      },
+      "4WD Buggy": {
+        "meetings_count": 1,
+        "attendance_pct": 2.3,
+        "a_final_appearances": 1,
+        "a_final_wins": 0,
+        "a_final_podiums": 1,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 3.0,
+        "total_laps": 67,
         "tqs": 0
       }
     },
@@ -60,33 +60,33 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "4WD Buggy": 21.94,
-      "2WD Buggy": 6.0
+      "2WD Buggy": 6.0,
+      "4WD Buggy": 21.94
     },
     "best_runs_per_class": {},
     "highest_finishes_per_class": {
-      "4WD Buggy": {
-        "final": "A Final",
-        "position": 3,
-        "rank": 3,
-        "meeting_date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC"
-      },
       "2WD Buggy": {
         "final": "A Final",
         "position": 5,
         "rank": 5,
         "meeting_date": "23-Jul-2023",
         "meeting_title": "SW Regionals 2023 R4 TRCCC"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 3,
+        "rank": 3,
+        "meeting_date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC"
       }
     },
     "highest_quals_per_class": {
-      "4WD Buggy": 3,
-      "2WD Buggy": 5
+      "2WD Buggy": 5,
+      "4WD Buggy": 3
     },
     "best10_per_class": {
-      "4WD Buggy": 22.36,
-      "2WD Buggy": 10.0
+      "2WD Buggy": 10.0,
+      "4WD Buggy": 22.36
     }
   },
   "timeline": [

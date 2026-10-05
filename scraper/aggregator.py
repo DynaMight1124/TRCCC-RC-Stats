@@ -150,6 +150,7 @@ class StatsAggregator:
             return
         
         files = [f for f in os.listdir(RAW_DATA_DIR) if f.startswith("meeting_") and f.endswith(".json")]
+        files.sort()
         print(f"[Aggregator] Loading {len(files)} raw meeting files...")
         
         venue_id = self.config.get("venueId")
@@ -436,7 +437,7 @@ class StatsAggregator:
             # Summary for this meeting
             meeting_lap_totals[mid] = meeting_laps
             # Register meeting attendance and slug for all participating drivers
-            for dname in meeting_drivers:
+            for dname in sorted(meeting_drivers):
                 d = self.drivers[dname]
                 d["name"] = dname
                 d["slug"] = slugify(dname)
@@ -450,8 +451,8 @@ class StatsAggregator:
                 "drivers_count": len(meeting_drivers),
                 "total_laps": meeting_laps,
                 "races_count": meeting_races_count,
-                "winners": class_winners,
-                "tqs": class_tqs,
+                "winners": {k: class_winners[k] for k in sorted(class_winners.keys())},
+                "tqs": {k: class_tqs[k] for k in sorted(class_tqs.keys())},
                 "fastest_lap": meeting_fastest_lap if meeting_fastest_lap["driver"] else None
             })
 
@@ -467,17 +468,17 @@ class StatsAggregator:
         
         # Sort lap records per class to get all-time records
         class_records = {}
-        for cname, cdata in self.classes.items():
+        for cname, cdata in sorted(self.classes.items(), key=lambda x: x[0]):
             records = cdata["lap_records"]
             records.sort(key=lambda r: r["lap_time"])
             top_10 = records[:10]
             record_holder = records[0] if records else None
             
             # Sort winners
-            sorted_winners = sorted(cdata["wins"].items(), key=lambda x: x[1], reverse=True)
-            sorted_podiums = sorted(cdata["podiums"].items(), key=lambda x: x[1], reverse=True)
-            sorted_tqs = sorted(cdata["tqs"].items(), key=lambda x: x[1], reverse=True)
-            sorted_afinals = sorted(cdata["a_finals"].items(), key=lambda x: x[1], reverse=True)
+            sorted_winners = sorted(cdata["wins"].items(), key=lambda x: (-x[1], x[0]))
+            sorted_podiums = sorted(cdata["podiums"].items(), key=lambda x: (-x[1], x[0]))
+            sorted_tqs = sorted(cdata["tqs"].items(), key=lambda x: (-x[1], x[0]))
+            sorted_afinals = sorted(cdata["a_finals"].items(), key=lambda x: (-x[1], x[0]))
 
             class_records[cname] = {
                 "name": cname,
@@ -517,7 +518,7 @@ class StatsAggregator:
                 for m in self.meetings_summary
             ],
             "class_lap_records": {
-                cname: cdata["lap_record"] for cname, cdata in class_records.items() if cdata["lap_record"]
+                cname: cdata["lap_record"] for cname, cdata in sorted(class_records.items(), key=lambda x: x[0]) if cdata["lap_record"]
             }
         }
 
@@ -533,7 +534,7 @@ class StatsAggregator:
                         pass
         os.makedirs(DRIVERS_DIR, exist_ok=True)
 
-        for dname, d in self.drivers.items():
+        for dname, d in sorted(self.drivers.items(), key=lambda x: x[0]):
             if not dname:
                 continue
             
@@ -591,9 +592,9 @@ class StatsAggregator:
             if d["best_laps"]:
                 overall_best_lap = min(d["best_laps"].values())
 
-            # Per-class statistics breakdown
+            # Per-class statistics breakdown (sorted alphabetically by class name)
             by_class = {}
-            for c in d["classes"]:
+            for c in sorted(d["classes"]):
                 c_m = len(d["meetings_by_class"][c])
                 c_af = d["a_finals_by_class"][c]
                 c_w = d["a_final_wins_by_class"][c]
@@ -628,7 +629,7 @@ class StatsAggregator:
                 "a_final_rate": a_final_pct,
                 "a_final_podium_rate": round((d["a_final_podiums"] / d["a_final_appearances"]) * 100, 1) if d["a_final_appearances"] > 0 else 0,
                 "a_final_avg_pos": round(sum(d["a_final_positions"]) / len(d["a_final_positions"]), 1) if d["a_final_positions"] else None,
-                "a_finals_by_class": dict(d["a_finals_by_class"]),
+                "a_finals_by_class": {c: d["a_finals_by_class"][c] for c in sorted(d["a_finals_by_class"].keys())},
                 "by_class": by_class,
                 "tqs": d["tqs"],
                 "classes": sorted(list(d["classes"])),
@@ -645,11 +646,11 @@ class StatsAggregator:
                 "summary": summary_record,
                 "badges": badges,
                 "personal_bests": {
-                    "best_laps_per_class": d["best_laps"],
-                    "best_runs_per_class": d["best_runs"],
-                    "highest_finishes_per_class": d["highest_finishes"],
-                    "highest_quals_per_class": d["highest_quals"],
-                    "best10_per_class": d["best10"]
+                    "best_laps_per_class": {c: d["best_laps"][c] for c in sorted(d["best_laps"].keys())},
+                    "best_runs_per_class": {c: d["best_runs"][c] for c in sorted(d["best_runs"].keys())},
+                    "highest_finishes_per_class": {c: d["highest_finishes"][c] for c in sorted(d["highest_finishes"].keys())},
+                    "highest_quals_per_class": {c: d["highest_quals"][c] for c in sorted(d["highest_quals"].keys())},
+                    "best10_per_class": {c: d["best10"][c] for c in sorted(d["best10"].keys())}
                 },
                 "timeline": sorted(d["timeline"], key=lambda t: t["meeting_id"], reverse=True)
             }
@@ -658,13 +659,13 @@ class StatsAggregator:
             with open(profile_path, "w", encoding="utf-8") as pf:
                 json.dump(full_profile, pf, indent=2)
 
-        # Sort driver index by A-final wins, then podiums, then meetings
-        drivers_index.sort(key=lambda x: (x["a_final_wins"], x["a_final_podiums"], x["meetings_count"]), reverse=True)
+        # Sort driver index by A-final wins, then podiums, then meetings, with deterministic name tiebreaker
+        drivers_index.sort(key=lambda x: (-x["a_final_wins"], -x["a_final_podiums"], -x["meetings_count"], x["name"].lower()))
 
-        # Format H2H matrix
+        # Format H2H matrix (sorted deterministically)
         h2h_list = []
-        for d1, opps in self.h2h_matches.items():
-            for d2, stats in opps.items():
+        for d1, opps in sorted(self.h2h_matches.items(), key=lambda x: x[0]):
+            for d2, stats in sorted(opps.items(), key=lambda x: x[0]):
                 if stats["meetings"] >= 2:
                     h2h_list.append({
                         "driver_a": d1,
@@ -673,13 +674,12 @@ class StatsAggregator:
                         "wins_b": stats["wins_b"],
                         "total_races": stats["meetings"]
                     })
-        h2h_list.sort(key=lambda x: x["total_races"], reverse=True)
+        h2h_list.sort(key=lambda x: (-x["total_races"], x["driver_a"], x["driver_b"]))
 
         # Add top A-finalists and recent winners to club_data
         top_afinalists = sorted(
             [d for d in drivers_index if d["meetings_count"] >= 3],
-            key=lambda x: (x["a_final_appearances"], x["a_final_wins"], x["a_final_rate"]),
-            reverse=True
+            key=lambda x: (-x["a_final_appearances"], -x["a_final_wins"], -x["a_final_rate"], x["name"].lower())
         )[:10]
         club_data["top_afinalists"] = top_afinalists
 

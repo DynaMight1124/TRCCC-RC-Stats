@@ -1,1482 +1,4 @@
 {
-  "4WD Buggy": {
-    "name": "4WD Buggy",
-    "entries_count": 144,
-    "lap_record": {
-      "lap_time": 6.0,
-      "driver": "Callum Mitchell",
-      "date": "23-Jul-2023",
-      "meeting_title": "SW Regionals 2023 R4 TRCCC",
-      "meeting_id": 8780,
-      "session": "A Final"
-    },
-    "top_laps": [
-      {
-        "lap_time": 6.0,
-        "driver": "Callum Mitchell",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "A Final"
-      },
-      {
-        "lap_time": 6.0,
-        "driver": "Matt Hodges",
-        "date": "21-Jul-2024",
-        "meeting_title": "SW Regional Round 3",
-        "meeting_id": 12520,
-        "session": "A Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Dan Vickers",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Chris Cooke",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Simon Mills",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Martin Williams",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "John Farringdon",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Barry Norris",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Jamie Stringer",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "B Final"
-      },
-      {
-        "lap_time": 7.0,
-        "driver": "Phil Chapman",
-        "date": "23-Jul-2023",
-        "meeting_title": "SW Regionals 2023 R4 TRCCC",
-        "meeting_id": 8780,
-        "session": "A Final"
-      }
-    ],
-    "leaderboard_wins": [
-      {
-        "driver": "Keith Halsey",
-        "wins": 6
-      },
-      {
-        "driver": "Harry Mears",
-        "wins": 4
-      },
-      {
-        "driver": "Paul Hopkins",
-        "wins": 3
-      },
-      {
-        "driver": "Reece Needle",
-        "wins": 1
-      },
-      {
-        "driver": "Mark Taylor",
-        "wins": 1
-      },
-      {
-        "driver": "Kev Dymond",
-        "wins": 1
-      },
-      {
-        "driver": "Dan Harding",
-        "wins": 1
-      },
-      {
-        "driver": "Martin Owen",
-        "wins": 1
-      },
-      {
-        "driver": "Jordan Newbery",
-        "wins": 1
-      },
-      {
-        "driver": "Harry Porter",
-        "wins": 1
-      }
-    ],
-    "leaderboard_podiums": [
-      {
-        "driver": "Keith Halsey",
-        "podiums": 9
-      },
-      {
-        "driver": "Jamie Stringer",
-        "podiums": 5
-      },
-      {
-        "driver": "Michael Halsey",
-        "podiums": 4
-      },
-      {
-        "driver": "Paul Hopkins",
-        "podiums": 4
-      },
-      {
-        "driver": "Harry Mears",
-        "podiums": 4
-      },
-      {
-        "driver": "Chris Cooke",
-        "podiums": 3
-      },
-      {
-        "driver": "Jordan Newbery",
-        "podiums": 3
-      },
-      {
-        "driver": "Dan Harding",
-        "podiums": 3
-      },
-      {
-        "driver": "Dan Hurrell",
-        "podiums": 2
-      },
-      {
-        "driver": "Alistar Munro",
-        "podiums": 2
-      },
-      {
-        "driver": "Martin Owen",
-        "podiums": 2
-      },
-      {
-        "driver": "Ricky Newcombe",
-        "podiums": 2
-      },
-      {
-        "driver": "Jon Isaac",
-        "podiums": 2
-      },
-      {
-        "driver": "Gavin Knight",
-        "podiums": 1
-      },
-      {
-        "driver": "Daniel Hurrell",
-        "podiums": 1
-      },
-      {
-        "driver": "Reece Needle",
-        "podiums": 1
-      },
-      {
-        "driver": "Keith Cripwell",
-        "podiums": 1
-      },
-      {
-        "driver": "Mark Taylor",
-        "podiums": 1
-      },
-      {
-        "driver": "Dave Berry",
-        "podiums": 1
-      },
-      {
-        "driver": "Kev Dymond",
-        "podiums": 1
-      },
-      {
-        "driver": "Mark Martin",
-        "podiums": 1
-      },
-      {
-        "driver": "Stuart Ball",
-        "podiums": 1
-      },
-      {
-        "driver": "Paul Rose",
-        "podiums": 1
-      },
-      {
-        "driver": "Adam Mozes",
-        "podiums": 1
-      },
-      {
-        "driver": "Matt Porter",
-        "podiums": 1
-      },
-      {
-        "driver": "Charlie Anyon",
-        "podiums": 1
-      },
-      {
-        "driver": "Harry Porter",
-        "podiums": 1
-      },
-      {
-        "driver": "Dave Mills",
-        "podiums": 1
-      }
-    ],
-    "leaderboard_tqs": [
-      {
-        "driver": "Keith Halsey",
-        "tqs": 7
-      },
-      {
-        "driver": "Harry Mears",
-        "tqs": 3
-      },
-      {
-        "driver": "Paul Hopkins",
-        "tqs": 3
-      },
-      {
-        "driver": "Dan Harding",
-        "tqs": 2
-      },
-      {
-        "driver": "Matt Martin",
-        "tqs": 2
-      },
-      {
-        "driver": "Adam Mozes",
-        "tqs": 1
-      },
-      {
-        "driver": "Jamie Stringer",
-        "tqs": 1
-      },
-      {
-        "driver": "Reece Needle",
-        "tqs": 1
-      },
-      {
-        "driver": "Dave Berry",
-        "tqs": 1
-      },
-      {
-        "driver": "Kev Dymond",
-        "tqs": 1
-      },
-      {
-        "driver": "Lee Biggs",
-        "tqs": 1
-      },
-      {
-        "driver": "Ross Everill",
-        "tqs": 1
-      },
-      {
-        "driver": "Michael Halsey",
-        "tqs": 1
-      },
-      {
-        "driver": "Martin Owen",
-        "tqs": 1
-      },
-      {
-        "driver": "Jordan Newbery",
-        "tqs": 1
-      },
-      {
-        "driver": "Harry Porter",
-        "tqs": 1
-      }
-    ],
-    "leaderboard_afinals": [
-      {
-        "driver": "Jamie Stringer",
-        "a_finals": 13
-      },
-      {
-        "driver": "Keith Halsey",
-        "a_finals": 10
-      },
-      {
-        "driver": "Michael Halsey",
-        "a_finals": 8
-      },
-      {
-        "driver": "Paul Hopkins",
-        "a_finals": 6
-      },
-      {
-        "driver": "Matt Martin",
-        "a_finals": 6
-      },
-      {
-        "driver": "Gavin Knight",
-        "a_finals": 5
-      },
-      {
-        "driver": "Chris Cooke",
-        "a_finals": 5
-      },
-      {
-        "driver": "Dave Mills",
-        "a_finals": 5
-      },
-      {
-        "driver": "Harry Mears",
-        "a_finals": 4
-      },
-      {
-        "driver": "Paul Rose",
-        "a_finals": 3
-      },
-      {
-        "driver": "Keith Cripwell",
-        "a_finals": 3
-      },
-      {
-        "driver": "Jordan Newbery",
-        "a_finals": 3
-      },
-      {
-        "driver": "Dan Harding",
-        "a_finals": 3
-      },
-      {
-        "driver": "Alistar Munro",
-        "a_finals": 3
-      },
-      {
-        "driver": "Adam Mozes",
-        "a_finals": 3
-      },
-      {
-        "driver": "Ricky Newcombe",
-        "a_finals": 3
-      },
-      {
-        "driver": "Oliver Foster",
-        "a_finals": 3
-      },
-      {
-        "driver": "Wayne James",
-        "a_finals": 2
-      },
-      {
-        "driver": "Lee Biggs",
-        "a_finals": 2
-      },
-      {
-        "driver": "Dan Hurrell",
-        "a_finals": 2
-      },
-      {
-        "driver": "Kev Dymond",
-        "a_finals": 2
-      },
-      {
-        "driver": "Martin Owen",
-        "a_finals": 2
-      },
-      {
-        "driver": "Ross Everill",
-        "a_finals": 2
-      },
-      {
-        "driver": "Jon Isaac",
-        "a_finals": 2
-      },
-      {
-        "driver": "Spencer Hayes",
-        "a_finals": 2
-      },
-      {
-        "driver": "Daniel Hurrell",
-        "a_finals": 1
-      },
-      {
-        "driver": "Paul Norris",
-        "a_finals": 1
-      },
-      {
-        "driver": "Callum Mitchell",
-        "a_finals": 1
-      },
-      {
-        "driver": "Mark Cox",
-        "a_finals": 1
-      },
-      {
-        "driver": "Phil Chapman",
-        "a_finals": 1
-      },
-      {
-        "driver": "Ashley Parkin",
-        "a_finals": 1
-      },
-      {
-        "driver": "Ken Fung",
-        "a_finals": 1
-      },
-      {
-        "driver": "Ben Winters",
-        "a_finals": 1
-      },
-      {
-        "driver": "Reece Needle",
-        "a_finals": 1
-      },
-      {
-        "driver": "Mark Taylor",
-        "a_finals": 1
-      },
-      {
-        "driver": "Dave Berry",
-        "a_finals": 1
-      },
-      {
-        "driver": "Mark Martin",
-        "a_finals": 1
-      },
-      {
-        "driver": "Matt Hodges",
-        "a_finals": 1
-      },
-      {
-        "driver": "Adam Roulston",
-        "a_finals": 1
-      },
-      {
-        "driver": "Paul Field",
-        "a_finals": 1
-      },
-      {
-        "driver": "Steve Ashton",
-        "a_finals": 1
-      },
-      {
-        "driver": "Shaun Buller",
-        "a_finals": 1
-      },
-      {
-        "driver": "Stuart Ball",
-        "a_finals": 1
-      },
-      {
-        "driver": "Jon Baker",
-        "a_finals": 1
-      },
-      {
-        "driver": "Nick Langdon",
-        "a_finals": 1
-      },
-      {
-        "driver": "Jamie Conn",
-        "a_finals": 1
-      },
-      {
-        "driver": "Dave Manning",
-        "a_finals": 1
-      },
-      {
-        "driver": "Matt Porter",
-        "a_finals": 1
-      },
-      {
-        "driver": "Chris Law",
-        "a_finals": 1
-      },
-      {
-        "driver": "Charlie Anyon",
-        "a_finals": 1
-      },
-      {
-        "driver": "Harry Porter",
-        "a_finals": 1
-      }
-    ]
-  },
-  "Stadium Trucks": {
-    "name": "Stadium Trucks",
-    "entries_count": 317,
-    "lap_record": {
-      "lap_time": 17.75,
-      "driver": "Adam Bedford",
-      "date": "28-Jun-2026",
-      "meeting_title": "TRCCC 2026 R6",
-      "meeting_id": 20417,
-      "session": "Heat"
-    },
-    "top_laps": [
-      {
-        "lap_time": 17.75,
-        "driver": "Adam Bedford",
-        "date": "28-Jun-2026",
-        "meeting_title": "TRCCC 2026 R6",
-        "meeting_id": 20417,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 18.17,
-        "driver": "Adam Bedford",
-        "date": "28-Jun-2026",
-        "meeting_title": "TRCCC 2026 R6",
-        "meeting_id": 20417,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.42,
-        "driver": "Jordan Newbery",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.64,
-        "driver": "Jordan Newbery",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.79,
-        "driver": "Harry Porter",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.8,
-        "driver": "Jordan Newbery",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.92,
-        "driver": "Bryan Burrows",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "A Final"
-      },
-      {
-        "lap_time": 19.93,
-        "driver": "Paul Norris",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.98,
-        "driver": "Dan Harding",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "A Final"
-      },
-      {
-        "lap_time": 19.98,
-        "driver": "Harry Porter",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      }
-    ],
-    "leaderboard_wins": [
-      {
-        "driver": "Gavin Knight",
-        "wins": 15
-      },
-      {
-        "driver": "Paul Norris",
-        "wins": 4
-      },
-      {
-        "driver": "Harry Porter",
-        "wins": 3
-      },
-      {
-        "driver": "Keith Halsey",
-        "wins": 2
-      },
-      {
-        "driver": "Chris Cooke",
-        "wins": 2
-      },
-      {
-        "driver": "Dan Hurrell",
-        "wins": 2
-      },
-      {
-        "driver": "Paul Hopkins",
-        "wins": 2
-      },
-      {
-        "driver": "Dan Harding",
-        "wins": 1
-      },
-      {
-        "driver": "Steve Hawkins",
-        "wins": 1
-      },
-      {
-        "driver": "Ross Everill",
-        "wins": 1
-      },
-      {
-        "driver": "Carl Davis",
-        "wins": 1
-      },
-      {
-        "driver": "Matt Martin",
-        "wins": 1
-      },
-      {
-        "driver": "Adam Roulston",
-        "wins": 1
-      },
-      {
-        "driver": "Michael Halsey",
-        "wins": 1
-      },
-      {
-        "driver": "Ryan Eaton",
-        "wins": 1
-      },
-      {
-        "driver": "Ricky Newcombe",
-        "wins": 1
-      },
-      {
-        "driver": "Bryan Burrows",
-        "wins": 1
-      }
-    ],
-    "leaderboard_podiums": [
-      {
-        "driver": "Gavin Knight",
-        "podiums": 19
-      },
-      {
-        "driver": "Harry Porter",
-        "podiums": 14
-      },
-      {
-        "driver": "Steve Hawkins",
-        "podiums": 8
-      },
-      {
-        "driver": "Wayne James",
-        "podiums": 8
-      },
-      {
-        "driver": "Jake Coombs",
-        "podiums": 8
-      },
-      {
-        "driver": "Paul Norris",
-        "podiums": 8
-      },
-      {
-        "driver": "Dan Hurrell",
-        "podiums": 7
-      },
-      {
-        "driver": "Carl Davis",
-        "podiums": 6
-      },
-      {
-        "driver": "Keith Halsey",
-        "podiums": 6
-      },
-      {
-        "driver": "Ricky Newcombe",
-        "podiums": 5
-      },
-      {
-        "driver": "Adam Roulston",
-        "podiums": 4
-      },
-      {
-        "driver": "Chris Cooke",
-        "podiums": 4
-      },
-      {
-        "driver": "Jordan Newbery",
-        "podiums": 3
-      },
-      {
-        "driver": "Jamie Stringer",
-        "podiums": 2
-      },
-      {
-        "driver": "Dan Harding",
-        "podiums": 2
-      },
-      {
-        "driver": "Matt Martin",
-        "podiums": 2
-      },
-      {
-        "driver": "Luke Coombs",
-        "podiums": 2
-      },
-      {
-        "driver": "Nathan Jarvis",
-        "podiums": 2
-      },
-      {
-        "driver": "Paul Hopkins",
-        "podiums": 2
-      },
-      {
-        "driver": "Adam Mozes",
-        "podiums": 1
-      },
-      {
-        "driver": "Ross Everill",
-        "podiums": 1
-      },
-      {
-        "driver": "Marc Biddiss",
-        "podiums": 1
-      },
-      {
-        "driver": "Lee Biggs",
-        "podiums": 1
-      },
-      {
-        "driver": "Michael Halsey",
-        "podiums": 1
-      },
-      {
-        "driver": "Ryan Eaton",
-        "podiums": 1
-      },
-      {
-        "driver": "Bryan Burrows",
-        "podiums": 1
-      },
-      {
-        "driver": "Paul Field",
-        "podiums": 1
-      }
-    ],
-    "leaderboard_tqs": [
-      {
-        "driver": "Gavin Knight",
-        "tqs": 16
-      },
-      {
-        "driver": "Harry Porter",
-        "tqs": 8
-      },
-      {
-        "driver": "Paul Norris",
-        "tqs": 3
-      },
-      {
-        "driver": "Jordan Newbery",
-        "tqs": 2
-      },
-      {
-        "driver": "Keith Halsey",
-        "tqs": 2
-      },
-      {
-        "driver": "Wayne James",
-        "tqs": 2
-      },
-      {
-        "driver": "Paul Hopkins",
-        "tqs": 2
-      },
-      {
-        "driver": "Carl Davis",
-        "tqs": 1
-      },
-      {
-        "driver": "Jake Coombs",
-        "tqs": 1
-      },
-      {
-        "driver": "Chris Cooke",
-        "tqs": 1
-      },
-      {
-        "driver": "Adam Roulston",
-        "tqs": 1
-      },
-      {
-        "driver": "Ricky Newcombe",
-        "tqs": 1
-      },
-      {
-        "driver": "Bryan Burrows",
-        "tqs": 1
-      }
-    ],
-    "leaderboard_afinals": [
-      {
-        "driver": "Steve Hawkins",
-        "a_finals": 22
-      },
-      {
-        "driver": "Gavin Knight",
-        "a_finals": 21
-      },
-      {
-        "driver": "Barry Norris",
-        "a_finals": 20
-      },
-      {
-        "driver": "Harry Porter",
-        "a_finals": 17
-      },
-      {
-        "driver": "Wayne James",
-        "a_finals": 16
-      },
-      {
-        "driver": "Jamie Stringer",
-        "a_finals": 15
-      },
-      {
-        "driver": "Keith Cripwell",
-        "a_finals": 15
-      },
-      {
-        "driver": "Marc Biddiss",
-        "a_finals": 15
-      },
-      {
-        "driver": "Dave Mills",
-        "a_finals": 14
-      },
-      {
-        "driver": "Jake Coombs",
-        "a_finals": 13
-      },
-      {
-        "driver": "Carl Davis",
-        "a_finals": 11
-      },
-      {
-        "driver": "Simon Freeman",
-        "a_finals": 10
-      },
-      {
-        "driver": "Paul Norris",
-        "a_finals": 9
-      },
-      {
-        "driver": "Chris Thomas",
-        "a_finals": 8
-      },
-      {
-        "driver": "Dan Hurrell",
-        "a_finals": 8
-      },
-      {
-        "driver": "Luke Coombs",
-        "a_finals": 7
-      },
-      {
-        "driver": "Keith Halsey",
-        "a_finals": 6
-      },
-      {
-        "driver": "Adam Mozes",
-        "a_finals": 5
-      },
-      {
-        "driver": "Matt Martin",
-        "a_finals": 5
-      },
-      {
-        "driver": "Shaun Buller",
-        "a_finals": 5
-      },
-      {
-        "driver": "Chris Cooke",
-        "a_finals": 5
-      },
-      {
-        "driver": "Ricky Newcombe",
-        "a_finals": 5
-      },
-      {
-        "driver": "Nathan Jarvis",
-        "a_finals": 5
-      },
-      {
-        "driver": "Jordan Newbery",
-        "a_finals": 4
-      },
-      {
-        "driver": "Adam Roulston",
-        "a_finals": 4
-      },
-      {
-        "driver": "Adam Bedford",
-        "a_finals": 4
-      },
-      {
-        "driver": "Michael Halsey",
-        "a_finals": 3
-      },
-      {
-        "driver": "Mark Biddiss",
-        "a_finals": 3
-      },
-      {
-        "driver": "Lee Biggs",
-        "a_finals": 3
-      },
-      {
-        "driver": "Andrew Stone-Wright",
-        "a_finals": 2
-      },
-      {
-        "driver": "Dan Harding",
-        "a_finals": 2
-      },
-      {
-        "driver": "Jon Baker",
-        "a_finals": 2
-      },
-      {
-        "driver": "Paul Hopkins",
-        "a_finals": 2
-      },
-      {
-        "driver": "Andy Nelson",
-        "a_finals": 1
-      },
-      {
-        "driver": "John Farringdon",
-        "a_finals": 1
-      },
-      {
-        "driver": "Stuart Ball",
-        "a_finals": 1
-      },
-      {
-        "driver": "Ross Everill",
-        "a_finals": 1
-      },
-      {
-        "driver": "Steve Harris",
-        "a_finals": 1
-      },
-      {
-        "driver": "Terry Leach",
-        "a_finals": 1
-      },
-      {
-        "driver": "Ryan Eaton",
-        "a_finals": 1
-      },
-      {
-        "driver": "Alistar Munro",
-        "a_finals": 1
-      },
-      {
-        "driver": "Dan Warner",
-        "a_finals": 1
-      },
-      {
-        "driver": "Dave McCarthy",
-        "a_finals": 1
-      },
-      {
-        "driver": "Bryan Burrows",
-        "a_finals": 1
-      },
-      {
-        "driver": "Paul Field",
-        "a_finals": 1
-      },
-      {
-        "driver": "Chris Law",
-        "a_finals": 1
-      },
-      {
-        "driver": "Paul Duckmanton",
-        "a_finals": 1
-      },
-      {
-        "driver": "Al Stocks",
-        "a_finals": 1
-      },
-      {
-        "driver": "Dave Berry",
-        "a_finals": 1
-      },
-      {
-        "driver": "John Howe",
-        "a_finals": 1
-      },
-      {
-        "driver": "Matt Porter",
-        "a_finals": 1
-      },
-      {
-        "driver": "Lee Bryant",
-        "a_finals": 1
-      },
-      {
-        "driver": "Spencer Hayes",
-        "a_finals": 1
-      }
-    ]
-  },
-  "Vintage / Rear Motor": {
-    "name": "Vintage / Rear Motor",
-    "entries_count": 525,
-    "lap_record": {
-      "lap_time": 19.72,
-      "driver": "Jordan Newbery",
-      "date": "23-Aug-2026",
-      "meeting_title": "TRCCC 2026 R10",
-      "meeting_id": 21039,
-      "session": "Heat"
-    },
-    "top_laps": [
-      {
-        "lap_time": 19.72,
-        "driver": "Jordan Newbery",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.84,
-        "driver": "Dan Harding",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.92,
-        "driver": "Dan Harding",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 19.94,
-        "driver": "Bryan Burrows",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 20.05,
-        "driver": "Bryan Burrows",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 20.06,
-        "driver": "Dan Harding",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 20.07,
-        "driver": "Bryan Burrows",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 20.11,
-        "driver": "Jordan Newbery",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "A Final"
-      },
-      {
-        "lap_time": 20.17,
-        "driver": "Jordan Newbery",
-        "date": "23-Aug-2026",
-        "meeting_title": "TRCCC 2026 R10",
-        "meeting_id": 21039,
-        "session": "Heat"
-      },
-      {
-        "lap_time": 20.23,
-        "driver": "Paul Field",
-        "date": "26-Jul-2026",
-        "meeting_title": "TRCCC 2026 R8",
-        "meeting_id": 20730,
-        "session": "Heat"
-      }
-    ],
-    "leaderboard_wins": [
-      {
-        "driver": "Jordan Newbery",
-        "wins": 20
-      },
-      {
-        "driver": "Bryan Burrows",
-        "wins": 12
-      },
-      {
-        "driver": "Paul Field",
-        "wins": 4
-      },
-      {
-        "driver": "Gavin Knight",
-        "wins": 2
-      },
-      {
-        "driver": "Dan Warner",
-        "wins": 1
-      }
-    ],
-    "leaderboard_podiums": [
-      {
-        "driver": "Jordan Newbery",
-        "podiums": 27
-      },
-      {
-        "driver": "Bryan Burrows",
-        "podiums": 24
-      },
-      {
-        "driver": "Gavin Knight",
-        "podiums": 10
-      },
-      {
-        "driver": "Paul Field",
-        "podiums": 7
-      },
-      {
-        "driver": "Dan Warner",
-        "podiums": 5
-      },
-      {
-        "driver": "Mark Field",
-        "podiums": 5
-      },
-      {
-        "driver": "Carl Davis",
-        "podiums": 5
-      },
-      {
-        "driver": "John Howe",
-        "podiums": 4
-      },
-      {
-        "driver": "Chris Cooke",
-        "podiums": 4
-      },
-      {
-        "driver": "Chris Law",
-        "podiums": 4
-      },
-      {
-        "driver": "Al Stocks",
-        "podiums": 3
-      },
-      {
-        "driver": "Dan Harding",
-        "podiums": 3
-      },
-      {
-        "driver": "Stuart Ball",
-        "podiums": 2
-      },
-      {
-        "driver": "Kev Dymond",
-        "podiums": 2
-      },
-      {
-        "driver": "Mark Taylor",
-        "podiums": 2
-      },
-      {
-        "driver": "Paul Duckmanton",
-        "podiums": 2
-      },
-      {
-        "driver": "Gary Stocks",
-        "podiums": 2
-      },
-      {
-        "driver": "Nick Langdon",
-        "podiums": 2
-      },
-      {
-        "driver": "Steve Hawkins",
-        "podiums": 1
-      },
-      {
-        "driver": "Andy Nelson",
-        "podiums": 1
-      },
-      {
-        "driver": "Chris Busby",
-        "podiums": 1
-      },
-      {
-        "driver": "Paul Bradshaw",
-        "podiums": 1
-      }
-    ],
-    "leaderboard_tqs": [
-      {
-        "driver": "Jordan Newbery",
-        "tqs": 19
-      },
-      {
-        "driver": "Bryan Burrows",
-        "tqs": 12
-      },
-      {
-        "driver": "Kev Dymond",
-        "tqs": 3
-      },
-      {
-        "driver": "Paul Field",
-        "tqs": 3
-      },
-      {
-        "driver": "Dan Warner",
-        "tqs": 1
-      },
-      {
-        "driver": "Al Stocks",
-        "tqs": 1
-      },
-      {
-        "driver": "Dan Harding",
-        "tqs": 1
-      }
-    ],
-    "leaderboard_afinals": [
-      {
-        "driver": "John Howe",
-        "a_finals": 33
-      },
-      {
-        "driver": "Jordan Newbery",
-        "a_finals": 29
-      },
-      {
-        "driver": "Bryan Burrows",
-        "a_finals": 29
-      },
-      {
-        "driver": "Chris Law",
-        "a_finals": 28
-      },
-      {
-        "driver": "Steve Hawkins",
-        "a_finals": 23
-      },
-      {
-        "driver": "Paul Duckmanton",
-        "a_finals": 22
-      },
-      {
-        "driver": "Dan Warner",
-        "a_finals": 16
-      },
-      {
-        "driver": "Andy Nelson",
-        "a_finals": 14
-      },
-      {
-        "driver": "Chris Cooke",
-        "a_finals": 14
-      },
-      {
-        "driver": "Al Stocks",
-        "a_finals": 14
-      },
-      {
-        "driver": "Carl Davis",
-        "a_finals": 14
-      },
-      {
-        "driver": "Paul Bradshaw",
-        "a_finals": 13
-      },
-      {
-        "driver": "Gavin Knight",
-        "a_finals": 13
-      },
-      {
-        "driver": "Kev Dymond",
-        "a_finals": 10
-      },
-      {
-        "driver": "Mark Field",
-        "a_finals": 9
-      },
-      {
-        "driver": "Luke Bradshaw",
-        "a_finals": 7
-      },
-      {
-        "driver": "Paul Field",
-        "a_finals": 7
-      },
-      {
-        "driver": "Alistar Munro",
-        "a_finals": 6
-      },
-      {
-        "driver": "Keith Jenkins",
-        "a_finals": 6
-      },
-      {
-        "driver": "David Bueno",
-        "a_finals": 6
-      },
-      {
-        "driver": "Stuart Ball",
-        "a_finals": 5
-      },
-      {
-        "driver": "Chris Busby",
-        "a_finals": 5
-      },
-      {
-        "driver": "Mark Taylor",
-        "a_finals": 5
-      },
-      {
-        "driver": "Matt Martin",
-        "a_finals": 5
-      },
-      {
-        "driver": "Nick Langdon",
-        "a_finals": 5
-      },
-      {
-        "driver": "Martial Radford",
-        "a_finals": 5
-      },
-      {
-        "driver": "Dave Mills",
-        "a_finals": 4
-      },
-      {
-        "driver": "Gary Stocks",
-        "a_finals": 4
-      },
-      {
-        "driver": "Mark Stocks",
-        "a_finals": 4
-      },
-      {
-        "driver": "Dan Harding",
-        "a_finals": 4
-      },
-      {
-        "driver": "Nathan Jarvis",
-        "a_finals": 3
-      },
-      {
-        "driver": "Dave Berry",
-        "a_finals": 3
-      },
-      {
-        "driver": "David Murphy",
-        "a_finals": 2
-      },
-      {
-        "driver": "Keith Halsey",
-        "a_finals": 2
-      },
-      {
-        "driver": "Paul Hopkins",
-        "a_finals": 2
-      },
-      {
-        "driver": "Steven Hull",
-        "a_finals": 2
-      },
-      {
-        "driver": "Lee Bryant",
-        "a_finals": 2
-      },
-      {
-        "driver": "Carl Rowe",
-        "a_finals": 2
-      },
-      {
-        "driver": "Adrian Ford",
-        "a_finals": 1
-      },
-      {
-        "driver": "Mark Skinner",
-        "a_finals": 1
-      },
-      {
-        "driver": "Ross Everill",
-        "a_finals": 1
-      },
-      {
-        "driver": "Neale Carbis",
-        "a_finals": 1
-      },
-      {
-        "driver": "John Farringdon",
-        "a_finals": 1
-      },
-      {
-        "driver": "Mark Bennett",
-        "a_finals": 1
-      }
-    ]
-  },
   "2WD Buggy": {
     "name": "2WD Buggy",
     "entries_count": 1543,
@@ -1646,23 +168,7 @@
         "podiums": 2
       },
       {
-        "driver": "Ryan Lees",
-        "podiums": 1
-      },
-      {
-        "driver": "Phil Chapman",
-        "podiums": 1
-      },
-      {
-        "driver": "Ollie Davies",
-        "podiums": 1
-      },
-      {
         "driver": "Callum Mitchel",
-        "podiums": 1
-      },
-      {
-        "driver": "Paul Norris",
         "podiums": 1
       },
       {
@@ -1675,6 +181,22 @@
       },
       {
         "driver": "Dave McCarthy",
+        "podiums": 1
+      },
+      {
+        "driver": "Ollie Davies",
+        "podiums": 1
+      },
+      {
+        "driver": "Paul Norris",
+        "podiums": 1
+      },
+      {
+        "driver": "Phil Chapman",
+        "podiums": 1
+      },
+      {
+        "driver": "Ryan Lees",
         "podiums": 1
       }
     ],
@@ -1710,11 +232,11 @@
         "a_finals": 36
       },
       {
-        "driver": "Jordan Newbery",
+        "driver": "Dan Harding",
         "a_finals": 35
       },
       {
-        "driver": "Dan Harding",
+        "driver": "Jordan Newbery",
         "a_finals": 35
       },
       {
@@ -1766,7 +288,7 @@
         "a_finals": 9
       },
       {
-        "driver": "Nick Dustan",
+        "driver": "Andy Leach",
         "a_finals": 7
       },
       {
@@ -1774,16 +296,20 @@
         "a_finals": 7
       },
       {
-        "driver": "Andy Leach",
+        "driver": "Matthew Hodges",
         "a_finals": 7
       },
       {
-        "driver": "Matthew Hodges",
+        "driver": "Nick Dustan",
         "a_finals": 7
       },
       {
         "driver": "Chris Cooke",
         "a_finals": 6
+      },
+      {
+        "driver": "Charlie Anyon",
+        "a_finals": 5
       },
       {
         "driver": "Chris Busby",
@@ -1795,10 +321,6 @@
       },
       {
         "driver": "Steve Ashton",
-        "a_finals": 5
-      },
-      {
-        "driver": "Charlie Anyon",
         "a_finals": 5
       },
       {
@@ -1818,19 +340,23 @@
         "a_finals": 3
       },
       {
+        "driver": "Paul Norris",
+        "a_finals": 3
+      },
+      {
         "driver": "Ross Everill",
         "a_finals": 3
       },
       {
-        "driver": "Paul Norris",
-        "a_finals": 3
+        "driver": "Callum Mitchel",
+        "a_finals": 2
       },
       {
         "driver": "Chris Rollins",
         "a_finals": 2
       },
       {
-        "driver": "Oli Davies",
+        "driver": "Dave McCarthy",
         "a_finals": 2
       },
       {
@@ -1842,19 +368,15 @@
         "a_finals": 2
       },
       {
-        "driver": "Callum Mitchel",
-        "a_finals": 2
-      },
-      {
         "driver": "Nick Langdon",
         "a_finals": 2
       },
       {
-        "driver": "Dave McCarthy",
+        "driver": "Oli Davies",
         "a_finals": 2
       },
       {
-        "driver": "Ryan Lees",
+        "driver": "Andy Nelson",
         "a_finals": 1
       },
       {
@@ -1866,11 +388,15 @@
         "a_finals": 1
       },
       {
+        "driver": "Jon Tucker",
+        "a_finals": 1
+      },
+      {
         "driver": "Jonathan Wolfe",
         "a_finals": 1
       },
       {
-        "driver": "Oli Davies Snr",
+        "driver": "Lee Bryant",
         "a_finals": 1
       },
       {
@@ -1878,11 +404,7 @@
         "a_finals": 1
       },
       {
-        "driver": "Jon Tucker",
-        "a_finals": 1
-      },
-      {
-        "driver": "Sam Brown",
+        "driver": "Oli Davies Snr",
         "a_finals": 1
       },
       {
@@ -1890,7 +412,1007 @@
         "a_finals": 1
       },
       {
+        "driver": "Ryan Lees",
+        "a_finals": 1
+      },
+      {
+        "driver": "Sam Brown",
+        "a_finals": 1
+      },
+      {
         "driver": "Terry Bates",
+        "a_finals": 1
+      }
+    ]
+  },
+  "4WD Buggy": {
+    "name": "4WD Buggy",
+    "entries_count": 144,
+    "lap_record": {
+      "lap_time": 6.0,
+      "driver": "Callum Mitchell",
+      "date": "23-Jul-2023",
+      "meeting_title": "SW Regionals 2023 R4 TRCCC",
+      "meeting_id": 8780,
+      "session": "A Final"
+    },
+    "top_laps": [
+      {
+        "lap_time": 6.0,
+        "driver": "Callum Mitchell",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "A Final"
+      },
+      {
+        "lap_time": 6.0,
+        "driver": "Matt Hodges",
+        "date": "21-Jul-2024",
+        "meeting_title": "SW Regional Round 3",
+        "meeting_id": 12520,
+        "session": "A Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Dan Vickers",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Chris Cooke",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Simon Mills",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Martin Williams",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "John Farringdon",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Barry Norris",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Jamie Stringer",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "B Final"
+      },
+      {
+        "lap_time": 7.0,
+        "driver": "Phil Chapman",
+        "date": "23-Jul-2023",
+        "meeting_title": "SW Regionals 2023 R4 TRCCC",
+        "meeting_id": 8780,
+        "session": "A Final"
+      }
+    ],
+    "leaderboard_wins": [
+      {
+        "driver": "Keith Halsey",
+        "wins": 6
+      },
+      {
+        "driver": "Harry Mears",
+        "wins": 4
+      },
+      {
+        "driver": "Paul Hopkins",
+        "wins": 3
+      },
+      {
+        "driver": "Dan Harding",
+        "wins": 1
+      },
+      {
+        "driver": "Harry Porter",
+        "wins": 1
+      },
+      {
+        "driver": "Jordan Newbery",
+        "wins": 1
+      },
+      {
+        "driver": "Kev Dymond",
+        "wins": 1
+      },
+      {
+        "driver": "Mark Taylor",
+        "wins": 1
+      },
+      {
+        "driver": "Martin Owen",
+        "wins": 1
+      },
+      {
+        "driver": "Reece Needle",
+        "wins": 1
+      }
+    ],
+    "leaderboard_podiums": [
+      {
+        "driver": "Keith Halsey",
+        "podiums": 9
+      },
+      {
+        "driver": "Jamie Stringer",
+        "podiums": 5
+      },
+      {
+        "driver": "Harry Mears",
+        "podiums": 4
+      },
+      {
+        "driver": "Michael Halsey",
+        "podiums": 4
+      },
+      {
+        "driver": "Paul Hopkins",
+        "podiums": 4
+      },
+      {
+        "driver": "Chris Cooke",
+        "podiums": 3
+      },
+      {
+        "driver": "Dan Harding",
+        "podiums": 3
+      },
+      {
+        "driver": "Jordan Newbery",
+        "podiums": 3
+      },
+      {
+        "driver": "Alistar Munro",
+        "podiums": 2
+      },
+      {
+        "driver": "Dan Hurrell",
+        "podiums": 2
+      },
+      {
+        "driver": "Jon Isaac",
+        "podiums": 2
+      },
+      {
+        "driver": "Martin Owen",
+        "podiums": 2
+      },
+      {
+        "driver": "Ricky Newcombe",
+        "podiums": 2
+      },
+      {
+        "driver": "Adam Mozes",
+        "podiums": 1
+      },
+      {
+        "driver": "Charlie Anyon",
+        "podiums": 1
+      },
+      {
+        "driver": "Daniel Hurrell",
+        "podiums": 1
+      },
+      {
+        "driver": "Dave Berry",
+        "podiums": 1
+      },
+      {
+        "driver": "Dave Mills",
+        "podiums": 1
+      },
+      {
+        "driver": "Gavin Knight",
+        "podiums": 1
+      },
+      {
+        "driver": "Harry Porter",
+        "podiums": 1
+      },
+      {
+        "driver": "Keith Cripwell",
+        "podiums": 1
+      },
+      {
+        "driver": "Kev Dymond",
+        "podiums": 1
+      },
+      {
+        "driver": "Mark Martin",
+        "podiums": 1
+      },
+      {
+        "driver": "Mark Taylor",
+        "podiums": 1
+      },
+      {
+        "driver": "Matt Porter",
+        "podiums": 1
+      },
+      {
+        "driver": "Paul Rose",
+        "podiums": 1
+      },
+      {
+        "driver": "Reece Needle",
+        "podiums": 1
+      },
+      {
+        "driver": "Stuart Ball",
+        "podiums": 1
+      }
+    ],
+    "leaderboard_tqs": [
+      {
+        "driver": "Keith Halsey",
+        "tqs": 7
+      },
+      {
+        "driver": "Harry Mears",
+        "tqs": 3
+      },
+      {
+        "driver": "Paul Hopkins",
+        "tqs": 3
+      },
+      {
+        "driver": "Dan Harding",
+        "tqs": 2
+      },
+      {
+        "driver": "Matt Martin",
+        "tqs": 2
+      },
+      {
+        "driver": "Adam Mozes",
+        "tqs": 1
+      },
+      {
+        "driver": "Dave Berry",
+        "tqs": 1
+      },
+      {
+        "driver": "Harry Porter",
+        "tqs": 1
+      },
+      {
+        "driver": "Jamie Stringer",
+        "tqs": 1
+      },
+      {
+        "driver": "Jordan Newbery",
+        "tqs": 1
+      },
+      {
+        "driver": "Kev Dymond",
+        "tqs": 1
+      },
+      {
+        "driver": "Lee Biggs",
+        "tqs": 1
+      },
+      {
+        "driver": "Martin Owen",
+        "tqs": 1
+      },
+      {
+        "driver": "Michael Halsey",
+        "tqs": 1
+      },
+      {
+        "driver": "Reece Needle",
+        "tqs": 1
+      },
+      {
+        "driver": "Ross Everill",
+        "tqs": 1
+      }
+    ],
+    "leaderboard_afinals": [
+      {
+        "driver": "Jamie Stringer",
+        "a_finals": 13
+      },
+      {
+        "driver": "Keith Halsey",
+        "a_finals": 10
+      },
+      {
+        "driver": "Michael Halsey",
+        "a_finals": 8
+      },
+      {
+        "driver": "Matt Martin",
+        "a_finals": 6
+      },
+      {
+        "driver": "Paul Hopkins",
+        "a_finals": 6
+      },
+      {
+        "driver": "Chris Cooke",
+        "a_finals": 5
+      },
+      {
+        "driver": "Dave Mills",
+        "a_finals": 5
+      },
+      {
+        "driver": "Gavin Knight",
+        "a_finals": 5
+      },
+      {
+        "driver": "Harry Mears",
+        "a_finals": 4
+      },
+      {
+        "driver": "Adam Mozes",
+        "a_finals": 3
+      },
+      {
+        "driver": "Alistar Munro",
+        "a_finals": 3
+      },
+      {
+        "driver": "Dan Harding",
+        "a_finals": 3
+      },
+      {
+        "driver": "Jordan Newbery",
+        "a_finals": 3
+      },
+      {
+        "driver": "Keith Cripwell",
+        "a_finals": 3
+      },
+      {
+        "driver": "Oliver Foster",
+        "a_finals": 3
+      },
+      {
+        "driver": "Paul Rose",
+        "a_finals": 3
+      },
+      {
+        "driver": "Ricky Newcombe",
+        "a_finals": 3
+      },
+      {
+        "driver": "Dan Hurrell",
+        "a_finals": 2
+      },
+      {
+        "driver": "Jon Isaac",
+        "a_finals": 2
+      },
+      {
+        "driver": "Kev Dymond",
+        "a_finals": 2
+      },
+      {
+        "driver": "Lee Biggs",
+        "a_finals": 2
+      },
+      {
+        "driver": "Martin Owen",
+        "a_finals": 2
+      },
+      {
+        "driver": "Ross Everill",
+        "a_finals": 2
+      },
+      {
+        "driver": "Spencer Hayes",
+        "a_finals": 2
+      },
+      {
+        "driver": "Wayne James",
+        "a_finals": 2
+      },
+      {
+        "driver": "Adam Roulston",
+        "a_finals": 1
+      },
+      {
+        "driver": "Ashley Parkin",
+        "a_finals": 1
+      },
+      {
+        "driver": "Ben Winters",
+        "a_finals": 1
+      },
+      {
+        "driver": "Callum Mitchell",
+        "a_finals": 1
+      },
+      {
+        "driver": "Charlie Anyon",
+        "a_finals": 1
+      },
+      {
+        "driver": "Chris Law",
+        "a_finals": 1
+      },
+      {
+        "driver": "Daniel Hurrell",
+        "a_finals": 1
+      },
+      {
+        "driver": "Dave Berry",
+        "a_finals": 1
+      },
+      {
+        "driver": "Dave Manning",
+        "a_finals": 1
+      },
+      {
+        "driver": "Harry Porter",
+        "a_finals": 1
+      },
+      {
+        "driver": "Jamie Conn",
+        "a_finals": 1
+      },
+      {
+        "driver": "Jon Baker",
+        "a_finals": 1
+      },
+      {
+        "driver": "Ken Fung",
+        "a_finals": 1
+      },
+      {
+        "driver": "Mark Cox",
+        "a_finals": 1
+      },
+      {
+        "driver": "Mark Martin",
+        "a_finals": 1
+      },
+      {
+        "driver": "Mark Taylor",
+        "a_finals": 1
+      },
+      {
+        "driver": "Matt Hodges",
+        "a_finals": 1
+      },
+      {
+        "driver": "Matt Porter",
+        "a_finals": 1
+      },
+      {
+        "driver": "Nick Langdon",
+        "a_finals": 1
+      },
+      {
+        "driver": "Paul Field",
+        "a_finals": 1
+      },
+      {
+        "driver": "Paul Norris",
+        "a_finals": 1
+      },
+      {
+        "driver": "Phil Chapman",
+        "a_finals": 1
+      },
+      {
+        "driver": "Reece Needle",
+        "a_finals": 1
+      },
+      {
+        "driver": "Shaun Buller",
+        "a_finals": 1
+      },
+      {
+        "driver": "Steve Ashton",
+        "a_finals": 1
+      },
+      {
+        "driver": "Stuart Ball",
+        "a_finals": 1
+      }
+    ]
+  },
+  "Stadium Trucks": {
+    "name": "Stadium Trucks",
+    "entries_count": 317,
+    "lap_record": {
+      "lap_time": 17.75,
+      "driver": "Adam Bedford",
+      "date": "28-Jun-2026",
+      "meeting_title": "TRCCC 2026 R6",
+      "meeting_id": 20417,
+      "session": "Heat"
+    },
+    "top_laps": [
+      {
+        "lap_time": 17.75,
+        "driver": "Adam Bedford",
+        "date": "28-Jun-2026",
+        "meeting_title": "TRCCC 2026 R6",
+        "meeting_id": 20417,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 18.17,
+        "driver": "Adam Bedford",
+        "date": "28-Jun-2026",
+        "meeting_title": "TRCCC 2026 R6",
+        "meeting_id": 20417,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.42,
+        "driver": "Jordan Newbery",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.64,
+        "driver": "Jordan Newbery",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.79,
+        "driver": "Harry Porter",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.8,
+        "driver": "Jordan Newbery",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.92,
+        "driver": "Bryan Burrows",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "A Final"
+      },
+      {
+        "lap_time": 19.93,
+        "driver": "Paul Norris",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.98,
+        "driver": "Dan Harding",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "A Final"
+      },
+      {
+        "lap_time": 19.98,
+        "driver": "Harry Porter",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      }
+    ],
+    "leaderboard_wins": [
+      {
+        "driver": "Gavin Knight",
+        "wins": 15
+      },
+      {
+        "driver": "Paul Norris",
+        "wins": 4
+      },
+      {
+        "driver": "Harry Porter",
+        "wins": 3
+      },
+      {
+        "driver": "Chris Cooke",
+        "wins": 2
+      },
+      {
+        "driver": "Dan Hurrell",
+        "wins": 2
+      },
+      {
+        "driver": "Keith Halsey",
+        "wins": 2
+      },
+      {
+        "driver": "Paul Hopkins",
+        "wins": 2
+      },
+      {
+        "driver": "Adam Roulston",
+        "wins": 1
+      },
+      {
+        "driver": "Bryan Burrows",
+        "wins": 1
+      },
+      {
+        "driver": "Carl Davis",
+        "wins": 1
+      },
+      {
+        "driver": "Dan Harding",
+        "wins": 1
+      },
+      {
+        "driver": "Matt Martin",
+        "wins": 1
+      },
+      {
+        "driver": "Michael Halsey",
+        "wins": 1
+      },
+      {
+        "driver": "Ricky Newcombe",
+        "wins": 1
+      },
+      {
+        "driver": "Ross Everill",
+        "wins": 1
+      },
+      {
+        "driver": "Ryan Eaton",
+        "wins": 1
+      },
+      {
+        "driver": "Steve Hawkins",
+        "wins": 1
+      }
+    ],
+    "leaderboard_podiums": [
+      {
+        "driver": "Gavin Knight",
+        "podiums": 19
+      },
+      {
+        "driver": "Harry Porter",
+        "podiums": 14
+      },
+      {
+        "driver": "Jake Coombs",
+        "podiums": 8
+      },
+      {
+        "driver": "Paul Norris",
+        "podiums": 8
+      },
+      {
+        "driver": "Steve Hawkins",
+        "podiums": 8
+      },
+      {
+        "driver": "Wayne James",
+        "podiums": 8
+      },
+      {
+        "driver": "Dan Hurrell",
+        "podiums": 7
+      },
+      {
+        "driver": "Carl Davis",
+        "podiums": 6
+      },
+      {
+        "driver": "Keith Halsey",
+        "podiums": 6
+      },
+      {
+        "driver": "Ricky Newcombe",
+        "podiums": 5
+      },
+      {
+        "driver": "Adam Roulston",
+        "podiums": 4
+      },
+      {
+        "driver": "Chris Cooke",
+        "podiums": 4
+      },
+      {
+        "driver": "Jordan Newbery",
+        "podiums": 3
+      },
+      {
+        "driver": "Dan Harding",
+        "podiums": 2
+      },
+      {
+        "driver": "Jamie Stringer",
+        "podiums": 2
+      },
+      {
+        "driver": "Luke Coombs",
+        "podiums": 2
+      },
+      {
+        "driver": "Matt Martin",
+        "podiums": 2
+      },
+      {
+        "driver": "Nathan Jarvis",
+        "podiums": 2
+      },
+      {
+        "driver": "Paul Hopkins",
+        "podiums": 2
+      },
+      {
+        "driver": "Adam Mozes",
+        "podiums": 1
+      },
+      {
+        "driver": "Bryan Burrows",
+        "podiums": 1
+      },
+      {
+        "driver": "Lee Biggs",
+        "podiums": 1
+      },
+      {
+        "driver": "Marc Biddiss",
+        "podiums": 1
+      },
+      {
+        "driver": "Michael Halsey",
+        "podiums": 1
+      },
+      {
+        "driver": "Paul Field",
+        "podiums": 1
+      },
+      {
+        "driver": "Ross Everill",
+        "podiums": 1
+      },
+      {
+        "driver": "Ryan Eaton",
+        "podiums": 1
+      }
+    ],
+    "leaderboard_tqs": [
+      {
+        "driver": "Gavin Knight",
+        "tqs": 16
+      },
+      {
+        "driver": "Harry Porter",
+        "tqs": 8
+      },
+      {
+        "driver": "Paul Norris",
+        "tqs": 3
+      },
+      {
+        "driver": "Jordan Newbery",
+        "tqs": 2
+      },
+      {
+        "driver": "Keith Halsey",
+        "tqs": 2
+      },
+      {
+        "driver": "Paul Hopkins",
+        "tqs": 2
+      },
+      {
+        "driver": "Wayne James",
+        "tqs": 2
+      },
+      {
+        "driver": "Adam Roulston",
+        "tqs": 1
+      },
+      {
+        "driver": "Bryan Burrows",
+        "tqs": 1
+      },
+      {
+        "driver": "Carl Davis",
+        "tqs": 1
+      },
+      {
+        "driver": "Chris Cooke",
+        "tqs": 1
+      },
+      {
+        "driver": "Jake Coombs",
+        "tqs": 1
+      },
+      {
+        "driver": "Ricky Newcombe",
+        "tqs": 1
+      }
+    ],
+    "leaderboard_afinals": [
+      {
+        "driver": "Steve Hawkins",
+        "a_finals": 22
+      },
+      {
+        "driver": "Gavin Knight",
+        "a_finals": 21
+      },
+      {
+        "driver": "Barry Norris",
+        "a_finals": 20
+      },
+      {
+        "driver": "Harry Porter",
+        "a_finals": 17
+      },
+      {
+        "driver": "Wayne James",
+        "a_finals": 16
+      },
+      {
+        "driver": "Jamie Stringer",
+        "a_finals": 15
+      },
+      {
+        "driver": "Keith Cripwell",
+        "a_finals": 15
+      },
+      {
+        "driver": "Marc Biddiss",
+        "a_finals": 15
+      },
+      {
+        "driver": "Dave Mills",
+        "a_finals": 14
+      },
+      {
+        "driver": "Jake Coombs",
+        "a_finals": 13
+      },
+      {
+        "driver": "Carl Davis",
+        "a_finals": 11
+      },
+      {
+        "driver": "Simon Freeman",
+        "a_finals": 10
+      },
+      {
+        "driver": "Paul Norris",
+        "a_finals": 9
+      },
+      {
+        "driver": "Chris Thomas",
+        "a_finals": 8
+      },
+      {
+        "driver": "Dan Hurrell",
+        "a_finals": 8
+      },
+      {
+        "driver": "Luke Coombs",
+        "a_finals": 7
+      },
+      {
+        "driver": "Keith Halsey",
+        "a_finals": 6
+      },
+      {
+        "driver": "Adam Mozes",
+        "a_finals": 5
+      },
+      {
+        "driver": "Chris Cooke",
+        "a_finals": 5
+      },
+      {
+        "driver": "Matt Martin",
+        "a_finals": 5
+      },
+      {
+        "driver": "Nathan Jarvis",
+        "a_finals": 5
+      },
+      {
+        "driver": "Ricky Newcombe",
+        "a_finals": 5
+      },
+      {
+        "driver": "Shaun Buller",
+        "a_finals": 5
+      },
+      {
+        "driver": "Adam Bedford",
+        "a_finals": 4
+      },
+      {
+        "driver": "Adam Roulston",
+        "a_finals": 4
+      },
+      {
+        "driver": "Jordan Newbery",
+        "a_finals": 4
+      },
+      {
+        "driver": "Lee Biggs",
+        "a_finals": 3
+      },
+      {
+        "driver": "Mark Biddiss",
+        "a_finals": 3
+      },
+      {
+        "driver": "Michael Halsey",
+        "a_finals": 3
+      },
+      {
+        "driver": "Andrew Stone-Wright",
+        "a_finals": 2
+      },
+      {
+        "driver": "Dan Harding",
+        "a_finals": 2
+      },
+      {
+        "driver": "Jon Baker",
+        "a_finals": 2
+      },
+      {
+        "driver": "Paul Hopkins",
+        "a_finals": 2
+      },
+      {
+        "driver": "Al Stocks",
+        "a_finals": 1
+      },
+      {
+        "driver": "Alistar Munro",
         "a_finals": 1
       },
       {
@@ -1898,7 +1420,485 @@
         "a_finals": 1
       },
       {
+        "driver": "Bryan Burrows",
+        "a_finals": 1
+      },
+      {
+        "driver": "Chris Law",
+        "a_finals": 1
+      },
+      {
+        "driver": "Dan Warner",
+        "a_finals": 1
+      },
+      {
+        "driver": "Dave Berry",
+        "a_finals": 1
+      },
+      {
+        "driver": "Dave McCarthy",
+        "a_finals": 1
+      },
+      {
+        "driver": "John Farringdon",
+        "a_finals": 1
+      },
+      {
+        "driver": "John Howe",
+        "a_finals": 1
+      },
+      {
         "driver": "Lee Bryant",
+        "a_finals": 1
+      },
+      {
+        "driver": "Matt Porter",
+        "a_finals": 1
+      },
+      {
+        "driver": "Paul Duckmanton",
+        "a_finals": 1
+      },
+      {
+        "driver": "Paul Field",
+        "a_finals": 1
+      },
+      {
+        "driver": "Ross Everill",
+        "a_finals": 1
+      },
+      {
+        "driver": "Ryan Eaton",
+        "a_finals": 1
+      },
+      {
+        "driver": "Spencer Hayes",
+        "a_finals": 1
+      },
+      {
+        "driver": "Steve Harris",
+        "a_finals": 1
+      },
+      {
+        "driver": "Stuart Ball",
+        "a_finals": 1
+      },
+      {
+        "driver": "Terry Leach",
+        "a_finals": 1
+      }
+    ]
+  },
+  "Vintage / Rear Motor": {
+    "name": "Vintage / Rear Motor",
+    "entries_count": 525,
+    "lap_record": {
+      "lap_time": 19.72,
+      "driver": "Jordan Newbery",
+      "date": "23-Aug-2026",
+      "meeting_title": "TRCCC 2026 R10",
+      "meeting_id": 21039,
+      "session": "Heat"
+    },
+    "top_laps": [
+      {
+        "lap_time": 19.72,
+        "driver": "Jordan Newbery",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.84,
+        "driver": "Dan Harding",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.92,
+        "driver": "Dan Harding",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 19.94,
+        "driver": "Bryan Burrows",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 20.05,
+        "driver": "Bryan Burrows",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 20.06,
+        "driver": "Dan Harding",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 20.07,
+        "driver": "Bryan Burrows",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 20.11,
+        "driver": "Jordan Newbery",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "A Final"
+      },
+      {
+        "lap_time": 20.17,
+        "driver": "Jordan Newbery",
+        "date": "23-Aug-2026",
+        "meeting_title": "TRCCC 2026 R10",
+        "meeting_id": 21039,
+        "session": "Heat"
+      },
+      {
+        "lap_time": 20.23,
+        "driver": "Paul Field",
+        "date": "26-Jul-2026",
+        "meeting_title": "TRCCC 2026 R8",
+        "meeting_id": 20730,
+        "session": "Heat"
+      }
+    ],
+    "leaderboard_wins": [
+      {
+        "driver": "Jordan Newbery",
+        "wins": 20
+      },
+      {
+        "driver": "Bryan Burrows",
+        "wins": 12
+      },
+      {
+        "driver": "Paul Field",
+        "wins": 4
+      },
+      {
+        "driver": "Gavin Knight",
+        "wins": 2
+      },
+      {
+        "driver": "Dan Warner",
+        "wins": 1
+      }
+    ],
+    "leaderboard_podiums": [
+      {
+        "driver": "Jordan Newbery",
+        "podiums": 27
+      },
+      {
+        "driver": "Bryan Burrows",
+        "podiums": 24
+      },
+      {
+        "driver": "Gavin Knight",
+        "podiums": 10
+      },
+      {
+        "driver": "Paul Field",
+        "podiums": 7
+      },
+      {
+        "driver": "Carl Davis",
+        "podiums": 5
+      },
+      {
+        "driver": "Dan Warner",
+        "podiums": 5
+      },
+      {
+        "driver": "Mark Field",
+        "podiums": 5
+      },
+      {
+        "driver": "Chris Cooke",
+        "podiums": 4
+      },
+      {
+        "driver": "Chris Law",
+        "podiums": 4
+      },
+      {
+        "driver": "John Howe",
+        "podiums": 4
+      },
+      {
+        "driver": "Al Stocks",
+        "podiums": 3
+      },
+      {
+        "driver": "Dan Harding",
+        "podiums": 3
+      },
+      {
+        "driver": "Gary Stocks",
+        "podiums": 2
+      },
+      {
+        "driver": "Kev Dymond",
+        "podiums": 2
+      },
+      {
+        "driver": "Mark Taylor",
+        "podiums": 2
+      },
+      {
+        "driver": "Nick Langdon",
+        "podiums": 2
+      },
+      {
+        "driver": "Paul Duckmanton",
+        "podiums": 2
+      },
+      {
+        "driver": "Stuart Ball",
+        "podiums": 2
+      },
+      {
+        "driver": "Andy Nelson",
+        "podiums": 1
+      },
+      {
+        "driver": "Chris Busby",
+        "podiums": 1
+      },
+      {
+        "driver": "Paul Bradshaw",
+        "podiums": 1
+      },
+      {
+        "driver": "Steve Hawkins",
+        "podiums": 1
+      }
+    ],
+    "leaderboard_tqs": [
+      {
+        "driver": "Jordan Newbery",
+        "tqs": 19
+      },
+      {
+        "driver": "Bryan Burrows",
+        "tqs": 12
+      },
+      {
+        "driver": "Kev Dymond",
+        "tqs": 3
+      },
+      {
+        "driver": "Paul Field",
+        "tqs": 3
+      },
+      {
+        "driver": "Al Stocks",
+        "tqs": 1
+      },
+      {
+        "driver": "Dan Harding",
+        "tqs": 1
+      },
+      {
+        "driver": "Dan Warner",
+        "tqs": 1
+      }
+    ],
+    "leaderboard_afinals": [
+      {
+        "driver": "John Howe",
+        "a_finals": 33
+      },
+      {
+        "driver": "Bryan Burrows",
+        "a_finals": 29
+      },
+      {
+        "driver": "Jordan Newbery",
+        "a_finals": 29
+      },
+      {
+        "driver": "Chris Law",
+        "a_finals": 28
+      },
+      {
+        "driver": "Steve Hawkins",
+        "a_finals": 23
+      },
+      {
+        "driver": "Paul Duckmanton",
+        "a_finals": 22
+      },
+      {
+        "driver": "Dan Warner",
+        "a_finals": 16
+      },
+      {
+        "driver": "Al Stocks",
+        "a_finals": 14
+      },
+      {
+        "driver": "Andy Nelson",
+        "a_finals": 14
+      },
+      {
+        "driver": "Carl Davis",
+        "a_finals": 14
+      },
+      {
+        "driver": "Chris Cooke",
+        "a_finals": 14
+      },
+      {
+        "driver": "Gavin Knight",
+        "a_finals": 13
+      },
+      {
+        "driver": "Paul Bradshaw",
+        "a_finals": 13
+      },
+      {
+        "driver": "Kev Dymond",
+        "a_finals": 10
+      },
+      {
+        "driver": "Mark Field",
+        "a_finals": 9
+      },
+      {
+        "driver": "Luke Bradshaw",
+        "a_finals": 7
+      },
+      {
+        "driver": "Paul Field",
+        "a_finals": 7
+      },
+      {
+        "driver": "Alistar Munro",
+        "a_finals": 6
+      },
+      {
+        "driver": "David Bueno",
+        "a_finals": 6
+      },
+      {
+        "driver": "Keith Jenkins",
+        "a_finals": 6
+      },
+      {
+        "driver": "Chris Busby",
+        "a_finals": 5
+      },
+      {
+        "driver": "Mark Taylor",
+        "a_finals": 5
+      },
+      {
+        "driver": "Martial Radford",
+        "a_finals": 5
+      },
+      {
+        "driver": "Matt Martin",
+        "a_finals": 5
+      },
+      {
+        "driver": "Nick Langdon",
+        "a_finals": 5
+      },
+      {
+        "driver": "Stuart Ball",
+        "a_finals": 5
+      },
+      {
+        "driver": "Dan Harding",
+        "a_finals": 4
+      },
+      {
+        "driver": "Dave Mills",
+        "a_finals": 4
+      },
+      {
+        "driver": "Gary Stocks",
+        "a_finals": 4
+      },
+      {
+        "driver": "Mark Stocks",
+        "a_finals": 4
+      },
+      {
+        "driver": "Dave Berry",
+        "a_finals": 3
+      },
+      {
+        "driver": "Nathan Jarvis",
+        "a_finals": 3
+      },
+      {
+        "driver": "Carl Rowe",
+        "a_finals": 2
+      },
+      {
+        "driver": "David Murphy",
+        "a_finals": 2
+      },
+      {
+        "driver": "Keith Halsey",
+        "a_finals": 2
+      },
+      {
+        "driver": "Lee Bryant",
+        "a_finals": 2
+      },
+      {
+        "driver": "Paul Hopkins",
+        "a_finals": 2
+      },
+      {
+        "driver": "Steven Hull",
+        "a_finals": 2
+      },
+      {
+        "driver": "Adrian Ford",
+        "a_finals": 1
+      },
+      {
+        "driver": "John Farringdon",
+        "a_finals": 1
+      },
+      {
+        "driver": "Mark Bennett",
+        "a_finals": 1
+      },
+      {
+        "driver": "Mark Skinner",
+        "a_finals": 1
+      },
+      {
+        "driver": "Neale Carbis",
+        "a_finals": 1
+      },
+      {
+        "driver": "Ross Everill",
         "a_finals": 1
       }
     ]

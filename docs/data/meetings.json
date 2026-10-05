@@ -8,6 +8,12 @@
     "total_laps": 3034,
     "races_count": 270,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Harry Porter",
+        "laps": 14,
+        "seconds": 313.06,
+        "result": "14 / 313.06"
+      },
       "Stadium Trucks": {
         "driver": "Paul Hopkins",
         "laps": 0,
@@ -19,18 +25,12 @@
         "laps": 12,
         "seconds": 301.62,
         "result": "12 / 301.62"
-      },
-      "2WD Buggy": {
-        "driver": "Harry Porter",
-        "laps": 14,
-        "seconds": 313.06,
-        "result": "14 / 313.06"
       }
     },
     "tqs": {
+      "2WD Buggy": "Jordan Newbery",
       "Stadium Trucks": "Paul Hopkins",
-      "Vintage / Rear Motor": "Paul Field",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Paul Field"
     },
     "fastest_lap": {
       "time": 20.19,
@@ -47,11 +47,11 @@
     "total_laps": 2571,
     "races_count": 234,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Paul Field",
-        "laps": 13,
-        "seconds": 319.16,
-        "result": "13 / 319.16"
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 15,
+        "seconds": 314.31,
+        "result": "15 / 314.31"
       },
       "Stadium Trucks": {
         "driver": "Paul Hopkins",
@@ -59,17 +59,17 @@
         "seconds": 0.0,
         "result": "4wd"
       },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
-        "laps": 15,
-        "seconds": 314.31,
-        "result": "15 / 314.31"
+      "Vintage / Rear Motor": {
+        "driver": "Paul Field",
+        "laps": 13,
+        "seconds": 319.16,
+        "result": "13 / 319.16"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Jordan Newbery",
       "Stadium Trucks": "Paul Hopkins",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 20.55,
@@ -86,11 +86,11 @@
     "total_laps": 3835,
     "races_count": 305,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
+      "2WD Buggy": {
+        "driver": "Keith Halsey",
         "laps": 14,
-        "seconds": 303.12,
-        "result": "14 / 303.12"
+        "seconds": 305.14,
+        "result": "14 / 305.14"
       },
       "Stadium Trucks": {
         "driver": "Paul Norris",
@@ -98,17 +98,17 @@
         "seconds": 0.0,
         "result": "Trucks"
       },
-      "2WD Buggy": {
-        "driver": "Keith Halsey",
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
         "laps": 14,
-        "seconds": 305.14,
-        "result": "14 / 305.14"
+        "seconds": 303.12,
+        "result": "14 / 303.12"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Dan Harding",
+      "2WD Buggy": "Keith Halsey",
       "Stadium Trucks": "Jordan Newbery",
-      "2WD Buggy": "Keith Halsey"
+      "Vintage / Rear Motor": "Dan Harding"
     },
     "fastest_lap": {
       "time": 19.42,
@@ -125,11 +125,11 @@
     "total_laps": 4188,
     "races_count": 355,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Paul Field",
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
         "laps": 14,
-        "seconds": 312.71,
-        "result": "14 / 312.71"
+        "seconds": 312.68,
+        "result": "14 / 312.68"
       },
       "4WD Buggy": {
         "driver": "Harry Porter",
@@ -143,18 +143,18 @@
         "seconds": 306.11,
         "result": "13 / 306.11"
       },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
+      "Vintage / Rear Motor": {
+        "driver": "Paul Field",
         "laps": 14,
-        "seconds": 312.68,
-        "result": "14 / 312.68"
+        "seconds": 312.71,
+        "result": "14 / 312.71"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Paul Field",
+      "2WD Buggy": "Jordan Newbery",
       "4WD Buggy": "Harry Porter",
       "Stadium Trucks": "Paul Norris",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Paul Field"
     },
     "fastest_lap": {
       "time": 20.83,
@@ -171,22 +171,22 @@
     "total_laps": 3263,
     "races_count": 260,
     "winners": {
-      "Stadium Trucks": {
-        "driver": "Bryan Burrows",
-        "laps": 15,
-        "seconds": 309.51,
-        "result": "15 / 309.51"
-      },
       "2WD Buggy": {
         "driver": "Jordan Newbery",
         "laps": 15,
         "seconds": 306.47,
         "result": "15 / 306.47"
+      },
+      "Stadium Trucks": {
+        "driver": "Bryan Burrows",
+        "laps": 15,
+        "seconds": 309.51,
+        "result": "15 / 309.51"
       }
     },
     "tqs": {
-      "Stadium Trucks": "Bryan Burrows",
-      "2WD Buggy": "Jordan Newbery"
+      "2WD Buggy": "Jordan Newbery",
+      "Stadium Trucks": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 19.65,
@@ -203,17 +203,11 @@
     "total_laps": 4317,
     "races_count": 369,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 311.03,
-        "result": "13 / 311.03"
-      },
-      "Stadium Trucks": {
-        "driver": "Dan Hurrell",
-        "laps": 13,
-        "seconds": 310.47,
-        "result": "13 / 310.47"
+        "seconds": 301.87,
+        "result": "13 / 301.87"
       },
       "4WD Buggy": {
         "driver": "Jordan Newbery",
@@ -221,18 +215,24 @@
         "seconds": 314.29,
         "result": "14 / 314.29"
       },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
+      "Stadium Trucks": {
+        "driver": "Dan Hurrell",
         "laps": 13,
-        "seconds": 301.87,
-        "result": "13 / 301.87"
+        "seconds": 310.47,
+        "result": "13 / 310.47"
+      },
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
+        "laps": 13,
+        "seconds": 311.03,
+        "result": "13 / 311.03"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
-      "Stadium Trucks": "Paul Norris",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Jordan Newbery",
-      "2WD Buggy": "Dan Harding"
+      "Stadium Trucks": "Paul Norris",
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 21.13,
@@ -249,17 +249,11 @@
     "total_laps": 5284,
     "races_count": 450,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
-        "laps": 13,
-        "seconds": 308.84,
-        "result": "13 / 308.84"
-      },
-      "Stadium Trucks": {
-        "driver": "Paul Norris",
-        "laps": 13,
-        "seconds": 304.06,
-        "result": "13 / 304.06"
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 14,
+        "seconds": 322.38,
+        "result": "14 / 322.38"
       },
       "4WD Buggy": {
         "driver": "Keith Halsey",
@@ -267,18 +261,24 @@
         "seconds": 319.75,
         "result": "14 / 319.75"
       },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
-        "laps": 14,
-        "seconds": 322.38,
-        "result": "14 / 322.38"
+      "Stadium Trucks": {
+        "driver": "Paul Norris",
+        "laps": 13,
+        "seconds": 304.06,
+        "result": "13 / 304.06"
+      },
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
+        "laps": 13,
+        "seconds": 308.84,
+        "result": "13 / 308.84"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "Stadium Trucks": "Paul Norris",
+      "2WD Buggy": "Jordan Newbery",
       "4WD Buggy": "Keith Halsey",
-      "2WD Buggy": "Jordan Newbery"
+      "Stadium Trucks": "Paul Norris",
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 17.75,
@@ -295,11 +295,11 @@
     "total_laps": 4080,
     "races_count": 354,
     "winners": {
-      "Stadium Trucks": {
-        "driver": "Paul Norris",
-        "laps": 13,
-        "seconds": 308.38,
-        "result": "13 / 308.38"
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 14,
+        "seconds": 317.24,
+        "result": "14 / 317.24"
       },
       "4WD Buggy": {
         "driver": "Paul Hopkins",
@@ -307,24 +307,24 @@
         "seconds": 317.72,
         "result": "14 / 317.72"
       },
+      "Stadium Trucks": {
+        "driver": "Paul Norris",
+        "laps": 13,
+        "seconds": 308.38,
+        "result": "13 / 308.38"
+      },
       "Vintage / Rear Motor": {
         "driver": "Bryan Burrows",
         "laps": 0,
         "seconds": 0.0,
         "result": "14 / 321.84c"
-      },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
-        "laps": 14,
-        "seconds": 317.24,
-        "result": "14 / 317.24"
       }
     },
     "tqs": {
-      "Stadium Trucks": "Harry Porter",
+      "2WD Buggy": "Jordan Newbery",
       "4WD Buggy": "Paul Hopkins",
-      "Vintage / Rear Motor": "Bryan Burrows",
-      "2WD Buggy": "Jordan Newbery"
+      "Stadium Trucks": "Harry Porter",
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 16.65,
@@ -341,17 +341,11 @@
     "total_laps": 3665,
     "races_count": 318,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Gavin Knight",
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 323.46,
-        "result": "13 / 323.46"
-      },
-      "Stadium Trucks": {
-        "driver": "Harry Porter",
-        "laps": 13,
-        "seconds": 305.94,
-        "result": "13 / 305.94"
+        "seconds": 300.75,
+        "result": "13 / 300.75"
       },
       "4WD Buggy": {
         "driver": "Paul Hopkins",
@@ -359,11 +353,17 @@
         "seconds": 319.01,
         "result": "14 / 319.01"
       },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
+      "Stadium Trucks": {
+        "driver": "Harry Porter",
         "laps": 13,
-        "seconds": 300.75,
-        "result": "13 / 300.75"
+        "seconds": 305.94,
+        "result": "13 / 305.94"
+      },
+      "Vintage / Rear Motor": {
+        "driver": "Gavin Knight",
+        "laps": 13,
+        "seconds": 323.46,
+        "result": "13 / 323.46"
       }
     },
     "tqs": {
@@ -387,17 +387,17 @@
     "total_laps": 4709,
     "races_count": 420,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 13,
+        "seconds": 312.78,
+        "result": "13 / 312.78"
+      },
       "4WD Buggy": {
         "driver": "Paul Hopkins",
         "laps": 13,
         "seconds": 314.25,
         "result": "13 / 314.25"
-      },
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
-        "laps": 13,
-        "seconds": 323.2,
-        "result": "13 / 323.20"
       },
       "Stadium Trucks": {
         "driver": "Harry Porter",
@@ -405,18 +405,18 @@
         "seconds": 301.16,
         "result": "12 / 301.16"
       },
-      "2WD Buggy": {
+      "Vintage / Rear Motor": {
         "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 312.78,
-        "result": "13 / 312.78"
+        "seconds": 323.2,
+        "result": "13 / 323.20"
       }
     },
     "tqs": {
+      "2WD Buggy": "Jordan Newbery",
       "4WD Buggy": "Paul Hopkins",
-      "Vintage / Rear Motor": "Jordan Newbery",
       "Stadium Trucks": "Harry Porter",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 20.51,
@@ -433,11 +433,11 @@
     "total_laps": 3903,
     "races_count": 383,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
+      "2WD Buggy": {
+        "driver": "Paul Field",
         "laps": 12,
-        "seconds": 322.34,
-        "result": "12 / 322.34"
+        "seconds": 312.1,
+        "result": "12 / 312.10"
       },
       "Stadium Trucks": {
         "driver": "Dan Hurrell",
@@ -445,17 +445,17 @@
         "seconds": 0.0,
         "result": "Trucks"
       },
-      "2WD Buggy": {
-        "driver": "Paul Field",
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
         "laps": 12,
-        "seconds": 312.1,
-        "result": "12 / 312.10"
+        "seconds": 322.34,
+        "result": "12 / 322.34"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Paul Field",
       "Stadium Trucks": "Ricky Newcombe",
-      "2WD Buggy": "Paul Field"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 21.06,
@@ -472,11 +472,11 @@
     "total_laps": 3313,
     "races_count": 335,
     "winners": {
-      "Vintage / Rear Motor": {
+      "2WD Buggy": {
         "driver": "Jordan Newbery",
-        "laps": 12,
-        "seconds": 315.58,
-        "result": "12 / 315.58"
+        "laps": 10,
+        "seconds": 310.28,
+        "result": "10 / 310.28"
       },
       "Stadium Trucks": {
         "driver": "Keith Halsey",
@@ -484,17 +484,17 @@
         "seconds": 0.0,
         "result": "4wd"
       },
-      "2WD Buggy": {
+      "Vintage / Rear Motor": {
         "driver": "Jordan Newbery",
-        "laps": 10,
-        "seconds": 310.28,
-        "result": "10 / 310.28"
+        "laps": 12,
+        "seconds": 315.58,
+        "result": "12 / 315.58"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Paul Field",
       "Stadium Trucks": "Keith Halsey",
-      "2WD Buggy": "Paul Field"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 20.43,
@@ -511,17 +511,11 @@
     "total_laps": 3756,
     "races_count": 330,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
+      "2WD Buggy": {
+        "driver": "Paul Field",
         "laps": 13,
-        "seconds": 315.5,
-        "result": "13 / 315.50"
-      },
-      "Stadium Trucks": {
-        "driver": "Harry Porter",
-        "laps": 13,
-        "seconds": 322.8,
-        "result": "13 / 322.80"
+        "seconds": 308.15,
+        "result": "13 / 308.15"
       },
       "4WD Buggy": {
         "driver": "Martin Owen",
@@ -529,18 +523,24 @@
         "seconds": 314.89,
         "result": "14 / 314.89"
       },
-      "2WD Buggy": {
-        "driver": "Paul Field",
+      "Stadium Trucks": {
+        "driver": "Harry Porter",
         "laps": 13,
-        "seconds": 308.15,
-        "result": "13 / 308.15"
+        "seconds": 322.8,
+        "result": "13 / 322.80"
+      },
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
+        "laps": 13,
+        "seconds": 315.5,
+        "result": "13 / 315.50"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
-      "Stadium Trucks": "Harry Porter",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Martin Owen",
-      "2WD Buggy": "Dan Harding"
+      "Stadium Trucks": "Harry Porter",
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 21.68,
@@ -558,9 +558,9 @@
     "races_count": 124,
     "winners": {},
     "tqs": {
+      "2WD Buggy": "Jordan Newbery",
       "Stadium Trucks": "Harry Porter",
-      "Vintage / Rear Motor": "Kev Dymond",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Kev Dymond"
     },
     "fastest_lap": {
       "time": 24.21,
@@ -577,6 +577,12 @@
     "total_laps": 3538,
     "races_count": 305,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 13,
+        "seconds": 305.76,
+        "result": "13 / 305.76"
+      },
       "Stadium Trucks": {
         "driver": "Ricky Newcombe",
         "laps": 0,
@@ -588,18 +594,12 @@
         "laps": 13,
         "seconds": 315.38,
         "result": "13 / 315.38"
-      },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 13,
-        "seconds": 305.76,
-        "result": "13 / 305.76"
       }
     },
     "tqs": {
+      "2WD Buggy": "Paul Field",
       "Stadium Trucks": "Harry Porter",
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "2WD Buggy": "Paul Field"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 22.09,
@@ -616,11 +616,11 @@
     "total_laps": 3772,
     "races_count": 345,
     "winners": {
-      "Vintage / Rear Motor": {
+      "2WD Buggy": {
         "driver": "Bryan Burrows",
         "laps": 13,
-        "seconds": 305.48,
-        "result": "13 / 305.48"
+        "seconds": 303.67,
+        "result": "13 / 303.67"
       },
       "Stadium Trucks": {
         "driver": "Chris Cooke",
@@ -628,17 +628,17 @@
         "seconds": 0.0,
         "result": "Trucks"
       },
-      "2WD Buggy": {
+      "Vintage / Rear Motor": {
         "driver": "Bryan Burrows",
         "laps": 13,
-        "seconds": 303.67,
-        "result": "13 / 303.67"
+        "seconds": 305.48,
+        "result": "13 / 305.48"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Dan Harding",
       "Stadium Trucks": "Harry Porter",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 21.66,
@@ -655,11 +655,11 @@
     "total_laps": 4031,
     "races_count": 360,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
+      "2WD Buggy": {
+        "driver": "Dan Harding",
         "laps": 13,
-        "seconds": 313.96,
-        "result": "13 / 313.96"
+        "seconds": 318.24,
+        "result": "13 / 318.24"
       },
       "4WD Buggy": {
         "driver": "Dan Harding",
@@ -673,18 +673,18 @@
         "seconds": 308.39,
         "result": "12 / 308.39"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 318.24,
-        "result": "13 / 318.24"
+        "seconds": 313.96,
+        "result": "13 / 313.96"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Dan Harding",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 21.62,
@@ -701,11 +701,11 @@
     "total_laps": 3389,
     "races_count": 300,
     "winners": {
-      "Vintage / Rear Motor": {
+      "2WD Buggy": {
         "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 316.05,
-        "result": "13 / 316.05"
+        "seconds": 300.58,
+        "result": "13 / 300.58"
       },
       "Stadium Trucks": {
         "driver": "Ryan Eaton",
@@ -713,17 +713,17 @@
         "seconds": 0.0,
         "result": "4wd"
       },
-      "2WD Buggy": {
+      "Vintage / Rear Motor": {
         "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 300.58,
-        "result": "13 / 300.58"
+        "seconds": 316.05,
+        "result": "13 / 316.05"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Jordan Newbery",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 22.22,
@@ -740,11 +740,11 @@
     "total_laps": 3250,
     "races_count": 315,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Paul Field",
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 314.48,
-        "result": "13 / 314.48"
+        "seconds": 301.32,
+        "result": "13 / 301.32"
       },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
@@ -752,17 +752,17 @@
         "seconds": 0.0,
         "result": "Trucks"
       },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
+      "Vintage / Rear Motor": {
+        "driver": "Paul Field",
         "laps": 13,
-        "seconds": 301.32,
-        "result": "13 / 301.32"
+        "seconds": 314.48,
+        "result": "13 / 314.48"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Dan Harding",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 21.89,
@@ -779,6 +779,12 @@
     "total_laps": 2315,
     "races_count": 200,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Keith Halsey",
+        "laps": 13,
+        "seconds": 318.49,
+        "result": "13 / 318.49"
+      },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
         "laps": 12,
@@ -790,18 +796,12 @@
         "laps": 13,
         "seconds": 324.18,
         "result": "13 / 324.18"
-      },
-      "2WD Buggy": {
-        "driver": "Keith Halsey",
-        "laps": 13,
-        "seconds": 318.49,
-        "result": "13 / 318.49"
       }
     },
     "tqs": {
+      "2WD Buggy": "Dan Harding",
       "Stadium Trucks": "Gavin Knight",
-      "Vintage / Rear Motor": "Bryan Burrows",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 22.96,
@@ -818,11 +818,11 @@
     "total_laps": 3148,
     "races_count": 275,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Paul Field",
+      "2WD Buggy": {
+        "driver": "Dan Harding",
         "laps": 13,
-        "seconds": 313.6,
-        "result": "13 / 313.60"
+        "seconds": 303.32,
+        "result": "13 / 303.32"
       },
       "Stadium Trucks": {
         "driver": "Michael Halsey",
@@ -830,18 +830,18 @@
         "seconds": 312.33,
         "result": "13 / 312.33"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
+      "Vintage / Rear Motor": {
+        "driver": "Paul Field",
         "laps": 13,
-        "seconds": 303.32,
-        "result": "13 / 303.32"
+        "seconds": 313.6,
+        "result": "13 / 313.60"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Paul Field",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Michael Halsey",
       "Stadium Trucks": "Harry Porter",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Paul Field"
     },
     "fastest_lap": {
       "time": 22.38,
@@ -858,17 +858,11 @@
     "total_laps": 3395,
     "races_count": 315,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
-        "laps": 12,
-        "seconds": 301.69,
-        "result": "12 / 301.69"
-      },
-      "Stadium Trucks": {
-        "driver": "Gavin Knight",
-        "laps": 12,
-        "seconds": 303.65,
-        "result": "12 / 303.65"
+      "2WD Buggy": {
+        "driver": "Harry Mears",
+        "laps": 13,
+        "seconds": 316.99,
+        "result": "13 / 316.99"
       },
       "4WD Buggy": {
         "driver": "Harry Mears",
@@ -876,18 +870,24 @@
         "seconds": 309.35,
         "result": "13 / 309.35"
       },
-      "2WD Buggy": {
-        "driver": "Harry Mears",
-        "laps": 13,
-        "seconds": 316.99,
-        "result": "13 / 316.99"
+      "Stadium Trucks": {
+        "driver": "Gavin Knight",
+        "laps": 12,
+        "seconds": 303.65,
+        "result": "12 / 303.65"
+      },
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
+        "laps": 12,
+        "seconds": 301.69,
+        "result": "12 / 301.69"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "Stadium Trucks": "Gavin Knight",
+      "2WD Buggy": "Harry Mears",
       "4WD Buggy": "Harry Mears",
-      "2WD Buggy": "Harry Mears"
+      "Stadium Trucks": "Gavin Knight",
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 21.37,
@@ -904,6 +904,12 @@
     "total_laps": 3237,
     "races_count": 295,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 13,
+        "seconds": 310.42,
+        "result": "13 / 310.42"
+      },
       "Stadium Trucks": {
         "driver": "Adam Roulston",
         "laps": 12,
@@ -915,18 +921,12 @@
         "laps": 12,
         "seconds": 304.41,
         "result": "12 / 304.41"
-      },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 13,
-        "seconds": 310.42,
-        "result": "13 / 310.42"
       }
     },
     "tqs": {
+      "2WD Buggy": "Dan Harding",
       "Stadium Trucks": "Adam Roulston",
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 16.92,
@@ -943,17 +943,17 @@
     "total_laps": 3255,
     "races_count": 318,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Harry Mears",
+        "laps": 13,
+        "seconds": 319.83,
+        "result": "13 / 319.83"
+      },
       "4WD Buggy": {
         "driver": "Harry Mears",
         "laps": 13,
         "seconds": 305.51,
         "result": "13 / 305.51"
-      },
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
-        "laps": 12,
-        "seconds": 317.32,
-        "result": "12 / 317.32"
       },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
@@ -961,18 +961,18 @@
         "seconds": 304.71,
         "result": "11 / 304.71"
       },
-      "2WD Buggy": {
-        "driver": "Harry Mears",
-        "laps": 13,
-        "seconds": 319.83,
-        "result": "13 / 319.83"
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
+        "laps": 12,
+        "seconds": 317.32,
+        "result": "12 / 317.32"
       }
     },
     "tqs": {
+      "2WD Buggy": "Harry Mears",
       "4WD Buggy": "Harry Mears",
-      "Vintage / Rear Motor": "Jordan Newbery",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Harry Mears"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 19.36,
@@ -989,6 +989,12 @@
     "total_laps": 2001,
     "races_count": 200,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 12,
+        "seconds": 325.14,
+        "result": "12 / 325.14"
+      },
       "Stadium Trucks": {
         "driver": "Chris Cooke",
         "laps": 11,
@@ -1000,19 +1006,13 @@
         "laps": 12,
         "seconds": 311.64,
         "result": "12 / 311.64"
-      },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
-        "laps": 12,
-        "seconds": 325.14,
-        "result": "12 / 325.14"
       }
     },
     "tqs": {
+      "2WD Buggy": "Gavin Knight",
       "4WD Buggy": "Matt Martin",
       "Stadium Trucks": "Chris Cooke",
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "2WD Buggy": "Gavin Knight"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 25.29,
@@ -1029,6 +1029,12 @@
     "total_laps": 1896,
     "races_count": 186,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 12,
+        "seconds": 326.56,
+        "result": "12 / 326.56"
+      },
       "Stadium Trucks": {
         "driver": "Matt Martin",
         "laps": 11,
@@ -1040,19 +1046,13 @@
         "laps": 11,
         "seconds": 304.12,
         "result": "11 / 304.12"
-      },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 12,
-        "seconds": 326.56,
-        "result": "12 / 326.56"
       }
     },
     "tqs": {
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Matt Martin",
       "Stadium Trucks": "Jake Coombs",
-      "Vintage / Rear Motor": "Kev Dymond",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Kev Dymond"
     },
     "fastest_lap": {
       "time": 26.34,
@@ -1069,11 +1069,11 @@
     "total_laps": 3170,
     "races_count": 275,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
+      "2WD Buggy": {
+        "driver": "Dan Harding",
         "laps": 11,
-        "seconds": 315.59,
-        "result": "11 / 315.59"
+        "seconds": 325.53,
+        "result": "11 / 325.53"
       },
       "4WD Buggy": {
         "driver": "Keith Halsey",
@@ -1087,18 +1087,18 @@
         "seconds": 301.51,
         "result": "11 / 301.51"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
         "laps": 11,
-        "seconds": 325.53,
-        "result": "11 / 325.53"
+        "seconds": 315.59,
+        "result": "11 / 315.59"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Keith Halsey",
       "Stadium Trucks": "Carl Davis",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 20.72,
@@ -1115,11 +1115,11 @@
     "total_laps": 3530,
     "races_count": 280,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
+      "2WD Buggy": {
+        "driver": "Dan Harding",
         "laps": 15,
-        "seconds": 319.62,
-        "result": "15 / 319.62"
+        "seconds": 313.75,
+        "result": "15 / 313.75"
       },
       "Stadium Trucks": {
         "driver": "Ross Everill",
@@ -1127,18 +1127,18 @@
         "seconds": 305.82,
         "result": "14 / 305.82"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
         "laps": 15,
-        "seconds": 313.75,
-        "result": "15 / 313.75"
+        "seconds": 319.62,
+        "result": "15 / 319.62"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Ross Everill",
       "Stadium Trucks": "Wayne James",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 19.71,
@@ -1155,6 +1155,12 @@
     "total_laps": 2968,
     "races_count": 230,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 15,
+        "seconds": 310.64,
+        "result": "15 / 310.64"
+      },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
         "laps": 15,
@@ -1166,19 +1172,13 @@
         "laps": 14,
         "seconds": 306.7,
         "result": "14 / 306.70"
-      },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
-        "laps": 15,
-        "seconds": 310.64,
-        "result": "15 / 310.64"
       }
     },
     "tqs": {
+      "2WD Buggy": "Jordan Newbery",
       "4WD Buggy": "Lee Biggs",
       "Stadium Trucks": "Gavin Knight",
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 19.61,
@@ -1227,11 +1227,11 @@
     "total_laps": 4573,
     "races_count": 385,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
+      "2WD Buggy": {
+        "driver": "Harry Mears",
         "laps": 14,
-        "seconds": 321.03,
-        "result": "14 / 321.03"
+        "seconds": 315.0,
+        "result": "14 / 315.00"
       },
       "4WD Buggy": {
         "driver": "Harry Mears",
@@ -1245,18 +1245,18 @@
         "seconds": 309.25,
         "result": "12 / 309.25"
       },
-      "2WD Buggy": {
-        "driver": "Harry Mears",
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
         "laps": 14,
-        "seconds": 315.0,
-        "result": "14 / 315.00"
+        "seconds": 321.03,
+        "result": "14 / 321.03"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Harry Mears",
       "4WD Buggy": "Dan Harding",
       "Stadium Trucks": "Wayne James",
-      "2WD Buggy": "Harry Mears"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 20.57,
@@ -1273,11 +1273,11 @@
     "total_laps": 3821,
     "races_count": 325,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
-        "laps": 13,
-        "seconds": 310.89,
-        "result": "13 / 310.89"
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 14,
+        "seconds": 320.07,
+        "result": "14 / 320.07"
       },
       "Stadium Trucks": {
         "driver": "Dan Harding",
@@ -1285,18 +1285,18 @@
         "seconds": 314.59,
         "result": "13 / 314.59"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 14,
-        "seconds": 320.07,
-        "result": "14 / 320.07"
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
+        "laps": 13,
+        "seconds": 310.89,
+        "result": "13 / 310.89"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Keith Halsey",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 21.18,
@@ -1313,11 +1313,11 @@
     "total_laps": 3850,
     "races_count": 345,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
-        "laps": 12,
-        "seconds": 301.88,
-        "result": "12 / 301.88"
+      "2WD Buggy": {
+        "driver": "Bryan Burrows",
+        "laps": 13,
+        "seconds": 321.42,
+        "result": "13 / 321.42"
       },
       "4WD Buggy": {
         "driver": "Kev Dymond",
@@ -1331,18 +1331,18 @@
         "seconds": 307.1,
         "result": "12 / 307.10"
       },
-      "2WD Buggy": {
-        "driver": "Bryan Burrows",
-        "laps": 13,
-        "seconds": 321.42,
-        "result": "13 / 321.42"
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
+        "laps": 12,
+        "seconds": 301.88,
+        "result": "12 / 301.88"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Kev Dymond",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 22.3,
@@ -1359,6 +1359,12 @@
     "total_laps": 3276,
     "races_count": 280,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 14,
+        "seconds": 321.7,
+        "result": "14 / 321.70"
+      },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
         "laps": 13,
@@ -1370,18 +1376,12 @@
         "laps": 13,
         "seconds": 312.97,
         "result": "13 / 312.97"
-      },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 14,
-        "seconds": 321.7,
-        "result": "14 / 321.70"
       }
     },
     "tqs": {
+      "2WD Buggy": "Dan Harding",
       "Stadium Trucks": "Gavin Knight",
-      "Vintage / Rear Motor": "Bryan Burrows",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 21.86,
@@ -1398,11 +1398,11 @@
     "total_laps": 3716,
     "races_count": 326,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
-        "laps": 12,
-        "seconds": 304.93,
-        "result": "12 / 304.93"
+      "2WD Buggy": {
+        "driver": "Harry Mears",
+        "laps": 13,
+        "seconds": 302.92,
+        "result": "13 / 302.92"
       },
       "4WD Buggy": {
         "driver": "Keith Halsey",
@@ -1416,18 +1416,18 @@
         "seconds": 326.35,
         "result": "13 / 326.35"
       },
-      "2WD Buggy": {
-        "driver": "Harry Mears",
-        "laps": 13,
-        "seconds": 302.92,
-        "result": "13 / 302.92"
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
+        "laps": 12,
+        "seconds": 304.93,
+        "result": "12 / 304.93"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Harry Mears",
       "4WD Buggy": "Keith Halsey",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Harry Mears"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 20.29,
@@ -1444,11 +1444,11 @@
     "total_laps": 2699,
     "races_count": 250,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Dan Warner",
-        "laps": 12,
-        "seconds": 305.2,
-        "result": "12 / 305.20"
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 13,
+        "seconds": 312.89,
+        "result": "13 / 312.89"
       },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
@@ -1456,17 +1456,17 @@
         "seconds": 320.75,
         "result": "13 / 320.75"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 13,
-        "seconds": 312.89,
-        "result": "13 / 312.89"
+      "Vintage / Rear Motor": {
+        "driver": "Dan Warner",
+        "laps": 12,
+        "seconds": 305.2,
+        "result": "12 / 305.20"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Dan Warner",
+      "2WD Buggy": "Harry Mears",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Harry Mears"
+      "Vintage / Rear Motor": "Dan Warner"
     },
     "fastest_lap": {
       "time": 23.07,
@@ -1483,17 +1483,17 @@
     "total_laps": 3672,
     "races_count": 340,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Keith Halsey",
+        "laps": 12,
+        "seconds": 300.32,
+        "result": "12 / 300.32"
+      },
       "4WD Buggy": {
         "driver": "Mark Taylor",
         "laps": 12,
         "seconds": 308.89,
         "result": "12 / 308.89"
-      },
-      "Vintage / Rear Motor": {
-        "driver": "Jordan Newbery",
-        "laps": 12,
-        "seconds": 305.78,
-        "result": "12 / 305.78"
       },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
@@ -1501,18 +1501,18 @@
         "seconds": 308.87,
         "result": "12 / 308.87"
       },
-      "2WD Buggy": {
-        "driver": "Keith Halsey",
+      "Vintage / Rear Motor": {
+        "driver": "Jordan Newbery",
         "laps": 12,
-        "seconds": 300.32,
-        "result": "12 / 300.32"
+        "seconds": 305.78,
+        "result": "12 / 305.78"
       }
     },
     "tqs": {
+      "2WD Buggy": "Paul Field",
       "4WD Buggy": "Dave Berry",
-      "Vintage / Rear Motor": "Jordan Newbery",
       "Stadium Trucks": "Keith Halsey",
-      "2WD Buggy": "Paul Field"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 23.3,
@@ -1529,17 +1529,17 @@
     "total_laps": 2166,
     "races_count": 201,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Keith Halsey",
+        "laps": 13,
+        "seconds": 301.43,
+        "result": "13 / 301.43"
+      },
       "4WD Buggy": {
         "driver": "Reece Needle",
         "laps": 13,
         "seconds": 321.64,
         "result": "13 / 321.64"
-      },
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
-        "laps": 13,
-        "seconds": 318.86,
-        "result": "13 / 318.86"
       },
       "Stadium Trucks": {
         "driver": "Keith Halsey",
@@ -1547,18 +1547,18 @@
         "seconds": 317.19,
         "result": "13 / 317.19"
       },
-      "2WD Buggy": {
-        "driver": "Keith Halsey",
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
         "laps": 13,
-        "seconds": 301.43,
-        "result": "13 / 301.43"
+        "seconds": 318.86,
+        "result": "13 / 318.86"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Keith Halsey",
       "4WD Buggy": "Reece Needle",
       "Stadium Trucks": "Jordan Newbery",
-      "2WD Buggy": "Keith Halsey"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 22.14,
@@ -1575,11 +1575,11 @@
     "total_laps": 3260,
     "races_count": 286,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
-        "laps": 13,
-        "seconds": 319.73,
-        "result": "13 / 319.73"
+      "2WD Buggy": {
+        "driver": "Harry Mears",
+        "laps": 14,
+        "seconds": 318.36,
+        "result": "14 / 318.36"
       },
       "4WD Buggy": {
         "driver": "Keith Halsey",
@@ -1593,18 +1593,18 @@
         "seconds": 308.67,
         "result": "13 / 308.67"
       },
-      "2WD Buggy": {
-        "driver": "Harry Mears",
-        "laps": 14,
-        "seconds": 318.36,
-        "result": "14 / 318.36"
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
+        "laps": 13,
+        "seconds": 319.73,
+        "result": "13 / 319.73"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Kev Dymond",
+      "2WD Buggy": "Harry Mears",
       "4WD Buggy": "Keith Halsey",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Harry Mears"
+      "Vintage / Rear Motor": "Kev Dymond"
     },
     "fastest_lap": {
       "time": 21.01,
@@ -1621,11 +1621,11 @@
     "total_laps": 2604,
     "races_count": 230,
     "winners": {
-      "Vintage / Rear Motor": {
+      "2WD Buggy": {
         "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 317.82,
-        "result": "13 / 317.82"
+        "seconds": 315.52,
+        "result": "13 / 315.52"
       },
       "4WD Buggy": {
         "driver": "Keith Halsey",
@@ -1639,18 +1639,18 @@
         "seconds": 313.69,
         "result": "13 / 313.69"
       },
-      "2WD Buggy": {
+      "Vintage / Rear Motor": {
         "driver": "Jordan Newbery",
         "laps": 13,
-        "seconds": 315.52,
-        "result": "13 / 315.52"
+        "seconds": 317.82,
+        "result": "13 / 317.82"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Jordan Newbery",
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Keith Halsey",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 20.87,
@@ -1667,11 +1667,11 @@
     "total_laps": 2529,
     "races_count": 220,
     "winners": {
-      "Vintage / Rear Motor": {
-        "driver": "Bryan Burrows",
-        "laps": 13,
-        "seconds": 315.88,
-        "result": "13 / 315.88"
+      "2WD Buggy": {
+        "driver": "Dan Harding",
+        "laps": 12,
+        "seconds": 303.44,
+        "result": "12 / 303.44"
       },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
@@ -1679,18 +1679,18 @@
         "seconds": 324.04,
         "result": "13 / 324.04"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
-        "laps": 12,
-        "seconds": 303.44,
-        "result": "12 / 303.44"
+      "Vintage / Rear Motor": {
+        "driver": "Bryan Burrows",
+        "laps": 13,
+        "seconds": 315.88,
+        "result": "13 / 315.88"
       }
     },
     "tqs": {
-      "Vintage / Rear Motor": "Bryan Burrows",
+      "2WD Buggy": "Jordan Newbery",
       "4WD Buggy": "Jamie Stringer",
       "Stadium Trucks": "Gavin Knight",
-      "2WD Buggy": "Jordan Newbery"
+      "Vintage / Rear Motor": "Bryan Burrows"
     },
     "fastest_lap": {
       "time": 17.21,
@@ -1707,22 +1707,22 @@
     "total_laps": 3688,
     "races_count": 448,
     "winners": {
-      "4WD Buggy": {
-        "driver": "Keith Halsey",
+      "2WD Buggy": {
+        "driver": "Dan Harding",
         "laps": 0,
         "seconds": 0.0,
         "result": "2"
       },
-      "2WD Buggy": {
-        "driver": "Dan Harding",
+      "4WD Buggy": {
+        "driver": "Keith Halsey",
         "laps": 0,
         "seconds": 0.0,
         "result": "2"
       }
     },
     "tqs": {
-      "4WD Buggy": "Keith Halsey",
-      "2WD Buggy": "Dan Harding"
+      "2WD Buggy": "Dan Harding",
+      "4WD Buggy": "Keith Halsey"
     },
     "fastest_lap": {
       "time": 6.0,
@@ -1757,6 +1757,12 @@
     "total_laps": 2123,
     "races_count": 193,
     "winners": {
+      "2WD Buggy": {
+        "driver": "Jordan Newbery",
+        "laps": 14,
+        "seconds": 316.25,
+        "result": "14 / 316.25"
+      },
       "Stadium Trucks": {
         "driver": "Gavin Knight",
         "laps": 13,
@@ -1768,19 +1774,13 @@
         "laps": 13,
         "seconds": 311.72,
         "result": "13 / 311.72"
-      },
-      "2WD Buggy": {
-        "driver": "Jordan Newbery",
-        "laps": 14,
-        "seconds": 316.25,
-        "result": "14 / 316.25"
       }
     },
     "tqs": {
+      "2WD Buggy": "Dan Harding",
       "4WD Buggy": "Adam Mozes",
       "Stadium Trucks": "Gavin Knight",
-      "Vintage / Rear Motor": "Jordan Newbery",
-      "2WD Buggy": "Dan Harding"
+      "Vintage / Rear Motor": "Jordan Newbery"
     },
     "fastest_lap": {
       "time": 22.02,

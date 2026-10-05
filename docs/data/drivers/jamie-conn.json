@@ -14,21 +14,10 @@
     "a_final_podium_rate": 0.0,
     "a_final_avg_pos": 5.0,
     "a_finals_by_class": {
-      "4WD Buggy": 1,
-      "2WD Buggy": 0
+      "2WD Buggy": 0,
+      "4WD Buggy": 1
     },
     "by_class": {
-      "4WD Buggy": {
-        "meetings_count": 1,
-        "attendance_pct": 2.3,
-        "a_final_appearances": 1,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 5.0,
-        "total_laps": 39,
-        "tqs": 0
-      },
       "2WD Buggy": {
         "meetings_count": 4,
         "attendance_pct": 9.1,
@@ -38,6 +27,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 181,
+        "tqs": 0
+      },
+      "4WD Buggy": {
+        "meetings_count": 1,
+        "attendance_pct": 2.3,
+        "a_final_appearances": 1,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 5.0,
+        "total_laps": 39,
         "tqs": 0
       }
     },
@@ -60,42 +60,42 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "4WD Buggy": 34.08,
-      "2WD Buggy": 25.87
+      "2WD Buggy": 25.87,
+      "4WD Buggy": 34.08
     },
     "best_runs_per_class": {
-      "4WD Buggy": {
-        "laps": 8,
-        "seconds": 309.14,
-        "result_str": "8 / 309.14",
-        "meeting_date": "24-May-2026"
-      },
       "2WD Buggy": {
         "laps": 11,
         "seconds": 300.22,
         "result_str": "11 / 300.22",
         "meeting_date": "26-Jul-2026"
+      },
+      "4WD Buggy": {
+        "laps": 8,
+        "seconds": 309.14,
+        "result_str": "8 / 309.14",
+        "meeting_date": "24-May-2026"
       }
     },
     "highest_finishes_per_class": {
-      "4WD Buggy": {
-        "final": "A Final",
-        "position": 5,
-        "rank": 5,
-        "meeting_date": "24-May-2026",
-        "meeting_title": "TRCCC 2026 R4"
-      },
       "2WD Buggy": {
         "final": "D Final",
         "position": 4,
         "rank": 34,
         "meeting_date": "26-Jul-2026",
         "meeting_title": "TRCCC 2026 R8"
+      },
+      "4WD Buggy": {
+        "final": "A Final",
+        "position": 5,
+        "rank": 5,
+        "meeting_date": "24-May-2026",
+        "meeting_title": "TRCCC 2026 R4"
       }
     },
     "highest_quals_per_class": {
-      "4WD Buggy": 7,
-      "2WD Buggy": 34
+      "2WD Buggy": 34,
+      "4WD Buggy": 7
     },
     "best10_per_class": {
       "2WD Buggy": 27.09

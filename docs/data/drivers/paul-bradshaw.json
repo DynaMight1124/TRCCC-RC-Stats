@@ -14,21 +14,10 @@
     "a_final_podium_rate": 7.7,
     "a_final_avg_pos": 6.9,
     "a_finals_by_class": {
-      "Vintage / Rear Motor": 13,
-      "2WD Buggy": 0
+      "2WD Buggy": 0,
+      "Vintage / Rear Motor": 13
     },
     "by_class": {
-      "Vintage / Rear Motor": {
-        "meetings_count": 16,
-        "attendance_pct": 36.4,
-        "a_final_appearances": 13,
-        "a_final_wins": 0,
-        "a_final_podiums": 1,
-        "a_final_rate": 81.2,
-        "a_final_avg_pos": 6.9,
-        "total_laps": 846,
-        "tqs": 0
-      },
       "2WD Buggy": {
         "meetings_count": 16,
         "attendance_pct": 36.4,
@@ -38,6 +27,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 909,
+        "tqs": 0
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 16,
+        "attendance_pct": 36.4,
+        "a_final_appearances": 13,
+        "a_final_wins": 0,
+        "a_final_podiums": 1,
+        "a_final_rate": 81.2,
+        "a_final_avg_pos": 6.9,
+        "total_laps": 846,
         "tqs": 0
       }
     },
@@ -60,46 +60,46 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "Vintage / Rear Motor": 24.5,
-      "2WD Buggy": 23.48
+      "2WD Buggy": 23.48,
+      "Vintage / Rear Motor": 24.5
     },
     "best_runs_per_class": {
-      "Vintage / Rear Motor": {
-        "laps": 12,
-        "seconds": 317.76,
-        "result_str": "12 / 317.76",
-        "meeting_date": "10-Aug-2025"
-      },
       "2WD Buggy": {
         "laps": 13,
         "seconds": 324.14,
         "result_str": "13 / 324.14",
         "meeting_date": "23-Jun-2024"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 12,
+        "seconds": 317.76,
+        "result_str": "12 / 317.76",
+        "meeting_date": "10-Aug-2025"
       }
     },
     "highest_finishes_per_class": {
-      "Vintage / Rear Motor": {
-        "final": "A Final",
-        "position": 3,
-        "rank": 3,
-        "meeting_date": "12-Apr-2025",
-        "meeting_title": "TRCCC 2025 R1"
-      },
       "2WD Buggy": {
         "final": "B Final",
         "position": 3,
         "rank": 13,
         "meeting_date": "10-Sep-2023",
         "meeting_title": "TRCCC 2023 R9"
+      },
+      "Vintage / Rear Motor": {
+        "final": "A Final",
+        "position": 3,
+        "rank": 3,
+        "meeting_date": "12-Apr-2025",
+        "meeting_title": "TRCCC 2025 R1"
       }
     },
     "highest_quals_per_class": {
-      "Vintage / Rear Motor": 3,
-      "2WD Buggy": 14
+      "2WD Buggy": 14,
+      "Vintage / Rear Motor": 3
     },
     "best10_per_class": {
-      "Vintage / Rear Motor": 25.23,
-      "2WD Buggy": 24.34
+      "2WD Buggy": 24.34,
+      "Vintage / Rear Motor": 25.23
     }
   },
   "timeline": [

@@ -14,21 +14,10 @@
     "a_final_podium_rate": 0.0,
     "a_final_avg_pos": 7.7,
     "a_finals_by_class": {
-      "Stadium Trucks": 3,
-      "4WD Buggy": 0
+      "4WD Buggy": 0,
+      "Stadium Trucks": 3
     },
     "by_class": {
-      "Stadium Trucks": {
-        "meetings_count": 3,
-        "attendance_pct": 6.8,
-        "a_final_appearances": 3,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 7.7,
-        "total_laps": 101,
-        "tqs": 0
-      },
       "4WD Buggy": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -38,6 +27,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 40,
+        "tqs": 0
+      },
+      "Stadium Trucks": {
+        "meetings_count": 3,
+        "attendance_pct": 6.8,
+        "a_final_appearances": 3,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 7.7,
+        "total_laps": 101,
         "tqs": 0
       }
     },
@@ -60,8 +60,8 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "Stadium Trucks": 28.73,
-      "4WD Buggy": 27.41
+      "4WD Buggy": 27.41,
+      "Stadium Trucks": 28.73
     },
     "best_runs_per_class": {
       "Stadium Trucks": {
@@ -84,8 +84,8 @@
       "Stadium Trucks": 6
     },
     "best10_per_class": {
-      "Stadium Trucks": 31.65,
-      "4WD Buggy": 30.3
+      "4WD Buggy": 30.3,
+      "Stadium Trucks": 31.65
     }
   },
   "timeline": [

@@ -14,21 +14,10 @@
     "a_final_podium_rate": 0.0,
     "a_final_avg_pos": 7.0,
     "a_finals_by_class": {
-      "Stadium Trucks": 4,
-      "2WD Buggy": 0
+      "2WD Buggy": 0,
+      "Stadium Trucks": 4
     },
     "by_class": {
-      "Stadium Trucks": {
-        "meetings_count": 4,
-        "attendance_pct": 9.1,
-        "a_final_appearances": 4,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 7.0,
-        "total_laps": 183,
-        "tqs": 0
-      },
       "2WD Buggy": {
         "meetings_count": 2,
         "attendance_pct": 4.5,
@@ -38,6 +27,17 @@
         "a_final_rate": 0.0,
         "a_final_avg_pos": null,
         "total_laps": 88,
+        "tqs": 0
+      },
+      "Stadium Trucks": {
+        "meetings_count": 4,
+        "attendance_pct": 9.1,
+        "a_final_appearances": 4,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 7.0,
+        "total_laps": 183,
         "tqs": 0
       }
     },
@@ -66,8 +66,8 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "Stadium Trucks": 17.75,
-      "2WD Buggy": 25.54
+      "2WD Buggy": 25.54,
+      "Stadium Trucks": 17.75
     },
     "best_runs_per_class": {
       "Stadium Trucks": {
@@ -78,28 +78,28 @@
       }
     },
     "highest_finishes_per_class": {
-      "Stadium Trucks": {
-        "final": "A Final",
-        "position": 5,
-        "rank": 5,
-        "meeting_date": "11-Apr-2026",
-        "meeting_title": "TRCCC 2026 R1"
-      },
       "2WD Buggy": {
         "final": "E Final",
         "position": 3,
         "rank": 43,
         "meeting_date": "10-May-2026",
         "meeting_title": "TRCCC 2026 R3"
+      },
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 5,
+        "rank": 5,
+        "meeting_date": "11-Apr-2026",
+        "meeting_title": "TRCCC 2026 R1"
       }
     },
     "highest_quals_per_class": {
-      "Stadium Trucks": 6,
-      "2WD Buggy": 41
+      "2WD Buggy": 41,
+      "Stadium Trucks": 6
     },
     "best10_per_class": {
-      "Stadium Trucks": 25.86,
-      "2WD Buggy": 26.3
+      "2WD Buggy": 26.3,
+      "Stadium Trucks": 25.86
     }
   },
   "timeline": [

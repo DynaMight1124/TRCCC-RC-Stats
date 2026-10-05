@@ -14,21 +14,21 @@
     "a_final_podium_rate": 77.8,
     "a_final_avg_pos": 3.3,
     "a_finals_by_class": {
-      "Stadium Trucks": 5,
+      "2WD Buggy": 1,
       "4WD Buggy": 3,
-      "2WD Buggy": 1
+      "Stadium Trucks": 5
     },
     "by_class": {
-      "Stadium Trucks": {
-        "meetings_count": 5,
-        "attendance_pct": 11.4,
-        "a_final_appearances": 5,
-        "a_final_wins": 1,
-        "a_final_podiums": 5,
-        "a_final_rate": 100.0,
-        "a_final_avg_pos": 2.2,
-        "total_laps": 239,
-        "tqs": 1
+      "2WD Buggy": {
+        "meetings_count": 10,
+        "attendance_pct": 22.7,
+        "a_final_appearances": 1,
+        "a_final_wins": 0,
+        "a_final_podiums": 0,
+        "a_final_rate": 10.0,
+        "a_final_avg_pos": 10.0,
+        "total_laps": 601,
+        "tqs": 0
       },
       "4WD Buggy": {
         "meetings_count": 3,
@@ -41,16 +41,16 @@
         "total_laps": 192,
         "tqs": 0
       },
-      "2WD Buggy": {
-        "meetings_count": 10,
-        "attendance_pct": 22.7,
-        "a_final_appearances": 1,
-        "a_final_wins": 0,
-        "a_final_podiums": 0,
-        "a_final_rate": 10.0,
-        "a_final_avg_pos": 10.0,
-        "total_laps": 601,
-        "tqs": 0
+      "Stadium Trucks": {
+        "meetings_count": 5,
+        "attendance_pct": 11.4,
+        "a_final_appearances": 5,
+        "a_final_wins": 1,
+        "a_final_podiums": 5,
+        "a_final_rate": 100.0,
+        "a_final_avg_pos": 2.2,
+        "total_laps": 239,
+        "tqs": 1
       }
     },
     "tqs": 1,
@@ -85,9 +85,9 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "Stadium Trucks": 22.95,
       "2WD Buggy": 20.36,
-      "4WD Buggy": 21.72
+      "4WD Buggy": 21.72,
+      "Stadium Trucks": 22.95
     },
     "best_runs_per_class": {
       "2WD Buggy": {
@@ -104,13 +104,6 @@
       }
     },
     "highest_finishes_per_class": {
-      "Stadium Trucks": {
-        "final": "A Final",
-        "position": 1,
-        "rank": 1,
-        "meeting_date": "24-Aug-2025",
-        "meeting_title": "TRCCC 2025 R10"
-      },
       "2WD Buggy": {
         "final": "A Final",
         "position": 10,
@@ -124,17 +117,24 @@
         "rank": 2,
         "meeting_date": "28-Jun-2026",
         "meeting_title": "TRCCC 2026 R6"
+      },
+      "Stadium Trucks": {
+        "final": "A Final",
+        "position": 1,
+        "rank": 1,
+        "meeting_date": "24-Aug-2025",
+        "meeting_title": "TRCCC 2025 R10"
       }
     },
     "highest_quals_per_class": {
-      "Stadium Trucks": 1,
       "2WD Buggy": 8,
-      "4WD Buggy": 4
+      "4WD Buggy": 4,
+      "Stadium Trucks": 1
     },
     "best10_per_class": {
-      "Stadium Trucks": 23.61,
       "2WD Buggy": 20.85,
-      "4WD Buggy": 22.61
+      "4WD Buggy": 22.61,
+      "Stadium Trucks": 23.61
     }
   },
   "timeline": [

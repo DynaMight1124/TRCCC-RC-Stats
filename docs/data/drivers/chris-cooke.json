@@ -14,34 +14,12 @@
     "a_final_podium_rate": 36.7,
     "a_final_avg_pos": 5.2,
     "a_finals_by_class": {
-      "Vintage / Rear Motor": 14,
       "2WD Buggy": 6,
       "4WD Buggy": 5,
-      "Stadium Trucks": 5
+      "Stadium Trucks": 5,
+      "Vintage / Rear Motor": 14
     },
     "by_class": {
-      "4WD Buggy": {
-        "meetings_count": 6,
-        "attendance_pct": 13.6,
-        "a_final_appearances": 5,
-        "a_final_wins": 0,
-        "a_final_podiums": 3,
-        "a_final_rate": 83.3,
-        "a_final_avg_pos": 5.0,
-        "total_laps": 333,
-        "tqs": 0
-      },
-      "Vintage / Rear Motor": {
-        "meetings_count": 15,
-        "attendance_pct": 34.1,
-        "a_final_appearances": 14,
-        "a_final_wins": 0,
-        "a_final_podiums": 4,
-        "a_final_rate": 93.3,
-        "a_final_avg_pos": 5.4,
-        "total_laps": 806,
-        "tqs": 0
-      },
       "2WD Buggy": {
         "meetings_count": 29,
         "attendance_pct": 65.9,
@@ -51,6 +29,17 @@
         "a_final_rate": 20.7,
         "a_final_avg_pos": 7.7,
         "total_laps": 1657,
+        "tqs": 0
+      },
+      "4WD Buggy": {
+        "meetings_count": 6,
+        "attendance_pct": 13.6,
+        "a_final_appearances": 5,
+        "a_final_wins": 0,
+        "a_final_podiums": 3,
+        "a_final_rate": 83.3,
+        "a_final_avg_pos": 5.0,
+        "total_laps": 333,
         "tqs": 0
       },
       "Stadium Trucks": {
@@ -63,6 +52,17 @@
         "a_final_avg_pos": 2.2,
         "total_laps": 251,
         "tqs": 1
+      },
+      "Vintage / Rear Motor": {
+        "meetings_count": 15,
+        "attendance_pct": 34.1,
+        "a_final_appearances": 14,
+        "a_final_wins": 0,
+        "a_final_podiums": 4,
+        "a_final_rate": 93.3,
+        "a_final_avg_pos": 5.4,
+        "total_laps": 806,
+        "tqs": 0
       }
     },
     "tqs": 1,
@@ -104,18 +104,12 @@
   ],
   "personal_bests": {
     "best_laps_per_class": {
-      "4WD Buggy": 7.0,
       "2WD Buggy": 7.0,
-      "Vintage / Rear Motor": 21.35,
-      "Stadium Trucks": 22.59
+      "4WD Buggy": 7.0,
+      "Stadium Trucks": 22.59,
+      "Vintage / Rear Motor": 21.35
     },
     "best_runs_per_class": {
-      "Vintage / Rear Motor": {
-        "laps": 14,
-        "seconds": 320.15,
-        "result_str": "14 / 320.15",
-        "meeting_date": "18-Aug-2024"
-      },
       "2WD Buggy": {
         "laps": 13,
         "seconds": 301.88,
@@ -133,9 +127,22 @@
         "seconds": 306.69,
         "result_str": "13 / 306.69",
         "meeting_date": "09-Aug-2026"
+      },
+      "Vintage / Rear Motor": {
+        "laps": 14,
+        "seconds": 320.15,
+        "result_str": "14 / 320.15",
+        "meeting_date": "18-Aug-2024"
       }
     },
     "highest_finishes_per_class": {
+      "2WD Buggy": {
+        "final": "A Final",
+        "position": 5,
+        "rank": 5,
+        "meeting_date": "22-Sep-2024",
+        "meeting_title": "TRCCC 2024 R12"
+      },
       "4WD Buggy": {
         "final": "A Final",
         "position": 2,
@@ -143,10 +150,10 @@
         "meeting_date": "09-Jun-2024",
         "meeting_title": "TRCCC 2024 R5"
       },
-      "2WD Buggy": {
+      "Stadium Trucks": {
         "final": "A Final",
-        "position": 5,
-        "rank": 5,
+        "position": 1,
+        "rank": 1,
         "meeting_date": "22-Sep-2024",
         "meeting_title": "TRCCC 2024 R12"
       },
@@ -156,26 +163,19 @@
         "rank": 2,
         "meeting_date": "11-May-2025",
         "meeting_title": "TRCCC 2025 R3"
-      },
-      "Stadium Trucks": {
-        "final": "A Final",
-        "position": 1,
-        "rank": 1,
-        "meeting_date": "22-Sep-2024",
-        "meeting_title": "TRCCC 2024 R12"
       }
     },
     "highest_quals_per_class": {
-      "4WD Buggy": 2,
       "2WD Buggy": 4,
-      "Vintage / Rear Motor": 2,
-      "Stadium Trucks": 1
+      "4WD Buggy": 2,
+      "Stadium Trucks": 1,
+      "Vintage / Rear Motor": 2
     },
     "best10_per_class": {
-      "4WD Buggy": 9.0,
       "2WD Buggy": 7.0,
-      "Vintage / Rear Motor": 21.91,
-      "Stadium Trucks": 23.03
+      "4WD Buggy": 9.0,
+      "Stadium Trucks": 23.03,
+      "Vintage / Rear Motor": 21.91
     }
   },
   "timeline": [
