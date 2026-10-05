@@ -19,17 +19,6 @@
       "Stadium Trucks": 1
     },
     "by_class": {
-      "2WD Buggy": {
-        "meetings_count": 32,
-        "attendance_pct": 72.7,
-        "a_final_appearances": 30,
-        "a_final_wins": 2,
-        "a_final_podiums": 13,
-        "a_final_rate": 93.8,
-        "a_final_avg_pos": 4.3,
-        "total_laps": 2034,
-        "tqs": 0
-      },
       "Stadium Trucks": {
         "meetings_count": 1,
         "attendance_pct": 2.3,
@@ -51,6 +40,17 @@
         "a_final_avg_pos": 2.3,
         "total_laps": 1832,
         "tqs": 12
+      },
+      "2WD Buggy": {
+        "meetings_count": 32,
+        "attendance_pct": 72.7,
+        "a_final_appearances": 30,
+        "a_final_wins": 2,
+        "a_final_podiums": 13,
+        "a_final_rate": 93.8,
+        "a_final_avg_pos": 4.3,
+        "total_laps": 2034,
+        "tqs": 0
       }
     },
     "tqs": 13,
