@@ -38,5 +38,6 @@
   "stats": {
     "total_finals": 0,
     "total_heat_entries": 2
-  }
+  },
+  "championship": null
 }

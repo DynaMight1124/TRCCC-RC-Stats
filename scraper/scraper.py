@@ -164,6 +164,10 @@ class RCResultsScraper:
         finals_overall_listings = [(lid, name.strip()) for lid, name in listings if "Finals - Overall Results" in name]
         finals_listing_id = finals_overall_listings[0][0] if finals_overall_listings else None
 
+        # Identify Championship listing
+        champ_listings = [(lid, name.strip()) for lid, name in listings if "Championship" in name]
+        champ_listing_id = champ_listings[0][0] if champ_listings else None
+
         # 2. Extract final races and qualifying races from MeetingSummary
         final_races = re.findall(r'href="\/Viewer\/Main\/RaceResult\?raceId=(\d+)">([^<]*Final[^<]*)<\/a>', html, re.IGNORECASE)
         qual_races = re.findall(r'href="\/Viewer\/Main\/RaceResult\?raceId=(\d+)">([^<]*Race \d+ - (?!.*Final)[^<]*)<\/a>', html, re.IGNORECASE)
@@ -184,6 +188,11 @@ class RCResultsScraper:
         # 5. Parse Qualifying Race Results for complete lap times & best laps
         heat_results = self._parse_heat_races(qual_races)
 
+        # 6. Parse Championship Standings (if present)
+        championship_data = None
+        if champ_listing_id:
+            championship_data = self._parse_championship_listing(champ_listing_id)
+
         meeting_data = {
             "id": meeting_id,
             "date": date,
@@ -193,6 +202,7 @@ class RCResultsScraper:
             "qualifying": qualifying_standings,
             "finals": finals_results,
             "heats": heat_results,
+            "championship": championship_data,
             "stats": {
                 "total_finals": len(finals_results),
                 "total_heat_entries": len(heat_results)
@@ -373,6 +383,145 @@ class RCResultsScraper:
                     })
         return heats
 
+    def _parse_championship_listing(self, listing_id: str) -> Optional[Dict[str, Any]]:
+        """Parses consolidated Championship listing table."""
+        url = f"{BASE_URL}/Viewer/Main/Listing?listingId={listing_id}"
+        resp = self.session.get(url, timeout=20)
+        if resp.status_code != 200:
+            return None
+        return self._parse_championship_html(resp.text, listing_id)
+
+    def _parse_championship_html(self, html: str, listing_id: Optional[str] = None) -> Dict[str, Any]:
+        """Parses Championship standings page with series title, drop rule, classes, and round scores."""
+        series_title = ""
+        rule_text = ""
+        
+        m_series = re.search(r'<h2>Championship</h2>\s*<h3>(.*?)</h3>(?:\s*<h4>(.*?)</h4>)?', html, re.I)
+        if m_series:
+            series_title = clean_html(m_series.group(1))
+            if m_series.group(2):
+                rule_text = clean_html(m_series.group(2))
+                
+        tables = re.findall(r'<table[^>]*>([\s\S]*?)</table>', html, re.I)
+        table_pos = [m.start() for m in re.finditer(r'<table', html, re.I)]
+        
+        classes_data = {}
+        for idx, p in enumerate(table_pos):
+            header_area = html[max(0, p - 300):p]
+            h3_matches = list(re.finditer(r'<h3[^>]*>(.*?)</h3>', header_area, re.I))
+            if not h3_matches:
+                continue
+            raw_cname = clean_html(h3_matches[-1].group(1))
+            if not raw_cname or raw_cname.lower() == "championship" or raw_cname == series_title:
+                continue
+                
+            t_html = tables[idx]
+            rows = re.findall(r'<tr[^>]*>([\s\S]*?)</tr>', t_html, re.I)
+            if not rows:
+                continue
+                
+            th_cells = re.findall(r'<t[hd][^>]*>([\s\S]*?)</t[hd]>', rows[0], re.I)
+            headers = [clean_html(c) for c in th_cells]
+            
+            driver_standings = []
+            for r in rows[1:]:
+                td_cells = re.findall(r'<t[hd][^>]*>([\s\S]*?)</t[hd]>', r, re.I)
+                if len(td_cells) < 4:
+                    continue
+                    
+                pos_val = clean_html(td_cells[0])
+                driver_val = clean_html(td_cells[1])
+                ability_val = clean_html(td_cells[2])
+                pts_val = clean_html(td_cells[3])
+                
+                if not driver_val or driver_val.lower() in ("name", "driver"):
+                    continue
+                
+                rounds_list = []
+                for c_idx in range(4, len(td_cells)):
+                    cell_html = td_cells[c_idx]
+                    score_str = clean_html(cell_html)
+                    is_drop = "darkgray" in cell_html.lower()
+                    r_name = headers[c_idx] if c_idx < len(headers) else f"R{c_idx - 3}"
+                    
+                    score_num = int(score_str) if score_str.isdigit() else score_str
+                    rounds_list.append({
+                        "round": r_name,
+                        "points": score_num,
+                        "dropped": is_drop
+                    })
+                    
+                driver_standings.append({
+                    "pos": int(pos_val) if pos_val.isdigit() else pos_val,
+                    "driver": driver_val,
+                    "ability": ability_val,
+                    "total_points": int(pts_val) if pts_val.isdigit() else pts_val,
+                    "rounds": rounds_list
+                })
+                
+            classes_data[raw_cname] = {
+                "class_name": raw_cname,
+                "round_names": headers[4:] if len(headers) > 4 else [],
+                "standings": driver_standings
+            }
+            
+        return {
+            "listing_id": int(listing_id) if listing_id and str(listing_id).isdigit() else listing_id,
+            "title": series_title,
+            "rule": rule_text,
+            "classes": classes_data
+        }
+
+    def backfill_championships(self, force: bool = False):
+        """Backfill championship data into existing raw_data/meeting_*.json files."""
+        if not os.path.exists(RAW_DATA_DIR):
+            print("[Scraper] No raw_data directory found.")
+            return
+
+        files = [f for f in os.listdir(RAW_DATA_DIR) if f.startswith("meeting_") and f.endswith(".json")]
+        print(f"[Scraper] Checking {len(files)} raw meeting files for championship data...")
+
+        updated_count = 0
+        for f in sorted(files):
+            file_path = os.path.join(RAW_DATA_DIR, f)
+            try:
+                with open(file_path, "r", encoding="utf-8") as jf:
+                    mdata = json.load(jf)
+            except Exception as e:
+                print(f"[Scraper] Failed to read {f}: {e}")
+                continue
+
+            if not force and "championship" in mdata and mdata["championship"] is not None:
+                continue
+
+            mid = mdata.get("id")
+            if not mid:
+                continue
+
+            print(f"[Scraper] Fetching championship for meeting {mid} ({mdata.get('title')})...")
+            summary_url = f"{BASE_URL}/Viewer/Main/MeetingSummary?meetingId={mid}"
+            resp = self.session.get(summary_url, timeout=20)
+            if resp.status_code != 200:
+                print(f"[Scraper] Warning: HTTP {resp.status_code} for meeting {mid}")
+                continue
+
+            listings = re.findall(r'href="\/Viewer\/Main\/Listing\?listingId=(\d+)">([^<]+)<\/a>', resp.text)
+            champ_listings = [(lid, name.strip()) for lid, name in listings if "Championship" in name]
+
+            champ_data = None
+            if champ_listings:
+                lid = champ_listings[0][0]
+                champ_data = self._parse_championship_listing(lid)
+
+            mdata["championship"] = champ_data
+            with open(file_path, "w", encoding="utf-8") as jf:
+                json.dump(mdata, jf, indent=2)
+
+            updated_count += 1
+            time.sleep(0.3)
+
+        print(f"[Scraper] Championship backfill complete! Updated {updated_count} meeting file(s).")
+
 
 def clean_raw_data():
     """Remove all meeting_*.json files from raw_data directory."""
@@ -508,7 +657,14 @@ if __name__ == "__main__":
     parser.add_argument("--incremental", action="store_true", help="Only scrape new meetings (default)")
     parser.add_argument("--clean", action="store_true", help="Clean raw_data and index before scraping")
     parser.add_argument("--meeting-id", type=int, help="Scrape a single specific meeting ID")
+    parser.add_argument("--backfill-championships", action="store_true", help="Backfill championship data into existing meeting files")
     args = parser.parse_args()
+
+    if args.backfill_championships:
+        config = load_config()
+        scraper = RCResultsScraper(config.get("venueId", 1119))
+        scraper.backfill_championships()
+        sys.exit(0)
 
     mode = "full" if args.full else "incremental"
     run_scraper(mode=mode, specific_id=args.meeting_id, clean=args.clean)

@@ -13,10 +13,13 @@ const App = {
     drivers: [],
     classes: {},
     meetings: [],
-    h2h: []
+    h2h: [],
+    championships: null
   },
   currentTab: 'dashboard',
   selectedClassTab: '2WD Buggy',
+  selectedChampSeasonId: null,
+  selectedChampClass: null,
 
   async init() {
     console.log("[App] Initializing dashboard...");
@@ -24,12 +27,13 @@ const App = {
 
     try {
       // Load core datasets in parallel
-      const [clubResp, driversResp, classesResp, meetingsResp, h2hResp] = await Promise.all([
+      const [clubResp, driversResp, classesResp, meetingsResp, h2hResp, champResp] = await Promise.all([
         fetch('data/club.json'),
         fetch('data/drivers.json'),
         fetch('data/classes.json'),
         fetch('data/meetings.json'),
-        fetch('data/h2h.json')
+        fetch('data/h2h.json'),
+        fetch('data/championships.json')
       ]);
 
       if (!clubResp.ok || !driversResp.ok) {
@@ -41,9 +45,13 @@ const App = {
       this.data.classes = await classesResp.json();
       this.data.meetings = await meetingsResp.json();
       this.data.h2h = await h2hResp.json();
+      if (champResp.ok) {
+        this.data.championships = await champResp.json();
+      }
 
       this.renderClubHeader();
       this.renderDashboard();
+      this.renderChampionship();
       this.renderDrivers();
       this.renderClasses();
       this.renderMeetings();
@@ -55,7 +63,7 @@ const App = {
 
       // Check URL hash for direct tab navigation
       const hash = window.location.hash.replace('#', '');
-      if (['dashboard', 'drivers', 'classes', 'h2h', 'meetings'].includes(hash)) {
+      if (['dashboard', 'championship', 'drivers', 'classes', 'h2h', 'meetings'].includes(hash)) {
         this.switchTab(hash);
       } else {
         this.switchTab('dashboard');
@@ -113,6 +121,14 @@ const App = {
     // Meeting season filter
     const seasonFilter = document.getElementById('meeting-season-filter');
     if (seasonFilter) seasonFilter.addEventListener('change', () => this.filterMeetings());
+
+    // Championship season filter
+    const champSeasonSelect = document.getElementById('champ-season-select');
+    if (champSeasonSelect) {
+      champSeasonSelect.addEventListener('change', (e) => {
+        this.selectChampionshipSeason(e.target.value);
+      });
+    }
   },
 
   switchTab(tabName) {
@@ -126,6 +142,8 @@ const App = {
 
     if (tabName === 'classes') {
       this.renderClasses();
+    } else if (tabName === 'championship') {
+      this.renderChampionship();
     } else if (tabName === 'h2h' && window.AppH2H) {
       window.AppH2H.handleSelectionChange();
     }
@@ -598,6 +616,239 @@ const App = {
       if (window.AppH2H && typeof window.AppH2H.handleSelectionChange === 'function') {
         window.AppH2H.handleSelectionChange();
       }
+    }
+  },
+
+  renderChampionship() {
+    const champData = this.data.championships;
+    if (!champData || !champData.seasons || champData.seasons.length === 0) {
+      const panel = document.getElementById('tab-championship');
+      if (panel) {
+        panel.innerHTML = `
+          <div style="text-align: center; padding: 3rem; color: var(--text-muted);">
+            <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🏁</div>
+            <h3>No Championship Data Available</h3>
+            <p>Championship series points will automatically appear once published.</p>
+          </div>
+        `;
+      }
+      return;
+    }
+
+    // Populate season select if needed
+    const seasonSelect = document.getElementById('champ-season-select');
+    if (seasonSelect) {
+      if (!this.selectedChampSeasonId) {
+        this.selectedChampSeasonId = champData.current_season_id || champData.seasons[0].id;
+      }
+
+      seasonSelect.innerHTML = champData.seasons.map(s => {
+        const isSelected = s.id === this.selectedChampSeasonId ? 'selected' : '';
+        const tag = s.status === 'In Progress' ? ' (In Progress)' : ' (Final)';
+        return `<option value="${s.id}" ${isSelected}>${s.title}${tag}</option>`;
+      }).join('');
+    }
+
+    this.renderChampionshipSeason(this.selectedChampSeasonId);
+  },
+
+  selectChampionshipSeason(seasonId) {
+    this.selectedChampSeasonId = seasonId;
+    this.selectedChampClass = null; // Reset class so default class is chosen for this season
+    this.renderChampionshipSeason(seasonId);
+  },
+
+  renderChampionshipSeason(seasonId) {
+    const champData = this.data.championships;
+    if (!champData || !champData.seasons) return;
+
+    const season = champData.seasons.find(s => s.id === seasonId) || champData.seasons[0];
+    if (!season) return;
+
+    // 1. Status and Rule Badges
+    const statusBadge = document.getElementById('champ-status-badge');
+    if (statusBadge) {
+      if (season.status === 'In Progress') {
+        statusBadge.className = 'badge badge-green';
+        statusBadge.textContent = '● In Progress';
+      } else {
+        statusBadge.className = 'badge badge-blue';
+        statusBadge.textContent = '✓ Final Standings';
+      }
+    }
+
+    const ruleBadge = document.getElementById('champ-rule-badge');
+    if (ruleBadge) {
+      ruleBadge.textContent = season.rule ? `📋 ${season.rule}` : '';
+      ruleBadge.style.display = season.rule ? 'inline-block' : 'none';
+    }
+
+    const metaText = document.getElementById('champ-meta-text');
+    if (metaText) {
+      metaText.textContent = `Latest Event: ${season.latest_meeting_date} (${season.latest_meeting_title})`;
+    }
+
+    // 2. Class Selector Pills
+    const pillsContainer = document.getElementById('champ-class-pills');
+    if (pillsContainer) {
+      const classes = season.classes || [];
+      if (classes.length === 0) {
+        pillsContainer.innerHTML = '<span style="color: var(--text-dim); font-size: 0.85rem;">No classes recorded for this season</span>';
+        return;
+      }
+
+      // If previously selected class doesn't exist in this season, pick the first class
+      const classNames = classes.map(c => c.name);
+      if (!this.selectedChampClass || !classNames.includes(this.selectedChampClass)) {
+        this.selectedChampClass = classNames[0];
+      }
+
+      pillsContainer.innerHTML = classes.map(c => {
+        const isActive = c.name === this.selectedChampClass ? 'active' : '';
+        return `
+          <button class="pill-btn ${isActive}" onclick="App.selectChampionshipClass('${c.name.replace(/'/g, "\\'")}')">
+            ${c.name}
+            <span style="opacity: 0.7; font-size: 0.75rem; margin-left: 0.35rem;">(${c.total_drivers})</span>
+          </button>
+        `;
+      }).join('');
+    }
+
+    this.renderChampionshipClass(season, this.selectedChampClass);
+  },
+
+  selectChampionshipClass(className) {
+    this.selectedChampClass = className;
+    const season = (this.data.championships.seasons || []).find(s => s.id === this.selectedChampSeasonId) || this.data.championships.seasons[0];
+    if (season) {
+      document.querySelectorAll('#champ-class-pills .pill-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.textContent.trim().startsWith(className));
+      });
+      this.renderChampionshipClass(season, className);
+    }
+  },
+
+  renderChampionshipClass(season, className) {
+    const classData = (season.classes || []).find(c => c.name === className);
+    const titleEl = document.getElementById('champ-class-title');
+    const subtitleEl = document.getElementById('champ-class-subtitle');
+    const countEl = document.getElementById('champ-drivers-count');
+    const podiumEl = document.getElementById('champ-podium-cards');
+    const theadEl = document.getElementById('champ-table-headers');
+    const tbodyEl = document.getElementById('champ-table-body');
+
+    if (!classData) {
+      if (titleEl) titleEl.textContent = className || 'Championship Standings';
+      if (podiumEl) podiumEl.innerHTML = '';
+      if (theadEl) theadEl.innerHTML = '';
+      if (tbodyEl) tbodyEl.innerHTML = '<tr><td colspan="10" style="text-align: center; color: var(--text-muted); padding: 2rem;">No standings found for this class.</td></tr>';
+      return;
+    }
+
+    if (titleEl) titleEl.textContent = classData.name;
+    if (subtitleEl) subtitleEl.textContent = `${season.title} • Official RC-Timing Standings`;
+    if (countEl) countEl.textContent = `${classData.total_drivers} Racers`;
+
+    // 1. Render Podium Cards
+    if (podiumEl) {
+      const podium = classData.podium || [];
+      if (podium.length > 0) {
+        const podiumLabels = [
+          { rank: 1, medal: '🏆', title: '1st Place', classMod: 'podium-gold' },
+          { rank: 2, medal: '🥈', title: '2nd Place', classMod: 'podium-silver' },
+          { rank: 3, medal: '🥉', title: '3rd Place', classMod: 'podium-bronze' }
+        ];
+
+        podiumEl.innerHTML = podium.map((p, idx) => {
+          const cfg = podiumLabels[idx] || { rank: idx + 1, medal: '🎖️', title: `${idx + 1}th Place`, classMod: '' };
+          const abilityBadge = p.ability ? `<span class="badge badge-gray" style="font-size: 0.7rem; margin-left: 0.4rem;">${p.ability}</span>` : '';
+          return `
+            <div class="champ-podium-card ${cfg.classMod}" onclick="App.openDriverModal('${p.driver_slug}')">
+              <div class="champ-podium-rank">
+                <span class="champ-podium-medal">${cfg.medal}</span>
+                <span class="champ-podium-title">${cfg.title}</span>
+              </div>
+              <div class="champ-podium-driver">
+                <span class="driver-link">${p.driver}</span>
+                ${abilityBadge}
+              </div>
+              <div class="champ-podium-points">
+                <span class="champ-points-val">${p.points}</span>
+                <span class="champ-points-lbl">points</span>
+              </div>
+            </div>
+          `;
+        }).join('');
+      } else {
+        podiumEl.innerHTML = '';
+      }
+    }
+
+    // 2. Render Standings Table
+    const roundNames = classData.round_names || [];
+    const hasAbility = (classData.standings || []).some(s => s.ability && s.ability.trim() !== '');
+
+    if (theadEl) {
+      let headerHtml = `
+        <th style="width: 55px; text-align: center;">Pos</th>
+        <th>Driver</th>
+        ${hasAbility ? '<th style="text-align: center; width: 75px;">Grade</th>' : ''}
+        <th style="text-align: center; font-weight: 700; color: var(--accent-orange); width: 85px;">Total Pts</th>
+      `;
+      roundNames.forEach(r => {
+        headerHtml += `<th style="text-align: center; width: 65px;">${r}</th>`;
+      });
+      theadEl.innerHTML = headerHtml;
+    }
+
+    if (tbodyEl) {
+      if (!classData.standings || classData.standings.length === 0) {
+        tbodyEl.innerHTML = `<tr><td colspan="${4 + (hasAbility ? 1 : 0) + roundNames.length}" style="text-align: center; color: var(--text-muted); padding: 2rem;">No standings recorded.</td></tr>`;
+        return;
+      }
+
+      tbodyEl.innerHTML = classData.standings.map((s, idx) => {
+        const posDisplay = s.pos;
+        let posBadge = `<span class="pos-badge">${posDisplay}</span>`;
+        if (idx === 0) posBadge = `<span class="pos-badge pos-1">1</span>`;
+        else if (idx === 1) posBadge = `<span class="pos-badge pos-2">2</span>`;
+        else if (idx === 2) posBadge = `<span class="pos-badge pos-3">3</span>`;
+
+        const roundMap = {};
+        (s.rounds || []).forEach(r => {
+          roundMap[r.round] = r;
+        });
+
+        let roundsCells = roundNames.map(rName => {
+          const rObj = roundMap[rName];
+          if (!rObj || rObj.points === undefined || rObj.points === null || rObj.points === "") {
+            return `<td style="text-align: center; color: var(--text-dim);">-</td>`;
+          }
+          if (rObj.dropped) {
+            return `<td style="text-align: center;"><span class="champ-score-dropped" title="Dropped score (${rName})">${rObj.points}*</span></td>`;
+          }
+          if (rObj.points === 0) {
+            return `<td style="text-align: center; color: var(--text-dim);">0</td>`;
+          }
+          return `<td style="text-align: center;"><span class="champ-score-counting">${rObj.points}</span></td>`;
+        }).join('');
+
+        return `
+          <tr>
+            <td style="text-align: center;">${posBadge}</td>
+            <td>
+              <a href="javascript:void(0)" class="driver-link" onclick="App.openDriverModal('${s.driver_slug}')">
+                ${s.driver}
+              </a>
+            </td>
+            ${hasAbility ? `<td style="text-align: center; color: var(--text-muted); font-size: 0.8rem;">${s.ability || '-'}</td>` : ''}
+            <td style="text-align: center; font-weight: 700; color: var(--accent-orange); font-size: 1rem;">
+              ${s.total_points}
+            </td>
+            ${roundsCells}
+          </tr>
+        `;
+      }).join('');
     }
   },
 

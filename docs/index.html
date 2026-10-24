@@ -25,6 +25,9 @@
         <button class="nav-btn active" data-tab="dashboard">
           📊 Dashboard
         </button>
+        <button class="nav-btn" data-tab="championship">
+          🏁 Championship
+        </button>
         <button class="nav-btn" data-tab="drivers">
           🏎️ Drivers
         </button>
@@ -178,7 +181,58 @@
 
     </section>
 
-    <!-- 2. DRIVERS PANEL -->
+    <!-- 2. CHAMPIONSHIP PANEL -->
+    <section id="tab-championship" class="section-panel">
+      <!-- Championship Header & Season Controls -->
+      <div class="controls-bar champ-controls-bar">
+        <div class="filter-group" style="align-items: center; gap: 0.75rem; flex-wrap: wrap;">
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <label for="champ-season-select" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em;">Season:</label>
+            <select id="champ-season-select" class="filter-select" style="min-width: 220px; font-weight: 600;"></select>
+          </div>
+          <span id="champ-status-badge" class="badge">In Progress</span>
+          <span id="champ-rule-badge" class="badge badge-outline">Best 4 Rounds To Count</span>
+        </div>
+        <div id="champ-meta-text" style="font-size: 0.85rem; color: var(--text-dim);">
+          <!-- Updated after round X -->
+        </div>
+      </div>
+
+      <!-- Class Selector Pills -->
+      <div class="class-pills" id="champ-class-pills" style="margin-bottom: 1.5rem;">
+        <!-- Dynamically populated per season -->
+      </div>
+
+      <!-- Class Header -->
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem;">
+        <div>
+          <h2 id="champ-class-title" style="font-size: 1.35rem; font-weight: 700; color: var(--text-bright); margin: 0;">2WD Buggy</h2>
+          <p id="champ-class-subtitle" style="font-size: 0.85rem; color: var(--text-dim); margin-top: 0.25rem;">Official Club Championship Standings</p>
+        </div>
+        <span id="champ-drivers-count" class="badge badge-gray">0 Racers</span>
+      </div>
+
+      <!-- Podium Showcase Cards -->
+      <div id="champ-podium-cards" class="champ-podium-grid">
+        <!-- 1st, 2nd, 3rd place cards -->
+      </div>
+
+      <!-- Championship Standings Table -->
+      <div class="data-table-container">
+        <table class="data-table" id="champ-standings-table">
+          <thead>
+            <tr id="champ-table-headers">
+              <!-- Dynamically populated headers (Pos, Driver, Ability, Total Pts, R1, R2...) -->
+            </tr>
+          </thead>
+          <tbody id="champ-table-body">
+            <!-- Dynamically populated standings rows -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 3. DRIVERS PANEL -->
     <section id="tab-drivers" class="section-panel">
       <div class="controls-bar">
         <div class="search-box">

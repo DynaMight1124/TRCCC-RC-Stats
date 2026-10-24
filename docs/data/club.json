@@ -38,7 +38,7 @@
       "id": 12454,
       "date": "14-Jul-2024",
       "title": "TRCCC 2024 R7",
-      "season": "23/24",
+      "season": "2024",
       "drivers_count": 58,
       "total_laps": 4573,
       "races_count": 385,
@@ -84,7 +84,7 @@
       "id": 20417,
       "date": "28-Jun-2026",
       "title": "TRCCC 2026 R6",
-      "season": "25/26",
+      "season": "2026",
       "drivers_count": 58,
       "total_laps": 5284,
       "races_count": 450,
@@ -130,7 +130,7 @@
       "id": 12520,
       "date": "21-Jul-2024",
       "title": "SW Regional Round 3",
-      "season": "23/24",
+      "season": "2024",
       "drivers_count": 57,
       "total_laps": 4533,
       "races_count": 476,
@@ -175,7 +175,7 @@
       "id": 8615,
       "date": "09-Jul-2023",
       "title": "TRCCC 2023 R6",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 30,
       "laps": 2123
     },
@@ -183,7 +183,7 @@
       "id": 8616,
       "date": "07-Jul-2023",
       "title": "Test Meeting 1",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 1,
       "laps": 22
     },
@@ -191,7 +191,7 @@
       "id": 8780,
       "date": "23-Jul-2023",
       "title": "SW Regionals 2023 R4 TRCCC",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 51,
       "laps": 3688
     },
@@ -199,7 +199,7 @@
       "id": 8969,
       "date": "13-Aug-2023",
       "title": "TRCCC 2023 R7",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 33,
       "laps": 2529
     },
@@ -207,7 +207,7 @@
       "id": 9094,
       "date": "27-Aug-2023",
       "title": "TRCCC 2023 R8",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 33,
       "laps": 2604
     },
@@ -215,7 +215,7 @@
       "id": 9241,
       "date": "10-Sep-2023",
       "title": "TRCCC 2023 R9",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 39,
       "laps": 3260
     },
@@ -223,7 +223,7 @@
       "id": 9387,
       "date": "24-Sep-2023",
       "title": "TRCCC 2023 R10",
-      "season": "22/23",
+      "season": "2023",
       "drivers": 30,
       "laps": 2166
     },
@@ -231,7 +231,7 @@
       "id": 11426,
       "date": "14-Apr-2024",
       "title": "TRCCC 2024 R1",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 51,
       "laps": 3672
     },
@@ -239,7 +239,7 @@
       "id": 11578,
       "date": "27-Apr-2024",
       "title": "TRCCC 2024 R2",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 39,
       "laps": 2699
     },
@@ -247,7 +247,7 @@
       "id": 11731,
       "date": "12-May-2024",
       "title": "TRCCC 2024 R3",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 43,
       "laps": 3716
     },
@@ -255,7 +255,7 @@
       "id": 11819,
       "date": "19-May-2024",
       "title": "TRCCC 2024 R4",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 39,
       "laps": 3276
     },
@@ -263,7 +263,7 @@
       "id": 12039,
       "date": "09-Jun-2024",
       "title": "TRCCC 2024 R5",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 49,
       "laps": 3850
     },
@@ -271,7 +271,7 @@
       "id": 12207,
       "date": "23-Jun-2024",
       "title": "TRCCC 2024 R6",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 46,
       "laps": 3821
     },
@@ -279,7 +279,7 @@
       "id": 12454,
       "date": "14-Jul-2024",
       "title": "TRCCC 2024 R7",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 58,
       "laps": 4573
     },
@@ -287,7 +287,7 @@
       "id": 12520,
       "date": "21-Jul-2024",
       "title": "SW Regional Round 3",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 57,
       "laps": 4533
     },
@@ -295,7 +295,7 @@
       "id": 12603,
       "date": "28-Jul-2024",
       "title": "TRCCC 2024 R8",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 35,
       "laps": 2968
     },
@@ -303,7 +303,7 @@
       "id": 12808,
       "date": "18-Aug-2024",
       "title": "TRCCC 2024 R9",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 42,
       "laps": 3530
     },
@@ -311,7 +311,7 @@
       "id": 12879,
       "date": "25-Aug-2024",
       "title": "TRCCC 2024 R10",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 39,
       "laps": 3170
     },
@@ -319,7 +319,7 @@
       "id": 13024,
       "date": "08-Sep-2024",
       "title": "TRCCC 2024 R11",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 26,
       "laps": 1896
     },
@@ -327,7 +327,7 @@
       "id": 13182,
       "date": "22-Sep-2024",
       "title": "TRCCC 2024 R12",
-      "season": "23/24",
+      "season": "2024",
       "drivers": 30,
       "laps": 2001
     },
@@ -335,7 +335,7 @@
       "id": 15357,
       "date": "12-Apr-2025",
       "title": "TRCCC 2025 R1",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 46,
       "laps": 3255
     },
@@ -343,7 +343,7 @@
       "id": 15516,
       "date": "27-Apr-2025",
       "title": "TRCCC 2025 R2",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 43,
       "laps": 3237
     },
@@ -351,7 +351,7 @@
       "id": 15693,
       "date": "11-May-2025",
       "title": "TRCCC 2025 R3",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 46,
       "laps": 3395
     },
@@ -359,7 +359,7 @@
       "id": 15875,
       "date": "25-May-2025",
       "title": "TRCCC 2025 R4",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 42,
       "laps": 3148
     },
@@ -367,7 +367,7 @@
       "id": 16048,
       "date": "08-Jun-2025",
       "title": "TRCCC 2025 R5",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 28,
       "laps": 2315
     },
@@ -375,7 +375,7 @@
       "id": 16212,
       "date": "22-Jun-2025",
       "title": "TRCCC 2025 R6",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 47,
       "laps": 3250
     },
@@ -383,7 +383,7 @@
       "id": 16295,
       "date": "29-Jun-2025",
       "title": "TRCCC 2025 R7",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 43,
       "laps": 3389
     },
@@ -391,7 +391,7 @@
       "id": 16467,
       "date": "13-Jul-2025",
       "title": "TRCCC 2025 R8",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 51,
       "laps": 4031
     },
@@ -399,7 +399,7 @@
       "id": 16790,
       "date": "10-Aug-2025",
       "title": "TRCCC 2025 R9",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 50,
       "laps": 3772
     },
@@ -407,7 +407,7 @@
       "id": 16935,
       "date": "24-Aug-2025",
       "title": "TRCCC 2025 R10",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 45,
       "laps": 3538
     },
@@ -415,7 +415,7 @@
       "id": 17159,
       "date": "13-Sep-2025",
       "title": "TRCCC 2025 R11",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 22,
       "laps": 1264
     },
@@ -423,7 +423,7 @@
       "id": 17330,
       "date": "28-Sep-2025",
       "title": "TRCCC 2025 R12",
-      "season": "24/25",
+      "season": "2025",
       "drivers": 48,
       "laps": 3756
     },
@@ -431,7 +431,7 @@
       "id": 19520,
       "date": "11-Apr-2026",
       "title": "TRCCC 2026 R1",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 47,
       "laps": 3313
     },
@@ -439,7 +439,7 @@
       "id": 19689,
       "date": "26-Apr-2026",
       "title": "TRCCC 2026 R2",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 54,
       "laps": 3903
     },
@@ -447,7 +447,7 @@
       "id": 19862,
       "date": "10-May-2026",
       "title": "TRCCC 2026 R3",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 57,
       "laps": 4709
     },
@@ -455,7 +455,7 @@
       "id": 20010,
       "date": "24-May-2026",
       "title": "TRCCC 2026 R4",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 46,
       "laps": 3665
     },
@@ -463,7 +463,7 @@
       "id": 20261,
       "date": "14-Jun-2026",
       "title": "TRCCC 2026 R5",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 48,
       "laps": 4080
     },
@@ -471,7 +471,7 @@
       "id": 20417,
       "date": "28-Jun-2026",
       "title": "TRCCC 2026 R6",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 58,
       "laps": 5284
     },
@@ -479,7 +479,7 @@
       "id": 20581,
       "date": "12-Jul-2026",
       "title": "TRCCC 2026 R7",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 50,
       "laps": 4317
     },
@@ -487,7 +487,7 @@
       "id": 20730,
       "date": "26-Jul-2026",
       "title": "TRCCC 2026 R8",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 40,
       "laps": 3263
     },
@@ -495,7 +495,7 @@
       "id": 20885,
       "date": "09-Aug-2026",
       "title": "TRCCC 2026 R9",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 47,
       "laps": 4188
     },
@@ -503,7 +503,7 @@
       "id": 21039,
       "date": "23-Aug-2026",
       "title": "TRCCC 2026 R10",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 43,
       "laps": 3835
     },
@@ -511,7 +511,7 @@
       "id": 21272,
       "date": "13-Sep-2026",
       "title": "TRCCC 2026 R11",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 31,
       "laps": 2571
     },
@@ -519,7 +519,7 @@
       "id": 21436,
       "date": "27-Sep-2026",
       "title": "TRCCC 2026 R12",
-      "season": "25/26",
+      "season": "2026",
       "drivers": 35,
       "laps": 3034
     }

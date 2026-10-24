@@ -35,14 +35,25 @@ def slugify(name: str) -> str:
     return slug.strip('-')
 
 def extract_season(meeting_title: str, date_str: str) -> str:
-    """Extract season from meeting title (e.g. '25/26 Winter Series Round 5') or date."""
-    match = re.search(r'(\d{2}\/\d{2})', meeting_title)
+    """Extract season from meeting title (e.g. '25/26 Winter Series Round 5' or 'TRCCC 2024') or date."""
+    # 1. 2-digit season pair: e.g. "25/26" or "25-26"
+    match = re.search(r'(\d{2}[\/\-]\d{2})', meeting_title)
     if match:
-        return match.group(1)
-    # Fallback to year from date: e.g. "01-Oct-2023"
+        return match.group(1).replace('-', '/')
+
+    # 2. 4-digit year in title: e.g. "TRCCC 2024 R1" or "Summer 2025"
+    match_yr_title = re.search(r'\b(20\d{2})\b', meeting_title)
+    if match_yr_title:
+        return match_yr_title.group(1)
+
+    # 3. Fallback to year from date: e.g. "01-Oct-2023"
     match_year = re.search(r'20(\d{2})', date_str)
     if match_year:
         yr = int(match_year.group(1))
+        month_match = re.search(r'[A-Za-z]+', date_str)
+        month = month_match.group(0).lower() if month_match else ""
+        if month in ("apr", "may", "jun", "jul", "aug", "sep"):
+            return f"20{yr:02d}"
         return f"{yr-1}/{yr}"
     return "Open"
 
@@ -178,6 +189,101 @@ class StatsAggregator:
 
         # Sort meetings chronologically (by meeting ID or date)
         self.raw_meetings.sort(key=lambda m: m["id"])
+
+    def build_championships(self) -> Dict[str, Any]:
+        """Aggregate championship standings across all seasons."""
+        season_meetings = defaultdict(list)
+        for m in self.raw_meetings:
+            if m.get("championship") and m["championship"].get("classes"):
+                s = extract_season(m.get("title", ""), m.get("date", ""))
+                season_meetings[s].append(m)
+
+        if not season_meetings:
+            return {"current_season_id": "", "seasons": []}
+
+        def season_sort_key(s_str):
+            nums = re.findall(r'\d+', s_str)
+            if len(nums) == 2:
+                return int(nums[0]) + (2000 if int(nums[0]) < 100 else 0)
+            elif len(nums) == 1:
+                return int(nums[0])
+            return 0
+
+        sorted_seasons = sorted(season_meetings.keys(), key=season_sort_key, reverse=True)
+        class_order = {"2WD Buggy": 1, "4WD Buggy": 2, "Stadium Trucks": 3, "Vintage / Rear Motor": 4}
+
+        seasons_output = []
+        for idx, s in enumerate(sorted_seasons):
+            m_list = sorted(season_meetings[s], key=lambda x: x["id"])
+            latest_m = m_list[-1]
+            champ = latest_m["championship"]
+
+            s_title = champ.get("title")
+            if not s_title or not s_title.strip():
+                s_title = f"{s} Championship"
+            else:
+                s_title = s_title.strip()
+
+            is_current = (idx == 0)
+            status = "In Progress" if is_current else "Final Standings"
+
+            classes_list = []
+            for raw_cname, cinfo in sorted(champ.get("classes", {}).items()):
+                cname = normalize_class_name(raw_cname, self.class_aliases)
+                standings = []
+                for d in cinfo.get("standings", []):
+                    d_name = d["driver"]
+                    standings.append({
+                        "pos": d["pos"],
+                        "driver": d_name,
+                        "driver_slug": slugify(d_name),
+                        "ability": d.get("ability", ""),
+                        "total_points": d["total_points"],
+                        "rounds": d.get("rounds", [])
+                    })
+
+                podium = [
+                    {
+                        "pos": d["pos"],
+                        "driver": d["driver"],
+                        "driver_slug": d["driver_slug"],
+                        "points": d["total_points"],
+                        "ability": d["ability"]
+                    }
+                    for d in standings[:3]
+                ]
+
+                classes_list.append({
+                    "name": cname,
+                    "raw_name": raw_cname,
+                    "round_names": cinfo.get("round_names", []),
+                    "total_drivers": len(standings),
+                    "podium": podium,
+                    "standings": standings
+                })
+
+            classes_list.sort(key=lambda c: (class_order.get(c["name"], 99), c["name"]))
+            season_id = slugify(s)
+
+            seasons_output.append({
+                "id": season_id,
+                "season": s,
+                "title": s_title,
+                "status": status,
+                "is_current": is_current,
+                "rule": champ.get("rule", ""),
+                "latest_meeting_id": latest_m["id"],
+                "latest_meeting_title": latest_m["title"],
+                "latest_meeting_date": latest_m["date"],
+                "total_meetings_in_season": len(m_list),
+                "classes": classes_list
+            })
+
+        current_id = seasons_output[0]["id"] if seasons_output else ""
+        return {
+            "current_season_id": current_id,
+            "seasons": seasons_output
+        }
 
     def process(self):
         print("[Aggregator] Processing raw meeting data...")
@@ -719,6 +825,12 @@ class StatsAggregator:
         with open(os.path.join(DOCS_DATA_DIR, "h2h.json"), "w", encoding="utf-8") as f:
             json.dump(h2h_list, f, indent=2)
         print(f"[Aggregator] Saved docs/data/h2h.json ({len(h2h_list)} rivalry matchups)")
+
+        # Save Championship Data
+        championships_data = self.build_championships()
+        with open(os.path.join(DOCS_DATA_DIR, "championships.json"), "w", encoding="utf-8") as f:
+            json.dump(championships_data, f, indent=2)
+        print(f"[Aggregator] Saved docs/data/championships.json ({len(championships_data['seasons'])} seasons)")
 
         print("[Aggregator] Aggregation successfully finished!")
 
