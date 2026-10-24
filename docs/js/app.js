@@ -706,9 +706,9 @@ const App = {
       pillsContainer.innerHTML = classes.map(c => {
         const isActive = c.name === this.selectedChampClass ? 'active' : '';
         return `
-          <button class="pill-btn ${isActive}" onclick="App.selectChampionshipClass('${c.name.replace(/'/g, "\\'")}')">
-            ${c.name}
-            <span style="opacity: 0.7; font-size: 0.75rem; margin-left: 0.35rem;">(${c.total_drivers})</span>
+          <button class="pill-btn ${isActive}" data-class="${c.name}" onclick="App.selectChampionshipClass('${c.name.replace(/'/g, "\\'")}')">
+            <span>${c.name}</span>
+            <span class="pill-badge">${c.total_drivers}</span>
           </button>
         `;
       }).join('');
@@ -722,7 +722,7 @@ const App = {
     const season = (this.data.championships.seasons || []).find(s => s.id === this.selectedChampSeasonId) || this.data.championships.seasons[0];
     if (season) {
       document.querySelectorAll('#champ-class-pills .pill-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.textContent.trim().startsWith(className));
+        btn.classList.toggle('active', btn.dataset.class === className);
       });
       this.renderChampionshipClass(season, className);
     }
@@ -866,7 +866,7 @@ const App = {
 
     // Render Class Tab buttons
     classTabsContainer.innerHTML = classNames.map(c => `
-      <button class="nav-btn ${c === this.selectedClassTab ? 'active' : ''}" 
+      <button class="pill-btn ${c === this.selectedClassTab ? 'active' : ''}" 
               data-class="${c}" 
               onclick="App.selectClassTab(this.dataset.class)">
         ${c}
@@ -878,7 +878,7 @@ const App = {
 
   selectClassTab(className) {
     this.selectedClassTab = className;
-    document.querySelectorAll('#class-tabs-bar .nav-btn').forEach(btn => {
+    document.querySelectorAll('#class-tabs-bar .pill-btn').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.class === className);
     });
     this.renderSelectedClassContent();
